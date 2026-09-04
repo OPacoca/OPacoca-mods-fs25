@@ -1,5 +1,5 @@
 {
-  "nome_mapa": "Recanto da Alvorada",
+  "nome": "Recanto da Alvorada",
   "descricao": "Mapa focado na agricultura brasileira com lavouras gigantes",
   "arquivo": "FS25_Recanto_da_Alvorada",
   "url": "https://cdn26.giants-software.com/modHub/storage/00372514/FS25_Recanto_da_Alvorada.zip",
@@ -9,56 +9,56 @@
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_JactoArbus2000Tower",
       "url": "https://cdn26.giants-software.com/modHub/storage/00362626/FS25_JactoArbus2000Tower.zip"
-    }
-	{
+    },
+    {
       "nome": "Jacto Arbus 4000",
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_JactoArbus4000",
       "url": "https://cdn26.giants-software.com/modHub/storage/00370417/FS25_JactoArbus4000.zip"
-    }
-	{
+    },
+    {
       "nome": "Jacto Meridia 200",
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_JactoMeridia",
       "url": "https://cdn26.giants-software.com/modHub/storage/00371174/FS25_JactoMeridia.zip"
-    }
-	{
-      "nome": "Jacto KTR 3000 ",
+    },
+    {
+      "nome": "Jacto KTR 3000",
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_JactoKTR3000",
       "url": "https://cdn26.giants-software.com/modHub/storage/00371460/FS25_JactoKTR3000.zip"
-    }
-	{
+    },
+    {
       "nome": "Jacto K3000",
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_JactoK3000",
       "url": "https://cdn26.giants-software.com/modHub/storage/00371462/FS25_JactoK3000.zip"
-    }
-	{
+    },
+    {
       "nome": "Colombo C600",
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_ColomboC600",
       "url": "https://cdn26.giants-software.com/modHub/storage/00371795/FS25_ColomboC600.zip"
-    }
-	{
+    },
+    {
       "nome": "Colombo Twin Master Peanut",
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_Colombo_TwinMasterPeanut",
       "url": "https://cdn26.giants-software.com/modHub/storage/00371803/FS25_Colombo_TwinMasterPeanut.zip"
-    }
-	{
+    },
+    {
       "nome": "Colombo CTA6500",
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_Colombo_CTA6500",
       "url": "https://cdn26.giants-software.com/modHub/storage/00371806/FS25_Colombo_CTA6500.zip"
-    }
-	{
+    },
+    {
       "nome": "Colombo Avanti C410",
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_Colombo_AvantiC410",
       "url": "https://cdn26.giants-software.com/modHub/storage/00371984/FS25_Colombo_AvantiC410.zip"
-    }
-	{
+    },
+    {
       "nome": "Jacto K3500",
       "descricao": "Necessário para a estrutura do mapa carregar",
       "arquivo": "FS25_Jacto_K3500",
