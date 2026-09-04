@@ -147,5 +147,14 @@
         "categoria": "Placeable - Sheds",
         "arquivo": "FS25_OldBrazilianShed",
         "url": "https://cdn27.giants-software.com/modHub/storage/00305072/FS25_OldBrazilianShed.zip"
+    },
+    {
+        "nome": "Fazenda leiteira automatizada 400",
+        "descricao": "Mod do KingMods.",
+        "categoria": "KingMods",
+        "arquivo": "fazenda_leiteira_automatizada_400",
+        "url": "https://www.kingmods.net/pt/fs25/mods/78625/fazenda-leiteira-automatizada-400",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/automated-dairy-farm-400-fs25-DmVH3.jpg",
+        "fonte": "kingmods"
     }
 ]
