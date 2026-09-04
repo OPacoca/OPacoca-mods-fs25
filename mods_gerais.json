@@ -119,5 +119,12 @@
         "categoria": "Jogabilidade",
         "arquivo": "FS25_rememberPositions",
         "url": "https://cdn25.giants-software.com/modHub/storage/00307452/FS25_rememberPositions.zip"
+    },
+    {
+        "nome": "Brazilian Cow Pen With Loader",
+        "descricao": "Curral de gado típico brasileiro, com rampa de carregamento, cercado para vacas com pilha de esterco personalizado - Categoria: currais para animais",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Brazilian_Cow_Pen_With_Loader",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00354929/FS25_Brazilian_Cow_Pen_With_Loader.zip"
     }
 ]
