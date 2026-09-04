@@ -1,0 +1,20 @@
+{
+  "nome_mapa": "BR 163",
+  "descricao": "Mapa focado na agricultura brasileira com lavouras gigantes",
+  "arquivo": "FS25_BR163_Brazil",
+  "url": "https://cdn26.giants-software.com/modHub/storage/00328276/FS25_BR163_Brazil.zip",
+  "mods_obrigatorios": [
+    {
+      "nome": "Posto de Gasolina BR",
+      "descricao": "Necessário para a estrutura do mapa carregar",
+      "arquivo": "FS25_GasStationBR",
+      "url": "https://cdn26.giants-software.com/modHub/storage/00306784/FS25_GasStationBR.zip"
+    }
+	{
+      "nome": "Mega Silo",
+      "descricao": "Necessário para a estrutura do mapa carregar",
+      "arquivo": "FS25_Mega_Silo",
+      "url": "https://cdn26.giants-software.com/modHub/storage/00307759/FS25_Mega_Silo.zip"
+    }
+  ]
+}
