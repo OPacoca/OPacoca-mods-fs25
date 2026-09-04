@@ -91,5 +91,12 @@
         "categoria": "Jogabilidade",
         "arquivo": "FS25_LicensePlateRandomizer",
         "url": "https://cdn25.giants-software.com/modHub/storage/00358677/FS25_LicensePlateRandomizer.zip"
+    },
+    {
+        "nome": "Brazilian Old Houses Pack",
+        "descricao": "Casa de tijolos - Preço: $ 11.000 Casa pequena de madeira - Preço: $ 8.500 Casa simples de madeira - Preço: $ 7.500 Casa de madeira com varanda - Preço: $ 13.000",
+        "categoria": "Placeable - Farmhouses",
+        "arquivo": "FS25_BrazilianOldHousesPack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00364655/FS25_BrazilianOldHousesPack.zip"
     }
 ]
