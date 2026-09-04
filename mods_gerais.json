@@ -84,5 +84,12 @@
         "categoria": "Placeable - Farmhouses",
         "arquivo": "FS25_BrazilianOldHousesPack",
         "url": "https://cdn25.giants-software.com/modHub/storage/00364655/FS25_BrazilianOldHousesPack.zip"
+    },
+    {
+        "nome": "Brazilian Houses Pack",
+        "descricao": "Pacote completo (Brazilian Houses Pack) contendo construções e itens detalhados para o FS25.",
+        "categoria": "Placeable - Farmhouses",
+        "arquivo": "FS25_BrazilianHousesPack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00364654/FS25_BrazilianHousesPack.zip"
     }
 ]
