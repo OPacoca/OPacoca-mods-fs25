@@ -77,12 +77,5 @@
         "categoria": "Jogabilidade",
         "arquivo": "FS25_Vehicle_Years",
         "url": "https://cdn27.giants-software.com/modHub/storage/00308890/FS25_Vehicle_Years.zip"
-    },
-    {
-        "nome": "Unload Bales Early",
-        "descricao": "Este mod permite descarregar fardos inacabados antecipadamente. Dependendo do tipo de enfardadeira, é necessário ligá-la ou desligá-la para que isso funcione.",
-        "categoria": "Jogabilidade",
-        "arquivo": "FS25_UnloadBalesEarly",
-        "url": "https://cdn27.giants-software.com/modHub/storage/00303420/FS25_UnloadBalesEarly.zip"
     }
 ]
