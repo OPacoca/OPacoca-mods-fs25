@@ -126,5 +126,12 @@
         "categoria": "Placeable - Animal Pens",
         "arquivo": "FS25_Brazilian_Cow_Pen_With_Loader",
         "url": "https://cdn27.giants-software.com/modHub/storage/00354929/FS25_Brazilian_Cow_Pen_With_Loader.zip"
+    },
+    {
+        "nome": "Brazilian Cow Barn",
+        "descricao": "Celeiro para vacas em estilo brasileiro com design tradicional e área de carga - Categoria: Cow Barns - Capacidade padrão: 2.000 animais",
+        "categoria": "Package",
+        "arquivo": "FS25_Brazilian_cow_barn",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00342140/FS25_Brazilian_cow_barn.zip"
     }
 ]
