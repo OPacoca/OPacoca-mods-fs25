@@ -17,7 +17,20 @@
       "descricao": "Veiculo",
       "arquivo": "FS25_lowRumbler",
       "url": "https://cdn26.giants-software.com/modHub/storage/00320726/FS25_lowRumbler.zip"
+    },
+	{
+      "nome": "Cortador de Grama Manual",
+      "descricao": "Carrinho manual de cortar grama",
+      "arquivo": "FS25_LizardLawnMower",
+      "url": "https://cdn27.giants-software.com/modHub/storage/00308954/FS25_LizardLawnMower.zip"
+    },
+	{
+      "nome": "Cortador de Grama Trator JohnDeere 330",
+      "descricao": "Carrinho manual de cortar grama",
+      "arquivo": "FS25_JohnDeere_330_LawnTractor",
+      "url": "https://cdn25.giants-software.com/modHub/storage/00323372/FS25_JohnDeere_330_LawnTractor.zip"
     }
+	
   ],
   "mapas_disponiveis": [
     {
