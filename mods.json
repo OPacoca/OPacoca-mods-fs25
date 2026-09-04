@@ -1,8 +1,5 @@
-
-  "mods_gerais": "https://raw.githubusercontent.com/OPacoca/OPacoca-mods-fs25/main/mods_gerais.json",
-  "mapas_disponiveis": [
-    
-  ],
+{
+  "mods_gerais": "https://raw.githubusercontent.com/OPacoca/OPacoca-mods-fs25/refs/heads/main/mods_gerais.json",
   "mapas_disponiveis": [
     {
       "nome_mapa": "Recando da Alvorada",
