@@ -70,5 +70,12 @@
         "descricao": "Ferramenta de testes para criadores e jogadores ajustarem configurações e mecânicas de jogo.",
         "arquivo": "FS25_EasyDevControls",
         "url": "https://cdn25.giants-software.com/modHub/storage/00324487/FS25_EasyDevControls.zip"
+    },
+    {
+        "nome": "Vehicle Years",
+        "descricao": "Modificação Vehicle Years: adiciona anos, controle de idade e desgaste customizado aos veículos para o Farming Simulator 25.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_Vehicle_Years",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00308890/FS25_Vehicle_Years.zip"
     }
 ]
