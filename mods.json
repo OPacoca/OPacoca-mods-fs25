@@ -11,6 +11,12 @@
       "descricao": "Carregamento automático de fardos e paletes",
       "arquivo": "FS25_Chicken_Coop_B",
       "url": "https://cdn25.giants-software.com/modHub/storage/00328698/FS25_Chicken_Coop_Br.zip"
+    },
+    {
+      "nome": "Rumblw Pack",
+      "descricao": "Veiculo",
+      "arquivo": "FS25_lowRumbler",
+      "url": "https://cdn26.giants-software.com/modHub/storage/00320726/FS25_lowRumbler.zip"
     }
   ],
   "mapas_disponiveis": [
