@@ -1,74 +1,80 @@
 [
-  {
-    "nome": "Autoload Universal",
-    "descricao": "Carregamento automático de fardos e paletes",
-    "arquivo": "FS25_UniversalAutoload",
-    "url": "https://cdn25.giants-software.com/modHub/storage/00325409/FS25_UniversalAutoload.zip"
-  },
-  {
-    "nome": "Granja BR",
-    "descricao": "Carregamento automático de fardos e paletes",
-    "arquivo": "FS25_Chicken_Coop_B",
-    "url": "https://cdn25.giants-software.com/modHub/storage/00328698/FS25_Chicken_Coop_Br.zip"
-  },
-  {
-    "nome": "Rumblw Pack",
-    "descricao": "Veiculo",
-    "arquivo": "FS25_lowRumbler",
-    "url": "https://cdn26.giants-software.com/modHub/storage/00320726/FS25_lowRumbler.zip"
-  },
-  {
-    "nome": "Cortador de Grama Manual",
-    "descricao": "Carrinho manual de cortar grama",
-    "arquivo": "FS25_LizardLawnMower",
-    "url": "https://cdn27.giants-software.com/modHub/storage/00308954/FS25_LizardLawnMower.zip"
-  },
-  {
-    "nome": "Cortador de Grama Trator JohnDeere 330",
-    "descricao": "Carrinho manual de cortar grama",
-    "arquivo": "FS25_JohnDeere_330_LawnTractor",
-    "url": "https://cdn25.giants-software.com/modHub/storage/00323372/FS25_JohnDeere_330_LawnTractor.zip"
-  },
-  {
-    "nome": "Animais somente Trailer",
-    "descricao": "Força o transporte realista de animais, os animais só viajam em reboques de gado.",
-    "arquivo": "FS25_AnimalsTrailerOnly",
-    "url": "https://cdn26.giants-software.com/modHub/storage/00361419/FS25_AnimalsTrailerOnly.zip"
-  },
-  {
-    "nome": "Dinheiro Adicional",
-    "descricao": "Converte o dinheiro para o Real Brasileiro",
-    "arquivo": "FS25_additionalCurrencies",
-    "url": "https://cdn25.giants-software.com/modHub/storage/00307219/FS25_additionalCurrencies.zip"
-  },
-  {
-    "nome": "Carrefour",
-    "descricao": "Adiciona Mercado Carrefour",
-    "arquivo": "FS25_CarrefourPack",
-    "url": "https://cdn26.giants-software.com/modHub/storage/00350833/FS25_CarrefourPack.zip"
-  },
-  {
-    "nome": "Real Dirt Color",
-    "descricao": "Real Dirt Color altera a cor da sujeira de todos os veículos/ferramentas para o ambiente circundante.",
-    "arquivo": "FS25_realDirtColor",
-    "url": "https://cdn26.giants-software.com/modHub/storage/00307474/FS25_realDirtColor.zip"
-  },
-  {
-    "nome": "Realistic Milking Times",
-    "descricao": "As vacas forneceram leite apenas 1x cedo e 1x a tarde",
-    "arquivo": "FS25_RDM_RealisticMilkingTime",
-    "url": "https://cdn25.giants-software.com/modHub/storage/00303654/FS25_RDM_RealisticMilkingTime.zip"
-  },
-  {
-    "nome": "Precision Farming",
-    "descricao": "Obtém um aumento no realismo da agricultura com novos recursos e mecânica de jogo aprofundada",
-    "arquivo": "FS25_precisionFarming",
-    "url": "https://cdn26.giants-software.com/modHub/storage/00318936/FS25_precisionFarming.zip"
-  },
-  {
-    "nome": "Easy Development Controls",
-    "descricao": "Ferramenta de testes para criadores e jogadores ajustarem configurações e mecânicas de jogo.",
-    "arquivo": "FS25_EasyDevControls",
-    "url": "https://cdn25.giants-software.com/modHub/storage/00324487/FS25_EasyDevControls.zip"
-  }
+    {
+        "nome": "Autoload Universal",
+        "descricao": "Carregamento automático de fardos e paletes",
+        "arquivo": "FS25_UniversalAutoload",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00325409/FS25_UniversalAutoload.zip"
+    },
+    {
+        "nome": "Granja BR",
+        "descricao": "Carregamento automático de fardos e paletes",
+        "arquivo": "FS25_Chicken_Coop_B",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00328698/FS25_Chicken_Coop_Br.zip"
+    },
+    {
+        "nome": "Rumblw Pack",
+        "descricao": "Veiculo",
+        "arquivo": "FS25_lowRumbler",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00320726/FS25_lowRumbler.zip"
+    },
+    {
+        "nome": "Cortador de Grama Manual",
+        "descricao": "Carrinho manual de cortar grama",
+        "arquivo": "FS25_LizardLawnMower",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00308954/FS25_LizardLawnMower.zip"
+    },
+    {
+        "nome": "Cortador de Grama Trator JohnDeere 330",
+        "descricao": "Carrinho manual de cortar grama",
+        "arquivo": "FS25_JohnDeere_330_LawnTractor",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00323372/FS25_JohnDeere_330_LawnTractor.zip"
+    },
+    {
+        "nome": "Animais somente Trailer",
+        "descricao": "Força o transporte realista de animais, os animais só viajam em reboques de gado.",
+        "arquivo": "FS25_AnimalsTrailerOnly",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00361419/FS25_AnimalsTrailerOnly.zip"
+    },
+    {
+        "nome": "Dinheiro Adicional",
+        "descricao": "Converte o dinheiro para o Real Brasileiro",
+        "arquivo": "FS25_additionalCurrencies",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00307219/FS25_additionalCurrencies.zip"
+    },
+    {
+        "nome": "Carrefour",
+        "descricao": "Adiciona Mercado Carrefour",
+        "arquivo": "FS25_CarrefourPack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00350833/FS25_CarrefourPack.zip"
+    },
+    {
+        "nome": "Real Dirt Color",
+        "descricao": "Real Dirt Color altera a cor da sujeira de todos os veículos/ferramentas para o ambiente circundante.",
+        "arquivo": "FS25_realDirtColor",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00307474/FS25_realDirtColor.zip"
+    },
+    {
+        "nome": "Realistic Milking Times",
+        "descricao": "As vacas forneceram leite apenas 1x cedo e 1x a tarde",
+        "arquivo": "FS25_RDM_RealisticMilkingTime",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00303654/FS25_RDM_RealisticMilkingTime.zip"
+    },
+    {
+        "nome": "Precision Farming",
+        "descricao": "Obtém um aumento no realismo da agricultura com novos recursos e mecânica de jogo aprofundada",
+        "arquivo": "FS25_precisionFarming",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00318936/FS25_precisionFarming.zip"
+    },
+    {
+        "nome": "Easy Development Controls",
+        "descricao": "Ferramenta de testes para criadores e jogadores ajustarem configurações e mecânicas de jogo.",
+        "arquivo": "FS25_EasyDevControls",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00324487/FS25_EasyDevControls.zip"
+    },
+    {
+        "nome": "Hillux 2013",
+        "descricao": "Welcome to the official website of Farming Simulator, the #1 farming simulation game by GIANTS Software.",
+        "arquivo": "FS25_LizardHillux2013",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00367401/FS25_LizardHillux2013.zip"
+    }
 ]
