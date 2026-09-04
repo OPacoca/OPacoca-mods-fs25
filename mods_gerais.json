@@ -98,5 +98,12 @@
         "categoria": "Placeable - Farmhouses",
         "arquivo": "FS25_BrazilianOldHousesPack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00364655/FS25_BrazilianOldHousesPack.zip"
+    },
+    {
+        "nome": "Realistic Cab View",
+        "descricao": "Descrição: Este mod foi projetado para adicionar realismo à visão em primeira pessoa do interior dos veículos.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_CabView",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00303900/FS25_CabView.zip"
     }
 ]
