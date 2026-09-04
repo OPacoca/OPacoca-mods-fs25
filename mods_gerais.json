@@ -150,7 +150,7 @@
     },
     {
         "nome": "Fazenda leiteira automatizada 400",
-        "descricao": "Mod do KingMods.",
+        "descricao": "Uma fazenda de vacas automatizada.",
         "categoria": "KingMods",
         "arquivo": "fazenda_leiteira_automatizada_400",
         "url": "https://www.kingmods.net/pt/fs25/mods/78625/fazenda-leiteira-automatizada-400",
@@ -159,7 +159,7 @@
     },
     {
         "nome": "Pecuária realista RM",
-        "descricao": "Substitui os agrupamentos simples de animais do FS25 por animais rastreados individualmente - cada um com genética, reprodução, doenças e características de produção únicas.",
+        "descricao": "Sistema de criacao de animal realista.",
         "categoria": "KingMods",
         "arquivo": "pecuária_realista_rm",
         "url": "https://www.kingmods.net/pt/fs25/mods/74109/pecuaria-realista-rm",
@@ -168,7 +168,7 @@
     },
     {
         "nome": "Dacia Duster",
-        "descricao": "Mod do KingMods.",
+        "descricao": "Renault Duster.",
         "categoria": "KingMods",
         "arquivo": "dacia_duster",
         "url": "https://www.kingmods.net/pt/fs25/mods/71103/dacia-duster",
@@ -177,7 +177,7 @@
     },
     {
         "nome": "Produção de peixe",
-        "descricao": "Mod do KingMods.",
+        "descricao": "Adiciona uma fabrica com tanques de peixes",
         "categoria": "KingMods",
         "arquivo": "produção_de_peixe",
         "url": "https://www.kingmods.net/pt/fs25/mods/59682/producao-de-peixe",
@@ -186,7 +186,7 @@
     },
     {
         "nome": "Custos de combustível realistas",
-        "descricao": "Na agricultura real, o gasóleo é um dos maiores custos operacionais – até 50% das despesas variáveis ​​numa exploração agrícola.",
+        "descricao": "Adiciona valor no combustivel",
         "categoria": "KingMods",
         "arquivo": "custos_de_combustível_realistas",
         "url": "https://modsfire.com/d/Cu5DiCXXaVdw90q",
