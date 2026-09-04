@@ -1,14 +1,12 @@
 [
   {
     "nome": "Autoload",
+    "arquivo": "FS25_UniversalAutoload",
     "url": "https://cdn25.giants-software.com/modHub/storage/00325409/FS25_UniversalAutoload.zip"
   },
   {
     "nome": "Caminhão Scania NTG 540",
-    "url": "https://cdn.exemplo.com/mods/FS25_Scania_NTG.zip"
-  },
-  {
-    "nome": "Mapa Fazenda Sul do Brasil",
-    "url": "https://cdn.exemplo.com/mods/FS25_Mapa_Brasil.zip"
+    "arquivo": "FS25_Scania_NTG",
+    "url": "https://meusite.com/downloads/FS25_Scania_NTG.zip"
   }
 ]
