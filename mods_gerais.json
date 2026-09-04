@@ -105,5 +105,12 @@
         "categoria": "Jogabilidade",
         "arquivo": "FS25_CabView",
         "url": "https://cdn26.giants-software.com/modHub/storage/00303900/FS25_CabView.zip"
+    },
+    {
+        "nome": "Server Player Count",
+        "descricao": "Mostra a contagem atual de jogadores diretamente no HUD em servidores multijogador.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ServerPlayerCount",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00364299/FS25_ServerPlayerCount.zip"
     }
 ]
