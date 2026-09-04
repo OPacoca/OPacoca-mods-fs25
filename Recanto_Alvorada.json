@@ -1,14 +1,14 @@
 {
-  "nome_mapa": "Fazenda Sul do Brasil",
+  "nome_mapa": "Recanto da Alvorada",
   "descricao": "Mapa focado na agricultura brasileira com lavouras gigantes",
-  "arquivo": "FS25_FazendaSulBrasil",
-  "url": "https://meusite.com/downloads/FS25_FazendaSulBrasil.zip",
+  "arquivo": "FS25_Recanto_da_Alvorada",
+  "url": "https://cdn26.giants-software.com/modHub/storage/00372514/FS25_Recanto_da_Alvorada.zip",
   "mods_obrigatorios": [
     {
-      "nome": "Pack de Galpões BR",
+      "nome": "Jacto Arbus 2000",
       "descricao": "Necessário para a estrutura do mapa carregar",
-      "arquivo": "FS25_PackGalpoesBR",
-      "url": "https://meusite.com/downloads/FS25_PackGalpoesBR.zip"
+      "arquivo": "FS25_JactoArbus2000Towe",
+      "url": "https://cdn26.giants-software.com/modHub/storage/00362626/FS25_JactoArbus2000Tower.zip"
     }
   ]
 }
