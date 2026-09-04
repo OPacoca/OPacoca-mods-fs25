@@ -133,5 +133,12 @@
         "categoria": "Package",
         "arquivo": "FS25_Brazilian_cow_barn",
         "url": "https://cdn25.giants-software.com/modHub/storage/00342140/FS25_Brazilian_cow_barn.zip"
+    },
+    {
+        "nome": "South Brazil Silos Package",
+        "descricao": "Pacote Silos Sul do Brasil Silos de armazenamento e secagem de grãos típicos da região Sul do Brasil.",
+        "categoria": "Placeable - Grain silos",
+        "arquivo": "FS25_South_Brazil_Silos_Package",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00308009/FS25_South_Brazil_Silos_Package.zip"
     }
 ]
