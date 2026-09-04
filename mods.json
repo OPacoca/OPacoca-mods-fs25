@@ -29,7 +29,20 @@
       "descricao": "Carrinho manual de cortar grama",
       "arquivo": "FS25_JohnDeere_330_LawnTractor",
       "url": "https://cdn25.giants-software.com/modHub/storage/00323372/FS25_JohnDeere_330_LawnTractor.zip"
+    },
+	{
+      "nome": "Animais somente Trailer",
+      "descricao": "Força o transporte realista de animais, os animais só viajam em reboques de gado.",
+      "arquivo": "FS25_AnimalsTrailerOnly",
+      "url": "https://cdn26.giants-software.com/modHub/storage/00361419/FS25_AnimalsTrailerOnly.zip"
+    },
+	{
+      "nome": "Dinheiro Adicional",
+      "descricao": "Converte o dinheiro para o Real Brasileiro",
+      "arquivo": "FS25_additionalCurrencies",
+      "url": "https://cdn25.giants-software.com/modHub/storage/00307219/FS25_additionalCurrencies.zip"
     }
+	
   ],
   "mapas_disponiveis": [
     {
