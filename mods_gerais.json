@@ -174,5 +174,14 @@
         "url": "https://www.kingmods.net/pt/fs25/mods/71103/dacia-duster",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/dacia-duster-fs25-QsTYF.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Produção de peixe",
+        "descricao": "Mod do KingMods.",
+        "categoria": "KingMods",
+        "arquivo": "produção_de_peixe",
+        "url": "https://www.kingmods.net/pt/fs25/mods/59682/producao-de-peixe",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/fish-production-fs25-WmYw5.jpg",
+        "fonte": "kingmods"
     }
 ]
