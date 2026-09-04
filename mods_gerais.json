@@ -192,5 +192,14 @@
         "url": "https://www.kingmods.net/pt/fs25/mods/77178/custos-de-combustivel-realistas",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/realistic-fuel-costs-fs25-u0fSu.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Umbreon Valley",
+        "descricao": "O lendário mapa florestal retorna – evoluído, expandido e reimaginado para Farming Simulator 25.",
+        "categoria": "North American Maps",
+        "arquivo": "FS25_UmbreonValley",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00342503/FS25_UmbreonValley.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
