@@ -140,5 +140,12 @@
         "categoria": "Placeable - Grain silos",
         "arquivo": "FS25_South_Brazil_Silos_Package",
         "url": "https://cdn27.giants-software.com/modHub/storage/00308009/FS25_South_Brazil_Silos_Package.zip"
+    },
+    {
+        "nome": "Old Brazilian Shed",
+        "descricao": "Um antigo galpão para sua pequena fazenda. Acomoda seu maquinário ou insumos.",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_OldBrazilianShed",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00305072/FS25_OldBrazilianShed.zip"
     }
 ]
