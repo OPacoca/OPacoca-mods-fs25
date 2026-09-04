@@ -1,28 +1,16 @@
-[
-  {
-    "nome": "Autoload",
-    "arquivo": "FS25_UniversalAutoload",
-    "url": "https://cdn25.giants-software.com/modHub/storage/00325409/FS25_UniversalAutoload.zip"
-  },
-  {
-    "nome": "Granja BR",
-    "arquivo": "FS25_Chicken_Coop_B",
-    "url": "https://cdn25.giants-software.com/modHub/storage/00328698/FS25_Chicken_Coop_Br.zip"
-  }
-]
-
 {
   "mods_gerais": [
     {
-    "nome": "Autoload",
-    "arquivo": "FS25_UniversalAutoload",
-    "url": "https://cdn25.giants-software.com/modHub/storage/00325409/FS25_UniversalAutoload.zip"
-  },
-  {
-    "nome": "Granja BR",
+      "nome": "Autoload Universal",
+      "descricao": "Carregamento automático de fardos e paletes",
+      "arquivo": "FS25_UniversalAutoload",
+      "url": "https://cdn25.giants-software.com/modHub/storage/00325409/FS25_UniversalAutoload.zip"
+    },
+    {
+      "nome": "Granja BR",
     "arquivo": "FS25_Chicken_Coop_B",
     "url": "https://cdn25.giants-software.com/modHub/storage/00328698/FS25_Chicken_Coop_Br.zip"
-  }
+    }
   ],
   "mapas_disponiveis": [
     {
