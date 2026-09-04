@@ -156,5 +156,14 @@
         "url": "https://www.kingmods.net/pt/fs25/mods/78625/fazenda-leiteira-automatizada-400",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/automated-dairy-farm-400-fs25-DmVH3.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Pecuária realista RM",
+        "descricao": "Substitui os agrupamentos simples de animais do FS25 por animais rastreados individualmente - cada um com genética, reprodução, doenças e características de produção únicas.",
+        "categoria": "KingMods",
+        "arquivo": "pecuária_realista_rm",
+        "url": "https://www.kingmods.net/pt/fs25/mods/74109/pecuaria-realista-rm",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/realistic-livestock-rm-fs25-aLzCp.jpg",
+        "fonte": "kingmods"
     }
 ]
