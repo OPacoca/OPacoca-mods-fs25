@@ -87,21 +87,21 @@
     },
     {
         "nome": "License Plate Randomizer",
-        "descricao": "Cada veículo que você compra no Farming Simulator 25 sai do lote com a mesma placa padrão. Compre três tratores, dois reboques e uma colheitadeira e todos compartilham uma placa idêntica.",
+        "descricao": "Gera placas realistas e exclusivas automaticamente para os veículos comprados na loja",
         "categoria": "Jogabilidade",
         "arquivo": "FS25_LicensePlateRandomizer",
         "url": "https://cdn25.giants-software.com/modHub/storage/00358677/FS25_LicensePlateRandomizer.zip"
     },
     {
         "nome": "Brazilian Old Houses Pack",
-        "descricao": "Casa de tijolos - Preço: $ 11.000 Casa pequena de madeira - Preço: $ 8.500 Casa simples de madeira - Preço: $ 7.500 Casa de madeira com varanda - Preço: $ 13.000",
+        "descricao": "Pack de casas rurais antigas típicas do Sul do Brasil",
         "categoria": "Placeable - Farmhouses",
         "arquivo": "FS25_BrazilianOldHousesPack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00364655/FS25_BrazilianOldHousesPack.zip"
     },
     {
         "nome": "Realistic Cab View",
-        "descricao": "Descrição: Este mod foi projetado para adicionar realismo à visão em primeira pessoa do interior dos veículos.",
+        "descricao": "Este mod foi projetado para adicionar realismo à visão em primeira pessoa do interior dos veículos.",
         "categoria": "Jogabilidade",
         "arquivo": "FS25_CabView",
         "url": "https://cdn26.giants-software.com/modHub/storage/00303900/FS25_CabView.zip"
