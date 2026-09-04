@@ -1,0 +1,14 @@
+{
+  "nome_mapa": "Fazenda Sul do Brasil",
+  "descricao": "Mapa focado na agricultura brasileira com lavouras gigantes",
+  "arquivo": "FS25_FazendaSulBrasil",
+  "url": "https://meusite.com/downloads/FS25_FazendaSulBrasil.zip",
+  "mods_obrigatorios": [
+    {
+      "nome": "Pack de Galpões BR",
+      "descricao": "Necessário para a estrutura do mapa carregar",
+      "arquivo": "FS25_PackGalpoesBR",
+      "url": "https://meusite.com/downloads/FS25_PackGalpoesBR.zip"
+    }
+  ]
+}
