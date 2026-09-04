@@ -70,5 +70,11 @@
         "descricao": "Ferramenta de testes para criadores e jogadores ajustarem configurações e mecânicas de jogo.",
         "arquivo": "FS25_EasyDevControls",
         "url": "https://cdn25.giants-software.com/modHub/storage/00324487/FS25_EasyDevControls.zip"
+    },
+    {
+        "nome": "Hillux 2013",
+        "descricao": "Welcome to the official website of Farming Simulator, the #1 farming simulation game by GIANTS Software.",
+        "arquivo": "FS25_LizardHillux2013",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00367401/FS25_LizardHillux2013.zip"
     }
 ]
