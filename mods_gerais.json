@@ -84,5 +84,12 @@
         "categoria": "Jogabilidade",
         "arquivo": "FS25_UnloadBalesEarly",
         "url": "https://cdn27.giants-software.com/modHub/storage/00303420/FS25_UnloadBalesEarly.zip"
+    },
+    {
+        "nome": "License Plate Randomizer",
+        "descricao": "Cada veículo que você compra no Farming Simulator 25 sai do lote com a mesma placa padrão.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_LicensePlateRandomizer",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00358677/FS25_LicensePlateRandomizer.zip"
     }
 ]
