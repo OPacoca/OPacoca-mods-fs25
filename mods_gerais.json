@@ -165,5 +165,14 @@
         "url": "https://www.kingmods.net/pt/fs25/mods/74109/pecuaria-realista-rm",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/realistic-livestock-rm-fs25-aLzCp.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Dacia Duster",
+        "descricao": "Mod do KingMods.",
+        "categoria": "KingMods",
+        "arquivo": "dacia_duster",
+        "url": "https://www.kingmods.net/pt/fs25/mods/71103/dacia-duster",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/dacia-duster-fs25-QsTYF.jpg",
+        "fonte": "kingmods"
     }
 ]
