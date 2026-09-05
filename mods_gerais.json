@@ -792,5 +792,14 @@
         "url": "https://download1320.mediafire.com/ow96rj0q6u1ghWqHQnhMkH1XT6mBfDAEd_5YLbUAvjZ15_hIJnIzFb4aOTncV2dWhoSGnrQs6c1NrBBc_RjtLD_aHKKVtD8CXsJ0V2C0norksvmV_oW9wkSJf_kBpfiafKI6ibiOGY4k4LVugoLX2EYMDj-V1uNt-IHcxbhVpvIXo6g/wo25my5a47fj444/FS25_RealisticFogEvents.zip",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/realistic-fog-events-fs25-2gmM6.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Advanced Damage System",
+        "descricao": "Advanced Damage System, mod de Scripts para Farming Simulator 25, com 🚜 Sistema avançado de danos (ADS) e ⚡ Guia rápido.",
+        "categoria": "Scripts",
+        "arquivo": "FS25_AdvancedDamageSystem",
+        "url": "https://github.com/id577/FS25_AdvancedDamageSystem/releases/download/v0.9.2.8/FS25_AdvancedDamageSystem.zip",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/advanced-damage-system-fs25-0xxpS.jpg",
+        "fonte": "kingmods"
     }
 ]
