@@ -196,11 +196,11 @@
     {
         "nome": "Pomar e Indústria de Sucos",
         "descricao": "Adicione uma nova linha de produção  de fruticultura e fabricação de sucos",
-        "categoria": "KingMods",
-        "arquivo": "pomar_e_indústria_de_sucos",
-        "url": "https://drive.usercontent.google.com/download?id=1NJHBhT9q-97swHQqSPndeI9KCUQ4_Olg&export=download&authuser=0",
-        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/orchard-and-juice-industry-fs25-gJfmm.jpg",
-        "fonte": "kingmods"
+        "categoria": "Construcoes",
+        "arquivo": "FS25_orchard_build",
+        "url": "https://download1588.mediafire.com/gsotta2f65qgbFjlTa5ax4eqSFGoQqgvt6e3Qc65Z44rt8YwLMccmZdGd1E1zf_ifhwrfyoSnK3Tpj8OfGoZ3wbM5ywyl08opZuKmzBAIDeeZaItrr8Fbn1B2NtnHsoc8WMncK0bTVizw4G9cC096tSSSekI9EEhAvRpVY-91QWHctI/qwdl5nvyh44ihw1/FS25_orchard_build.zip",
+        "fonte": "kingmods",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/orchard-and-juice-industry-fs25-gJfmm.jpg"
     },
     {
         "nome": "Ford F150",
