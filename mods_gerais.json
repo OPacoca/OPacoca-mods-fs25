@@ -873,5 +873,32 @@
         "url": "https://download1347.mediafire.com/8s4svsknivwgOHS3vmwRRkatNLQuKhD14RinayxQDTwFDd3jd93Qemx6vJslNds7rHLvB9ejEMw-sSJxFv7Lm4zdfybqdX-KVdULqlbaJgXQBt1cFwq0g9L-1YkzMfBOq1gHlqgwOvqKW9hkG5zogF05PXBjtfQmxcHj14f7mgrPJZ8/9af2e82cw3h7nco/FS25_FruitOrchid.zip",
         "fonte": "kingmods",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/fruit-tree-plantation-fs25-NDvYP.jpg"
+    },
+    {
+        "nome": "Ranger 2017",
+        "descricao": "A Ranger é muito elogiada mundialmente por ser uma picape confiável, robusta e tecnologicamente avançada.",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_Ranger2017",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00346114/FS25_Ranger2017.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Street 2022",
+        "descricao": "Uma excelente pickup para o seu trabalho diário, Pequena, Leve e Barata!",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_LizardStreet",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00323690/FS25_LizardStreet.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Balkan Pig Barn",
+        "descricao": "Celeiro de porcos dos Balcãs. Capacidade 20 porcos O celeiro precisa de ração, água e palha.",
+        "categoria": "Objects - Animals",
+        "arquivo": "FS25_Balkan_PigBarn",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00357117/FS25_Balkan_PigBarn.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
