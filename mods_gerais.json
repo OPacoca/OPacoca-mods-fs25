@@ -1959,5 +1959,45 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=323694&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Scania T11X",
+        "descricao": "Scania T112 Um caminhão estilo sul-americano, mas com algumas opções para se assemelhar ao estilo de outros países.",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_SCANIA_T11X",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00354882/FS25_SCANIA_T11X.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=354882&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Scania RJL",
+        "descricao": "Scania RJLR Um caminhão estilo sul-americano, mas com algumas opções para se assemelhar ao estilo de outros países.",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_SCANIA_RJL",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00339712/FS25_SCANIA_RJL.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339712&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Chevrolet Silverado 6500",
+        "descricao": "O Silverado 6500 atende às diversas atividades de transporte em sua fazenda, com suas opções de personalização você pode deixá-lo do jeito que mais gosta",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_Chevrolet_Silverado_6500",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00331826/FS25_Chevrolet_Silverado_6500.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331826&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Ford F1000 1998",
+        "descricao": "O F-1000 atravessou gerações e ainda está vivo e bem, fazendo o seu trabalho.",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_FordF1000_1998",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00357678/FS25_FordF1000_1998.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=357678&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
