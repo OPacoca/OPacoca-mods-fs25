@@ -699,5 +699,14 @@
         "url": "https://modsto.c1d2c6bdc154bcedfadd5265533e6727.r2.cloudflarestorage.com/2025-01-19/Sa4b678d219a473b0/FS25_MB1313_Farias.zip?response-content-disposition=attachment%3B%20filename%3D%22FS25_MB1313_Farias.zip%22&response-content-type=application%2Foctet-stream&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=394bb9fccae5c843741c45f3861468ed%2F20260905%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260905T041126Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Signature=62418ba9a9e171172aaa566c9591e12d716419fb60faf62ca7f5c2679ad93013",
         "fonte": "kingmods",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/mercedes-benz-1313-fs25-TYGZR.jpg"
+    },
+    {
+        "nome": "Pack Carroceria Mercedes Benz ATRON",
+        "descricao": "Pack Carroceria Mercedes Benz ATRON, mod de trechos de um filme para Farming Simulator 25, com kit de carroceria Mercedes-Benz ATRON e ⚙️ CONFIGURAÇÕES.",
+        "categoria": "trechos de um filme",
+        "arquivo": "FS25_PackCarroceria_MB",
+        "url": "https://download2274.mediafire.com/h2j4d91kzrogjw2egPJsOPljnxGf2GNaghgumFWq2cQHozQ8pQp4o5XP_cUp2b-yDhEdFL0CZXPb-Q6utfJafkKJJ-I5jI8KM3ydpKbWVsYuSp4du3Po-xzBEzhSByqq_3d5YDFBrGJiNKvM-CimMpEn_no7w2eFmt_dc0YFnCsnov0/5vtklnby3ofi57i/FS25_PackCarroceria_MB.zip",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/mercedes-benz-atron-body-pack-fs25-GPPdh.jpg",
+        "fonte": "kingmods"
     }
 ]
