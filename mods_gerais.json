@@ -900,5 +900,14 @@
         "url": "https://cdn27.giants-software.com/modHub/storage/00357117/FS25_Balkan_PigBarn.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Lizard HL Trailer",
+        "descricao": "Lizard HL Trailer / HL trailer Wood Pode ser utilizado para transporte de grãos, paletes ou animais.",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_LizardHL_trailer",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00308051/FS25_LizardHL_trailer.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
