@@ -909,5 +909,14 @@
         "url": "https://cdn27.giants-software.com/modHub/storage/00308051/FS25_LizardHL_trailer.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Automatic Water For Animals And Greenhouses",
+        "descricao": "Não se preocupe mais com água! O progresso chegou e agora existem canos de água na sua fazenda.",
+        "categoria": "Placeable - Silo Extensions",
+        "arquivo": "FS25_AutomaticWater_Animals_Greenhouses",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00321344/FS25_AutomaticWater_Animals_Greenhouses.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
