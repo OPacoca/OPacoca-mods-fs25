@@ -774,5 +774,14 @@
         "url": "https://download939.mediafire.com/54tgxoh0u4bgZ6r_wG3fRghYN4gK73jSUdEgGmSM-CpLQsoOwyd0GlvlSsrwG32-gt4zADZuqyIoiUB36jNNM3SHtSSyWJ2ZlQDgR6iIduMwUYdPRHr8QZTerUI-hsgDJX9-q0n7uf02Hm7lmyED9TaooJnQrGNIeLkKDBOAvtigIBw/cffhbi0mes5rd5s/FS25_CustomerHayOrders_BETA_v0992_INPUTFIX.zip",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/custom-hay-orders-fs25-KO9VT.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "More Realistic",
+        "descricao": "More Realistic, mod de Scripts para Farming Simulator 25, com história mais realista.",
+        "categoria": "Scripts",
+        "arquivo": "main",
+        "url": "https://github.com/quadural/MoreRealistic_FS25/archive/refs/heads/main.zip",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/more-realistic-fs25-r6HXK.jpg",
+        "fonte": "kingmods"
     }
 ]
