@@ -18,12 +18,6 @@
         "url": "https://cdn26.giants-software.com/modHub/storage/00320726/FS25_lowRumbler.zip"
     },
     {
-        "nome": "Cortador de Grama Manual",
-        "descricao": "Carrinho manual de cortar grama",
-        "arquivo": "FS25_LizardLawnMower",
-        "url": "https://cdn27.giants-software.com/modHub/storage/00308954/FS25_LizardLawnMower.zip"
-    },
-    {
         "nome": "Cortador de Grama Trator JohnDeere 330",
         "descricao": "Carrinho manual de cortar grama",
         "arquivo": "FS25_JohnDeere_330_LawnTractor",
@@ -46,12 +40,6 @@
         "descricao": "Adiciona Mercado Carrefour",
         "arquivo": "FS25_CarrefourPack",
         "url": "https://cdn26.giants-software.com/modHub/storage/00350833/FS25_CarrefourPack.zip"
-    },
-    {
-        "nome": "Real Dirt Color",
-        "descricao": "Real Dirt Color altera a cor da sujeira de todos os veículos/ferramentas para o ambiente circundante.",
-        "arquivo": "FS25_realDirtColor",
-        "url": "https://cdn26.giants-software.com/modHub/storage/00307474/FS25_realDirtColor.zip"
     },
     {
         "nome": "Realistic Milking Times",
@@ -121,32 +109,11 @@
         "url": "https://cdn25.giants-software.com/modHub/storage/00307452/FS25_rememberPositions.zip"
     },
     {
-        "nome": "Brazilian Cow Pen With Loader",
-        "descricao": "Curral de gado típico brasileiro, com rampa de carregamento, cercado para vacas com pilha de esterco personalizado - Categoria: currais para animais",
-        "categoria": "Placeable - Animal Pens",
-        "arquivo": "FS25_Brazilian_Cow_Pen_With_Loader",
-        "url": "https://cdn27.giants-software.com/modHub/storage/00354929/FS25_Brazilian_Cow_Pen_With_Loader.zip"
-    },
-    {
         "nome": "Brazilian Cow Barn",
         "descricao": "Celeiro para vacas em estilo brasileiro com design tradicional e área de carga - Categoria: Cow Barns - Capacidade padrão: 2.000 animais",
         "categoria": "Package",
         "arquivo": "FS25_Brazilian_cow_barn",
         "url": "https://cdn25.giants-software.com/modHub/storage/00342140/FS25_Brazilian_cow_barn.zip"
-    },
-    {
-        "nome": "South Brazil Silos Package",
-        "descricao": "Pacote Silos Sul do Brasil Silos de armazenamento e secagem de grãos típicos da região Sul do Brasil.",
-        "categoria": "Placeable - Grain silos",
-        "arquivo": "FS25_South_Brazil_Silos_Package",
-        "url": "https://cdn27.giants-software.com/modHub/storage/00308009/FS25_South_Brazil_Silos_Package.zip"
-    },
-    {
-        "nome": "Old Brazilian Shed",
-        "descricao": "Um antigo galpão para sua pequena fazenda. Acomoda seu maquinário ou insumos.",
-        "categoria": "Placeable - Sheds",
-        "arquivo": "FS25_OldBrazilianShed",
-        "url": "https://cdn27.giants-software.com/modHub/storage/00305072/FS25_OldBrazilianShed.zip"
     },
     {
         "nome": "Fazenda leiteira automatizada",
@@ -345,5 +312,356 @@
         "url": "https://download1501.mediafire.com/hfs570tk8t7gUN4d7MJAnANwr80yskPywJkrmI2JKWIUEV-88ds24BzeWTPFqnqfGbowF2T0zct-MfJBgrW7piE5BGzOoywBfN8KoiKIUHoKUYAclyJfOW2mEPW7FajoXC85wrlv3mRAhgNf7K8g6Gu23LJxfrgU6LHlQOcAmg8LehA/xqus4y4b1nh9d9d/FS25_NoTab.zip",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/no-tab-fs25-LAJHl.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Southern Brazil Shed",
+        "descricao": "Galpão Sul do Brasil Um típico galpão do Sul do Brasil, de estilo rústico e robusto, ideal para guardar seus maquinários.",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_Southern_Brazil_shed",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00333986/FS25_Southern_Brazil_shed.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Brazilian Cow Corral",
+        "descricao": "“O Curral Brasileiro é um celeiro aberto onde você pode criar seus animais livremente, mantendo assim uma boa produção de leite.",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Brazilian_cow_corral",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00336544/FS25_Brazilian_cow_corral.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Brazilian Cow Pen With Loader",
+        "descricao": "Curral de gado típico brasileiro, com rampa de carregamento, cercado para vacas com pilha de esterco personalizado - Categoria: currais para animais",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Brazilian_Cow_Pen_With_Loader",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00354929/FS25_Brazilian_Cow_Pen_With_Loader.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "South Brazil Silos Package",
+        "descricao": "Pacote Silos Sul do Brasil Silos de armazenamento e secagem de grãos típicos da região Sul do Brasil.",
+        "categoria": "Placeable - Grain silos",
+        "arquivo": "FS25_South_Brazil_Silos_Package",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00308009/FS25_South_Brazil_Silos_Package.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Brazilian Pigsty",
+        "descricao": "Um pack com dois modelos de pocilgas, com opção de instalação de pocilgas sem cercas, permitindo a criação livre dos animais no campo - Custo: 14000$ - Manutenção: 25$/dia",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_pigBarn_BR",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00323413/FS25_pigBarn_BR.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Brazilian Trailer",
+        "descricao": "Simplesmente um carrinho feito à mão. Feito de madeira e aço soldado, ajuda de diversas maneiras.",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_Trailer_Carretinha_br",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00309534/FS25_Trailer_Carretinha_br.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Old Brazilian Shed",
+        "descricao": "Um antigo galpão para sua pequena fazenda. Acomoda seu maquinário ou insumos.",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_OldBrazilianShed",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00305072/FS25_OldBrazilianShed.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Rounder Wrapped Round Bales",
+        "descricao": "Este mod substitui a aparência dos fardos redondos padrão por uma forma mais arredondada, irregular e realista após o fardo ter sido embrulhado.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_RounderWrappedRoundbales",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00302812/FS25_RounderWrappedRoundbales.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Shop Sorting",
+        "descricao": "Este Mod classifica a Loja e a Loja do modo Construção de acordo com o Preço.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ShopSorting",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00302968/FS25_ShopSorting.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Bunker Silo HUD",
+        "descricao": "O Bunker Silo HUD Mod adiciona um pequeno HUD, que será exibido quando você entrar em um bunker silo.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_BunkerSiloHUD",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00303907/FS25_BunkerSiloHUD.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "TidyShop: ModTitles",
+        "descricao": "Melhora a forma como os títulos de mod são exibidos na loja.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_TidyShop_ModTitles",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00310789/FS25_TidyShop_ModTitles.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Extended Game Infodisplay",
+        "descricao": "Expande o GameInfoDisplay atual no canto superior direito, exibindo o ano atual abaixo da data e um recurso de temperatura com um indicador se a temperatura está caindo, permanecendo constante ou aumentando, a exibição da temperatura atual.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ExtendedGameInfoDisplay",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00306015/FS25_ExtendedGameInfoDisplay.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Store Search",
+        "descricao": "Adiciona uma função de pesquisa à loja do jogo. Pressionar a tecla F (configurável) quando o menu da loja estiver aberto exibirá uma caixa de diálogo de pesquisa.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ShopSearch",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00310641/FS25_ShopSearch.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Time Saving Stock Check",
+        "descricao": "Verificação de estoque que economiza tempo Cansado de se perguntar onde está todo o trigo que você colheu, seu valor, quando vender e o que você pode ganhar com ele?",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_TSStockCheck",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00302852/FS25_TSStockCheck.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Place Fences Anywhere",
+        "descricao": "Você já quis colocar cercas... ...",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_PlaceFencesAnywhere",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00310518/FS25_PlaceFencesAnywhere.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Manual Attach",
+        "descricao": "Este mod obriga você a anexar/desconectar ferramentas e reboques manualmente.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_manualAttach",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00340627/FS25_manualAttach.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Cut Open Bale",
+        "descricao": "Este mod permite que você abra um fardo e derrame seu conteúdo no chão.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_CutOpenBale",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00317263/FS25_CutOpenBale.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Real Autosave",
+        "descricao": "Quantas vezes você jogou com o salvamento automático ativado, mas ficou muito tempo sem iniciar o menu, o jogo travou e você perdeu o salvamento?",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_realAutosave",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00322539/FS25_realAutosave.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Use Up Your Tyres",
+        "descricao": "Use-up-Your-Tyres leva sua experiência de direção e manutenção de veículos a outro nível.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_useYourTyres",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00321793/FS25_useYourTyres.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Improved Production Distribution",
+        "descricao": "Distribuição de produção aprimorada Interrompe a distribuição para produções inativas.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ImprovedProductionDistribution",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00326416/FS25_ImprovedProductionDistribution.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Move Husbandry Animals",
+        "descricao": "Você é um agricultor que ficou frustrado porque seus animais não estão mais reproduzindo porque a área de criação atingiu a capacidade máxima?",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_MoveHusbandryAnimals",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00334794/FS25_MoveHusbandryAnimals.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Interactive Control",
+        "descricao": "'Controle Interativo' é um mod de script global para Farming Simulator 25.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_interactiveControl",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00323135/FS25_interactiveControl.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Construction Search",
+        "descricao": "Adiciona uma poderosa funcionalidade de pesquisa ao menu de construção.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_constructionSearch",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00348966/FS25_constructionSearch.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Improved Exhaust Effects",
+        "descricao": "Melhora os efeitos do fumo de escape de veículos motorizados: - Escurece o fumo em veículos sem AdBlue (excepto veículos eléctricos e movidos a metano) - A quantidade de fumo varia dependendo da temperatura do motor - A carga do motor também...",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ImprovedExhaustEffects",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00316137/FS25_ImprovedExhaustEffects.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Real Dirt Color",
+        "descricao": "Real Dirt Color altera a cor da sujeira de todos os veículos/ferramentas para o ambiente circundante.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_realDirtColor",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00307474/FS25_realDirtColor.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Neighbors On The Fields",
+        "descricao": "Este mod gera veículos agrícolas em campos estrangeiros que realizam trabalho de campo lá.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_WorkingNeighborOnField",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00352835/FS25_WorkingNeighborOnField.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Used Sales Time Left",
+        "descricao": "Na loja de venda de veículos usados ​​você encontrará ótimas ofertas em equipamentos usados.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_UsedSalesTimeLeft",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00357880/FS25_UsedSalesTimeLeft.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Seasonal Wool Production",
+        "descricao": "Substitui o sistema de lã contínua baunilha por um modelo realista de tosquia semestral.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_SeasonalWoolProduction",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00356143/FS25_SeasonalWoolProduction.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Moisture System",
+        "descricao": "Sistema de umidade Transforme sua experiência agrícola com um sofisticado sistema de simulação de umidade e qualidade que traz realismo e profundidade estratégica ao Farming Simulator 25.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_MoistureSystem",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00354130/FS25_MoistureSystem.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Extended Input Help",
+        "descricao": "Este script garante que as telas de ajuda selecionadas permaneçam visíveis mesmo quando o menu F1 estiver fechado.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_extendedInputHelp",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00358909/FS25_extendedInputHelp.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Garage Menu",
+        "descricao": "Menu Garagem Um menu simples para visualizar seus veículos próprios e alugados, semelhante ao visto no FS22.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_GarageMenu",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00316411/FS25_GarageMenu.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Additional Game Settings",
+        "descricao": "Este mod adiciona uma nova guia de configurações ao menu de pausa.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_additionalGameSettings",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00308552/FS25_additionalGameSettings.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Longer Lasting Mud",
+        "descricao": "Lama mais duradoura. Este mod adiciona uma opção de jogo que permite controlar quanto tempo a lama deve permanecer visível nas rodas, usando um multiplicador linear.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_LongerLastingMud",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00325232/FS25_LongerLastingMud.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Enhanced Color Selection",
+        "descricao": "Este mod aprimora as opções de seleção de cores para veículos, adicionando cores padrão adicionais (por exemplo, usadas para \"Cor Principal\"), bem como adicionando algumas opções adicionais para cores de aro.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_EnhancedColorSelection",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00350782/FS25_EnhancedColorSelection.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Hand Lawn Mower",
+        "descricao": "O cortador de grama manual permitirá que você corte a grama perto de sua casa e em áreas de difícil acesso -",
+        "categoria": "Grassland - Mowers",
+        "arquivo": "FS25_LizardLawnMower",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00308954/FS25_LizardLawnMower.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Husqvarna TS146XK",
+        "descricao": "Os cortadores de grama Husqvarna foram projetados para realizar o trabalho.",
+        "categoria": "Grassland - Mowers",
+        "arquivo": "FS25_Husqvarna_TS146XK",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00315264/FS25_Husqvarna_TS146XK.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "John Deere 56",
+        "descricao": "Categoria: Cortadores",
+        "categoria": "Grassland - Mowers",
+        "arquivo": "FS25_JohnDeere56",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00350434/FS25_JohnDeere56.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Fish Farming",
+        "descricao": "Comece sua piscicultura colocando a quantidade de tanques que desejar.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_FishFarming",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00311892/FS25_FishFarming.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Soil Compaction",
+        "descricao": "A compactação do solo adiciona compactação realista do solo.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_SoilCompaction",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00368629/FS25_SoilCompaction.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
