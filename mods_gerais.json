@@ -2007,5 +2007,125 @@
         "url_pagina": "https://www.kingmods.net/pt/fs25/mods/81481/case-ih-pack",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/case-ih-pack-fs25-WiAvD.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "JCB 8030 ZTS Excavator",
+        "descricao": "Miniescavadeira JCB 8030 ZTS 3.2T Fabricada de 2006 a 2020, esta pequena escavadeira é perfeita para pequenas áreas.",
+        "categoria": "Forestry - Excavators",
+        "arquivo": "FS25_JCB_8030_Excavator",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00351873/FS25_JCB_8030_Excavator.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=351873&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "JCB Teletruk",
+        "descricao": "JCB Teletruk Em 1997, a JCB desenvolveu uma empilhadeira exclusiva com lança telescópica em vez de mastro vertical convencional.",
+        "categoria": "Loaders - Forklifts",
+        "arquivo": "FS25_JCB_Teletruk",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00310825/FS25_JCB_Teletruk.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=310825&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "JCB Backhoe Loader",
+        "descricao": "Esta máquina pode ser usada para carregar mercadorias diferentes.",
+        "categoria": "Loaders - Front Loader Vehicles",
+        "arquivo": "FS25_JCBBackhoeLoader",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00309652/FS25_JCBBackhoeLoader.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=309652&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Valtra A3F",
+        "descricao": "A Série Valtra A3F é uma linha de tratores compactos e estreitos (pomar/vinha) desenvolvidos para culturas de alta densidade.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_ValtraA3F",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00370414/FS25_ValtraA3F.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=370414&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Valmet 1102-1103",
+        "descricao": "Em 1979, o Valmet 1102 foi atualizado com um novo esquema de cores amarelo brilhante e um pequeno aumento na potência.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_valmet110X",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00342676/FS25_valmet110X.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=342676&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Valmetal Maxx-Trac Dura-Tech",
+        "descricao": "Valmetal Maxx-Trac Dura-Tech PROJETADO PARA TRANSPORTADORES PROFISSIONAIS O que importa é fazer o trabalho rapidamente.",
+        "categoria": "Yield Improvements - Manure Spreaders",
+        "arquivo": "FS25_Maxx_Trac_Dura_Tech",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00316973/FS25_Maxx_Trac_Dura_Tech.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=316973&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Manure Lagoon",
+        "descricao": "Lagoa de Estrume Esta lagoa permite armazenar grandes quantidades de esterco líquido perto de sua fazenda.",
+        "categoria": "Placeable - Storages",
+        "arquivo": "FS25_ManureLagoon",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00317064/FS25_ManureLagoon.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=317064&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Valmetal Maxx-10 Lagoon Pump",
+        "descricao": "Turbina híbrida Valmetal Maxx-10 Lagoon Pump Pumpeller O Pumpeller de 10 polegadas opera com extraordinária eficiência de combustível, fornecendo taxas de fluxo muito altas com potência muito baixa.",
+        "categoria": "Yield Improvements - Slurry Tools",
+        "arquivo": "FS25_Lagoon_Pump",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00316974/FS25_Lagoon_Pump.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=316974&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Schäffer 222",
+        "descricao": "A Schäffer 222 é uma carregadeira agrícola compacta e manobrável com 25 cv, largura de cerca de 85 cm e carga basculante de aproximadamente 850 kg, projetada principalmente para uso em espaços de trabalho apertados na agricultura e na fazenda.",
+        "categoria": "Loaders - Front Loaders",
+        "arquivo": "FS25_Schaeffer222",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00371080/FS25_Schaeffer222.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=371080&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Valtra T Series CVT South America",
+        "descricao": "A linha de tratores pesados ​​Valtra Série T é equipada com transmissão CVT, exclusiva da marca para a faixa de potência de fábrica de 195 a 250 CV.",
+        "categoria": "Drivables - Medium Tractors",
+        "arquivo": "FS25_Valtra_T_Series_CVT",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00328982/FS25_Valtra_T_Series_CVT.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=328982&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Pack Of Two Modern Farmhouses",
+        "descricao": "Um pack de duas casas modernas para colocar na sua quinta.",
+        "categoria": "Package",
+        "arquivo": "FS25_PackOfTwoModernFarmhouses",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00368331/FS25_PackOfTwoModernFarmhouses.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368331&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Crop Destruction Overhaul",
+        "descricao": "Revisão da destruição de colheitas Assuma o controle do seu impacto no campo com um sistema de destruição de colheitas completamente redesenhado.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_CropDestructionOverhaul",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00356527/FS25_CropDestructionOverhaul.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=356527&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
