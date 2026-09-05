@@ -1919,5 +1919,35 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331930&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Placeable Gas Station",
+        "descricao": "Posto de gasolina posicionável e placa de posto de gasolina Loja de posto de gasolina Categoria: Posicionável, Ferramentas",
+        "categoria": "Placeable - Diesel Tanks",
+        "arquivo": "FS25_GasStation_Green",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00351173/FS25_GasStation_Green.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=351173&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Equipment Compare",
+        "descricao": "Adiciona uma ferramenta de comparação leve à loja de veículos e equipamentos.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_EquipmentCompare",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00367578/FS25_EquipmentCompare.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=367578&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "JCB 435S",
+        "descricao": "JCB 435S – Potência imparável, agora ainda melhor Carga útil: 5.632 kg Máx.",
+        "categoria": "Loaders - Wheel Loaders",
+        "arquivo": "FS25_JCB_435S",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00350762/FS25_JCB_435S.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=350762&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
