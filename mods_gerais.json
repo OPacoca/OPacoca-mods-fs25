@@ -291,5 +291,14 @@
         "url": "https://download844.mediafire.com/ui10371dr9mg49oTCTupw_bO7356x8ff8AUFv2gYrTN2WZikEtMhzy0El1jGOHD4hal3sab7-PknZrLITSldyVdaxahML2xIKFa8o3NBCZB9-D93d9q3nZxeUhm6J_Q3nG59507O0jz1yaCTmUoYHwROsleqVETpLX2fVmI_RecWlro/fvmeoxv3g2dzoem/FS25_HydroponicGreenhouse.zip",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/hydroponic-greenhouse-herb-cultivation-fs25-yfVRJ.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Gas Station BR",
+        "descricao": "Posto de gasolina estilo brasileiro. Posto de gasolina 1:",
+        "categoria": "Placeable - Diesel Tanks",
+        "arquivo": "FS25_GasStationBR",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00306784/FS25_GasStationBR.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
