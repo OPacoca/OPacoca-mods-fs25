@@ -188,10 +188,10 @@
         "nome": "Custos de combustível realistas",
         "descricao": "Adiciona valor no combustivel",
         "categoria": "KingMods",
-        "arquivo": "custos_de_combustível_realistas",
-        "url": "https://modsfire.com/d/Cu5DiCXXaVdw90q",
-        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/realistic-fuel-costs-fs25-u0fSu.jpg",
-        "fonte": "kingmods"
+        "arquivo": "FS25_FuelCosts",
+        "url": "https://www.mediafire.com/file/svtmtb9l1e5t6xw/FS25_FuelCosts.zip/file",
+        "fonte": "kingmods",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/realistic-fuel-costs-fs25-u0fSu.jpg"
     },
     {
         "nome": "Pomar e Indústria de Sucos",
