@@ -663,5 +663,14 @@
         "url": "https://cdn27.giants-software.com/modHub/storage/00368629/FS25_SoilCompaction.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Ford F250 BR",
+        "descricao": "Ford F250 BR, mod de Carros para Farming Simulator 25, com pickup Ford F250 e opicional de pelicula.",
+        "categoria": "Carros",
+        "arquivo": "FS25_FordF250BR",
+        "url": "https://smeast1.5a7ade8d78df76bddb33a5f57aa7d05e.r2.cloudflarestorage.com/uploads/08688/d44umt6kv6n6?response-content-disposition=attachment%3B%20filename%3D%22FS25_F250.zip%22&X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=18c46457eb0857f70746e9902912d787%2F20260905%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260905T035828Z&X-Amz-SignedHeaders=host&X-Amz-Signature=3785410f3bb0f511e991d78a7d67d29593024242f79f0db1e7cf467cbfcfa18b",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/ford-f250-br-fs25-bV9GJ.jpg",
+        "fonte": "kingmods"
     }
 ]
