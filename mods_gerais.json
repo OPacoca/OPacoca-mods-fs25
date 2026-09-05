@@ -747,5 +747,14 @@
         "url": "https://cdn25.giants-software.com/modHub/storage/00367401/FS25_LizardHillux2013.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Física do Sistema de Lama",
+        "descricao": "Física do Sistema de Lama, mod de Scripts para Farming Simulator 25, com comportamento da roda e aderência superficial.",
+        "categoria": "Scripts",
+        "arquivo": "FS25_FísicadoSistemadeLama",
+        "url": "https://modsfire.com/d/2e2gDnTG8dc50uz",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/mud-system-physics-fs25-zrmoR.jpg",
+        "fonte": "kingmods"
     }
 ]
