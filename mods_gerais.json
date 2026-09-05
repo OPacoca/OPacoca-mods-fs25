@@ -801,5 +801,14 @@
         "url": "https://github.com/id577/FS25_AdvancedDamageSystem/releases/download/v0.9.2.8/FS25_AdvancedDamageSystem.zip",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/advanced-damage-system-fs25-0xxpS.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Trilhas visuais de lama",
+        "descricao": "Trilhas visuais de lama, mod de Scripts para Farming Simulator 25, com ## Pistas físicas e sulcos de terreno e a ter em conta.",
+        "categoria": "Scripts",
+        "arquivo": "FS25_Trilhasvisuaisdelama",
+        "url": "https://shareccc.5a7ade8d78df76bddb33a5f57aa7d05e.r2.cloudflarestorage.com/uploads/08729/px9a24r2rokn?response-content-disposition=attachment%3B%20filename%3D%22FS25_VisualMudTracks.zip%22&X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d1ba0687d8b6d15a513d3c90ecc712c4%2F20260905%2F%2Fs3%2Faws4_request&X-Amz-Date=20260905T125057Z&X-Amz-SignedHeaders=host&X-Amz-Signature=14ff73bd50f7dba0e3fa744999af0436aae80932a20d27eff6f43c0a267a5ff3",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/visual-mud-tracks-fs25-TtPEJ.jpg",
+        "fonte": "kingmods"
     }
 ]
