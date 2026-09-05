@@ -237,5 +237,14 @@
         "url": "https://cdn25.giants-software.com/modHub/storage/00346995/FS25_orchardsAndGreenhouses_crossplay.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Cow Barn XL",
+        "descricao": "Cow Barn XL",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_CowBarnXL",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00309003/FS25_CowBarnXL.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
