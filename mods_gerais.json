@@ -828,5 +828,14 @@
         "url": "https://download1346.mediafire.com/3xv17kfwvhmgbgJzanrDwc0VrlWFoG5WcgUNQs_tgwd5CUpKmk_iil59SST34Zn-KKTtLVABd8gnK4iOGjxRJaQQgXsjuxuqgLqFr_MxSN0YP2Uh_TKozUjmPSMDXAT0H2oGnTuOglSoaabe6_nLXr5mCwc3wHDAGiuAE1cvv2jyxBs/dtbu21nbivjpl9a/FS25_Dodge_Ram_5500HD.zip",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/dodge-ram-5500-fs25-DlJXF.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Enhanced Vehicle",
+        "descricao": "Enhanced Vehicle, mod de Scripts para Farming Simulator 25, com erros conhecidos e atalhos de teclado padrão.",
+        "categoria": "Scripts",
+        "arquivo": "FS25_EnhancedVehicle",
+        "url": "https://github.com/ZhooL/FS25_EnhancedVehicle/releases/latest/download/FS25_EnhancedVehicle.zip",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/enhanced-vehicle-fs25-NXo02.jpg",
+        "fonte": "kingmods"
     }
 ]
