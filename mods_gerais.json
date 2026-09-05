@@ -219,5 +219,14 @@
         "url": "https://www.kingmods.net/pt/fs25/mods/81026/galpao-multifuncional-30x12",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/multifunctional-shed-30x12-fs25-oZgmk.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Meadow Trails",
+        "descricao": "O tráfego repetido de veículos através da grama selvagem gerada por mapas e da folhagem do solo em estilo de floresta cria lentamente caminhos de rodas visíveis.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_MeadowTrails",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00369342/FS25_MeadowTrails.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
