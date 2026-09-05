@@ -300,5 +300,14 @@
         "url": "https://cdn26.giants-software.com/modHub/storage/00306784/FS25_GasStationBR.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "BR Precast Concrete Shed",
+        "descricao": "O Armazém Pré-fabricado de Concreto BR é uma estrutura típica brasileira; possui design simples e oferece boa proteção para máquinas e equipamentos.",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_BR_Precast_Concrete_Shed",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00368974/FS25_BR_Precast_Concrete_Shed.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
