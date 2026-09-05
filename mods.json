@@ -8,6 +8,10 @@
     {
       "nome_mapa": "BR 163",
       "json_mapa_url": "https://raw.githubusercontent.com/OPacoca/OPacoca-mods-fs25/refs/heads/main/BR_163.json"
+    },
+     {
+      "nome_mapa": "Agro Norte",
+      "json_mapa_url": "https://raw.githubusercontent.com/OPacoca/OPacoca-mods-fs25/refs/heads/main/Agronorte.json"
     }
   ]
 }
