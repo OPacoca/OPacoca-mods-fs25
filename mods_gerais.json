@@ -318,5 +318,14 @@
         "url": "https://cdn26.giants-software.com/modHub/storage/00353602/FS25_Farm_Fances_Pack_Br.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Autodrive",
+        "descricao": "Autodrive, mod de Scripts para Farming Simulator 25.",
+        "categoria": "Scripts",
+        "arquivo": "FS25_AutoDrive",
+        "url": "https://github.com/Stephan-S/FS25_AutoDrive/releases/latest/download/FS25_AutoDrive.zip",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/autodrive-fs25-dQezo.jpg",
+        "fonte": "kingmods"
     }
 ]
