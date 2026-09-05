@@ -1949,5 +1949,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=350762&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Lizard 4100",
+        "descricao": "Clássico brasileiro, o Lizard 4100 é um icônico trator de pequeno porte, que ainda atua em diversas lavouras e fazendas pelo país.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_lizard4100",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00323694/FS25_lizard4100.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=323694&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
