@@ -336,5 +336,14 @@
         "url": "https://github.com/kingmodsnet/FS25_PlaceTerraformPaintAnywhere/releases/download/V1.0.0.0/FS25_PlaceTerraformPaintAnywhere_KingMods.zip",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/place-terraform-paint-anywhere-fs25-Xjtpj.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "No Tab",
+        "descricao": "No Tab, mod de Scripts para Farming Simulator 25.",
+        "categoria": "Scripts",
+        "arquivo": "FS25_NoTab",
+        "url": "https://download1501.mediafire.com/hfs570tk8t7gUN4d7MJAnANwr80yskPywJkrmI2JKWIUEV-88ds24BzeWTPFqnqfGbowF2T0zct-MfJBgrW7piE5BGzOoywBfN8KoiKIUHoKUYAclyJfOW2mEPW7FajoXC85wrlv3mRAhgNf7K8g6Gu23LJxfrgU6LHlQOcAmg8LehA/xqus4y4b1nh9d9d/FS25_NoTab.zip",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/no-tab-fs25-LAJHl.jpg",
+        "fonte": "kingmods"
     }
 ]
