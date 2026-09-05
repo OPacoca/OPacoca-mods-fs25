@@ -1990,5 +1990,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=357678&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Hydroponics Greenhouse",
+        "descricao": "Esta é uma grande estufa hidropônica. Esta estufa tem uma taxa de produção duas vezes maior que a estufa básica.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_hydroGreenhouse",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00306035/FS25_hydroGreenhouse.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=306035&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
