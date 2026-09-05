@@ -652,7 +652,7 @@
     {
         "nome": "Fish Farming",
         "descricao": "Comece sua piscicultura colocando a quantidade de tanques que desejar.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Fabrica",
         "arquivo": "FS25_FishFarming",
         "url": "https://cdn25.giants-software.com/modHub/storage/00311892/FS25_FishFarming.zip",
         "fonte": "modhub",
