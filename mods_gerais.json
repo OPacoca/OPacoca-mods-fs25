@@ -309,5 +309,14 @@
         "url": "https://cdn25.giants-software.com/modHub/storage/00368974/FS25_BR_Precast_Concrete_Shed.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Farm Fences Pack Br",
+        "descricao": "Um pacote de cercas para decorar sua fazenda com um estilo mais rústico.",
+        "categoria": "Placeable - Fences",
+        "arquivo": "FS25_Farm_Fances_Pack_Br",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00353602/FS25_Farm_Fances_Pack_Br.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
