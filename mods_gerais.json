@@ -1329,5 +1329,595 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365905&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "MasseyFerguson Series 200",
+        "descricao": "O trator Massey Ferguson 200 (modelo 2010) é reconhecido por sua confiabilidade, eficiência e excelente desempenho no campo.",
+        "categoria": "Drivables - Medium Tractors",
+        "arquivo": "FS25_Massey_ferguson_200",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00312290/FS25_Massey_ferguson_200.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312290&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Mack R",
+        "descricao": "Mack R Classic e Legendary Truck de 1966 com muita força e resistência para fazer todos os tipos de trabalho.",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_Mack_R",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00314885/FS25_Mack_R.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=314885&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "MF 310",
+        "descricao": "Uma colheitadeira Massey-Ferguson 310 clássica, ano 1971.",
+        "categoria": "Combine Harvesting - Harvesters",
+        "arquivo": "FS25_MF310",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00311085/FS25_MF310.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311085&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Underbelly Trailer",
+        "descricao": "O trailer Lizard Underbelly é um trailer de despejo inferior avançado, com a opção de design de banheira dupla ou única e direção ativa opcional para manter o trailer atrás do veículo puxador.",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_Lizard_Underbelly",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00329510/FS25_Lizard_Underbelly.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=329510&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Bazuca 15000",
+        "descricao": "Reboque de grãos conhecido como bazuca 15.000, um modelo mais antigo, porém robusto e muito útil em sua fazenda.",
+        "categoria": "Trailers - Auger Wagons",
+        "arquivo": "FS25_Lizard_Bazuca_15000",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00321446/FS25_Lizard_Bazuca_15000.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=321446&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "PerfectEdge",
+        "descricao": "Este mod introduz um recurso que permite aos jogadores bloquear um eixo enquanto pintam, facilitando a criação de bordas perfeitamente retas.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_PerfectEdge",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00303365/FS25_PerfectEdge.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303365&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Protein Products Factory",
+        "descricao": "Categoria: Produção Posicionável",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_PureCrop",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00370787/FS25_PureCrop.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=370787&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "RSM Container",
+        "descricao": "Capacidade do Container RSM: 50.000 litros",
+        "categoria": "Placeable - Containers",
+        "arquivo": "FS25_RSMContainer",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00307199/FS25_RSMContainer.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=307199&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Randon Low Loader Movable Neck",
+        "descricao": "A linha de carretas rebaixadas com pescoço móvel da Randon é conhecida pela praticidade e pela utilização no transporte de máquinas sobre esteiras ou que não conseguem subir rampas íngremes.",
+        "categoria": "Trailers - Low Loaders",
+        "arquivo": "FS25_Randon_LowLoader",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00343690/FS25_Randon_LowLoader.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=343690&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Real Mower",
+        "descricao": "-Com este mod você pode cortar grama em todas as áreas não compráveis ​​do mapa.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_RealMower",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00303281/FS25_RealMower.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303281&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Adjust Pasture Fence",
+        "descricao": "Com este mod você pode ajustar cercas de pasto em celeiros já construídos quantas vezes quiser.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_RebuildPastureFence",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00366968/FS25_RebuildPastureFence.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366968&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Shed Cow Barn",
+        "descricao": "Celeiro de vacas.",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_ShedCowBarn",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00304601/FS25_ShedCowBarn.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=304601&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Shop Sounds",
+        "descricao": "Ouça o som de um veículo diretamente na loja - antes de comprar.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ShopSounds",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00365222/FS25_ShopSounds.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365222&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Silos AS Pack",
+        "descricao": "- Configurações: Seleção de cores - Opção para ocultar o sem-fim e soprador de grãos AS 10 Categoria: Colocável - Silos",
+        "categoria": "Placeable - Grain silos",
+        "arquivo": "FS25_SilosAS",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00311662/FS25_SilosAS.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311662&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "BR Small Garden",
+        "descricao": "BR Horta Pequena: a produção é superior à estufa padrão e o custo diário de manutenção é menor, mas requer água, fertilizante, esterco e sementes.",
+        "categoria": "Placeable - Garden Sheds",
+        "arquivo": "FS25_SmallGreenhouse",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00333389/FS25_SmallGreenhouse.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=333389&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Stoll Frontloader Pack",
+        "descricao": "Incluídos neste pacote estão o Stoll FZ30 e FZ60. Eles também estão disponíveis na Case como LRZ120 e LRZ150 e na New Holland como TL750|FZ30 e TL750|FZ60.",
+        "categoria": "Loaders - Front Loaders",
+        "arquivo": "FS25_StollFrontloaderPack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00323354/FS25_StollFrontloaderPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=323354&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Storage Rack",
+        "descricao": "Categoria da loja: Silo Big Rack",
+        "categoria": "Placeable - Storages",
+        "arquivo": "FS25_StorageRack",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00307429/FS25_StorageRack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=307429&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Time Saving Logistics",
+        "descricao": "Cansado de coletar e distribuir grãos e paletes de e para todas as suas produções.",
+        "categoria": "Placeable - Storages",
+        "arquivo": "FS25_TSLogistics",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00314055/FS25_TSLogistics.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=314055&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Tonar-PTT",
+        "descricao": "O carrinho Tonar-PTT pode ser utilizado para transportar semirreboques.",
+        "categoria": "Miscellaneous - Miscellaneous",
+        "arquivo": "FS25_Tonar_Ptt",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00306524/FS25_Tonar_Ptt.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=306524&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Towing Chain With Hook",
+        "descricao": "Com este mod você pode rebocar veículos com corrente de reboque.",
+        "categoria": "Miscellaneous - Miscellaneous",
+        "arquivo": "FS25_TowingChain",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00318102/FS25_TowingChain.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=318102&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Vehicle Trade In",
+        "descricao": "A troca de veículos adiciona um sistema completo e seguro de troca e equipamentos usados ​​ao Farming Simulator 25 e o integra ao revendedor normal de veículos.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_TradeInMenu",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00362333/FS25_TradeInMenu.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=362333&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Vence Tudo GHAR 2000",
+        "descricao": "O Guindaste Vence Tudo GHAR 2000 é sinônimo de desempenho excepcional em propriedades rurais.",
+        "categoria": "Miscellaneous - Miscellaneous",
+        "arquivo": "FS25_VenceTudoGHAR2000",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00370435/FS25_VenceTudoGHAR2000.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=370435&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Weighing Station PGR",
+        "descricao": "Uma estação de pesagem posicionável.",
+        "categoria": "Placeable - Miscellaneous",
+        "arquivo": "FS25_WeightStationPGR",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00320874/FS25_WeightStationPGR.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=320874&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Wilson DWH500 43FT Hopper Bottom",
+        "descricao": "Wilson DWH500 Pacesetter 43' Hopper Semirreboque de grãos inferiores: Comprimento: 43 pés Largura: 96 pol Altura da parede lateral: 66 pol Distância ao solo: 25 pol Categoria: Semirreboques Preço base: $ 38.900 Capacidade: 40.700-176.200...",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_Wilson_DWH500_Trailer",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00337446/FS25_Wilson_DWH500_Trailer.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=337446&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Windmill",
+        "descricao": "Você pode produzir farinha e açúcar neste moinho de vento.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_WindMill",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00303268/FS25_WindMill.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303268&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Additional Field Info",
+        "descricao": "Exibe informações adicionais no painel de informações do campo ao caminhar por um campo: - Área de cada campo no terreno atual - Área de terreno atual",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_additionalFieldInfo",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00304980/FS25_additionalFieldInfo.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=304980&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Agro Trailers Pack",
+        "descricao": "Um pack de vários reboques para semi-tratores \"Agro\" como o Heizotruck, perfeitos para utilização no campo.",
+        "categoria": "Package",
+        "arquivo": "FS25_agroTrailersPack",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00336936/FS25_agroTrailersPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=336936&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Auto Turn Off For Turn Lights",
+        "descricao": "Esta especialização garante que os indicadores sejam desligados automaticamente após a rotação.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_autoTurnOffTurnLights",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00303378/FS25_autoTurnOffTurnLights.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303378&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Large Glass Greenhouse Package",
+        "descricao": "Este pacote contém duas grandes estufas de vidro, que diferem apenas na orientação da saída do palete.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_bigGreenHouseGlass",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00344163/FS25_bigGreenHouseGlass.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=344163&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small Car Trailer",
+        "descricao": "Trailer de carro pequeno para paletes e pequenas ferramentas",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_carTrailerSmall",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00346091/FS25_carTrailerSmall.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=346091&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Extended Mission Info",
+        "descricao": "Este mod expande e adapta o seguinte nas informações da missão: Nas missões de colheita e transporte de madeira, o nome da estação de venda agora também é exibido em uma nova linha.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_extendedMissionInfo",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00309938/FS25_extendedMissionInfo.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=309938&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "FarmCon24 - Fendt Pack",
+        "descricao": "Conteúdo: Tratores pequenos Fendt 380 GTA Turbo: Potência: 95 cv Peso: 9.920 libras",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_fendtFarmConPack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00308470/FS25_fendtFarmConPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=308470&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "LIZARD Forage Pickup",
+        "descricao": "Projetado originalmente para facilitar o esvaziamento de fossas de silagem, o FP-2M foi aprimorado para permitir a coleta de todos os materiais.",
+        "categoria": "Miscellaneous - Belt Systems",
+        "arquivo": "FS25_foragePickup",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00307261/FS25_foragePickup.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=307261&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "ITRunner Pack",
+        "descricao": "ITRunner ITR 26.33 HD; Preço das opções de cor do corpo: $ 55.000 ITRunner Skip; - Opções de cores da carroceria",
+        "categoria": "Package",
+        "arquivo": "FS25_itRunnerPack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00309646/FS25_itRunnerPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=309646&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "John Deere 2x40/2X50 Series",
+        "descricao": "Este pacote John Deere 2X50 contém o JD 2040, 2140, 2250 e 2850; 30 km/h e 40 km/h.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_johnDeere2X50series",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00366656/FS25_johnDeere2X50series.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366656&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "John Deere 7810",
+        "descricao": "Categoria: Tratores Médios",
+        "categoria": "Drivables - Medium Tractors",
+        "arquivo": "FS25_johnDeereSeries7810",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00302230/FS25_johnDeereSeries7810.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=302230&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Volvo FH16 Box Truck",
+        "descricao": "Caminhão baú Volvo FH16; X = Abrir portas traseiras U = Selecionar lado da cortina Z = Abrir lado selecionado - Opções de motor - Opções de proteção frontal - Várias opções de design - Opções de cores principais - Opções de cores da grade -...",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_fh16BoxTruck",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00339399/FS25_fh16BoxTruck.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339399&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Waterfall Package",
+        "descricao": "Adicione mais vida e realismo ao seu mapa com este pacote de cachoeiras decorativas.",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_kchoeira",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00329576/FS25_kchoeira.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=329576&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Rumbler Pack",
+        "descricao": "Low Rumbler:",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_lowRumbler",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00320726/FS25_lowRumbler.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=320726&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Mack Pinnacle 6x4",
+        "descricao": "Categoria: Caminhões",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_mackPinnacle",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00316540/FS25_mackPinnacle.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=316540&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Maintenance",
+        "descricao": "Baía de lavagem de carros com posto de gasolina e oficina.",
+        "categoria": "Placeable - Miscellaneous",
+        "arquivo": "FS25_maintenance",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00355283/FS25_maintenance.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=355283&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Massey Ferguson Series 8S",
+        "descricao": "Categoria: Tratores médios",
+        "categoria": "Drivables - Medium Tractors",
+        "arquivo": "FS25_masseyFergusonSeries8S",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00312232/FS25_masseyFergusonSeries8S.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312232&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Minimap Plus",
+        "descricao": "Funcionalidade aprimorada de minimapa com opções adicionais de sobreposição, zoom e muito mais.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_minimapPlus",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00362556/FS25_minimapPlus.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=362556&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Hand Liftable Consumables",
+        "descricao": "Este mod é um pacote de pequenos objetos consumíveis que podem ser levantados manualmente, com design e capacidades de embalagem realistas.",
+        "categoria": "Objects - Miscellaneous",
+        "arquivo": "FS25_mrhHandLiftableConsumables",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00316312/FS25_mrhHandLiftableConsumables.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=316312&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Natural Water Rivers And Ponds Pack",
+        "descricao": "Você quer um rio largo ou um riacho estreito ou um lindo lago no seu mapa?",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_naturalWaterRiversAndPondsPack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00305489/FS25_naturalWaterRiversAndPondsPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305489&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Old Wash Station",
+        "descricao": "Estação de lavagem estática posicionável. - Características:",
+        "categoria": "Placeable - Miscellaneous",
+        "arquivo": "FS25_oldWashStation",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00339806/FS25_oldWashStation.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339806&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Open Air Garden",
+        "descricao": "São 5 hortas para cultivo de hortaliças e frutas ao ar livre.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_openAirGarden",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00311282/FS25_openAirGarden.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311282&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "River",
+        "descricao": "Um pacote de rios que podem ser posicionados no seu mapa.",
+        "categoria": "Package",
+        "arquivo": "FS25_pack_river",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00341119/FS25_pack_river.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=341119&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Pinnacle 6x4 Pack",
+        "descricao": "Pacote Pináculo 6x4; - Opções de cabine - Opções de cores principais - Opções de cores de aro - Opção de fixador traseiro - Opções de versão (seguintes) Versão de grãos; - Opção de mesa - Opção de tampa - Opções de cores para dumper - Opções de...",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_pinnacle6x4Pack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00316721/FS25_pinnacle6x4Pack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=316721&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Meprozet PN-20",
+        "descricao": "O PN-20 é um caminhão-tanque projetado para espalhar estrume líquido.",
+        "categoria": "Yield Improvements - Slurry Tankers",
+        "arquivo": "FS25_pn20",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00353747/FS25_pn20.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=353747&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "More Productions Possible (120)",
+        "descricao": "Este mod aumenta o limite do número máximo possível de produções que podem ser colocadas em um jogo salvo.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_productionsLimitIncreaser120",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00303295/FS25_productionsLimitIncreaser120.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303295&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Self-built Trailer",
+        "descricao": "Trailer autoconstruído com múltiplas opções de configuração.",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_self_built_trailer",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00362071/FS25_self_built_trailer.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=362071&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "International Series 200 Service Pickup",
+        "descricao": "International Series 200 convertida em uma picape de serviço com oficina móvel e capacidade de reabastecimento.",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_series200_service",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00368805/FS25_series200_service.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368805&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small Gravity Fuel Tank",
+        "descricao": "Este pequeno e muito simples posto de combustível utiliza um conceito antigo: o gasóleo entra por cima e sai por baixo.",
+        "categoria": "Placeable - Diesel Tanks",
+        "arquivo": "FS25_smallGravityFuelTank",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00303715/FS25_smallGravityFuelTank.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303715&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small Trailers Pack",
+        "descricao": "Pequenos reboques para transporte de materiais a granel, animais e paletes.",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_small_trailers_pack",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00365400/FS25_small_trailers_pack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365400&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Multiplayer Game Sound Expansion",
+        "descricao": "Este script aprimora a experiência de jogo multijogador com sons que antes só estavam disponíveis para jogadores single-player: - Compressores de ar em veículos.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_soundExpansionMP",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00354574/FS25_soundExpansionMP.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=354574&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Washing Station",
+        "descricao": "Estação de lavagem:",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_washingStation",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00361140/FS25_washingStation.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=361140&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Joskin Tanker 3500",
+        "descricao": "- Capacidade: 3.500 L.",
+        "categoria": "Animals - Barrels",
+        "arquivo": "FS25_joskin_tanker3500",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00321968/FS25_joskin_tanker3500.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=321968&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Rumbler Pickup Pack",
+        "descricao": "Categoria de coleta Rumbler: Caminhões",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_lizard_rumblerPickup_pack_crossplay",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00331930/FS25_lizard_rumblerPickup_pack_crossplay.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331930&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
