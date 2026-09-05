@@ -717,9 +717,10 @@
         "descricao": "Ford F-4000, mod de Caminhões para Farming Simulator 25, com 110 kW/150 hp e transmissão manual.",
         "categoria": "Caminhões",
         "arquivo": "FS25_FordF4000",
-        "url": "https://smeast1.5a7ade8d78df76bddb33a5f57aa7d05e.r2.cloudflarestorage.com/uploads/08628/a5ko4ktt652f?response-content-disposition=attachment%3B%20filename%3D%22FS25_Ford_F4000.zip%22&X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=18c46457eb0857f70746e9902912d787%2F20260905%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260905T041657Z&X-Amz-SignedHeaders=host&X-Amz-Signature=b4110304d0b09299418bccc26646744ce77d7b7612ced0d595c7905349a9841f",
-        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/ford-f-4000-fs25-9czs2.jpg",
-        "fonte": "kingmods"
+        "url": "https://smeast1.5a7ade8d78df76bddb33a5f57aa7d05e.r2.cloudflarestorage.com/uploads/08628/a5ko4ktt652f?response-content-disposition=attachment%3B%20filename%3D%22FS25_Ford_F4000.zip%22&X-Amz-Expires=3600&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=18c46457eb0857f70746e9902912d787%2F20260905%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260905T195831Z&X-Amz-SignedHeaders=host&X-Amz-Signature=12e67df1e5c812c073eb33636745001a96eb38703278013d9499b861579b2781",
+        "url_pagina": "https://www.kingmods.net/pt/fs25/mods/68349/ford-f-4000",
+        "fonte": "kingmods",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/ford-f-4000-fs25-9czs2.jpg"
     },
     {
         "nome": "Hillux 2013",
