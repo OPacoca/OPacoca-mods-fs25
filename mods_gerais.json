@@ -918,5 +918,425 @@
         "url": "https://cdn27.giants-software.com/modHub/storage/00321344/FS25_AutomaticWater_Animals_Greenhouses.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Bunker Silo Set Modular",
+        "descricao": "Conjunto de silo de condução modular composto por 20 peças.",
+        "categoria": "Package",
+        "arquivo": "FS25_BunkerSiloModularSet",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00304430/FS25_BunkerSiloModularSet.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=304430&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Accelo 2013",
+        "descricao": "Um remake de um pacote do Farming Simulator 22 com diversas adições e melhorias.",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_LizardAccelo",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00362454/FS25_LizardAccelo.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=362454&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard NTG P320 Roll-On",
+        "descricao": "Lagarto NTG P320 Roll-On. Olá, agricultores!",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_LIZARD_NTGP320_RollOn",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00312267/FS25_LIZARD_NTGP320_RollOn.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312267&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Jacks Pack",
+        "descricao": "Pacote de dois conectores estáticos funcionais. Funciona como posicionável, não pode movê-los, mas pode levantar veículos.",
+        "categoria": "Placeable - Miscellaneous",
+        "arquivo": "FS25_JacksPack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00367406/FS25_JacksPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=367406&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Case 970, 1070 Agri King",
+        "descricao": "Categoria: Tratores Pequenos Preço Base: $ 24.000 Potência: 80-120 HP Máx.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_JICase970_1070",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00318677/FS25_JICase970_1070.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=318677&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Iveco 190-48",
+        "descricao": "Iveco 190-48 TurboStar, é um camião concebido para o transporte pesado de mercadorias.",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_Iveco190_48_TurboStar",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00356204/FS25_Iveco190_48_TurboStar.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=356204&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Invoices",
+        "descricao": "Crie, envie, proponha e acompanhe faturas entre fazendas no modo multijogador.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_Invoices",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00353530/FS25_Invoices.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=353530&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Info Display Extension",
+        "descricao": "Um pequeno mod para estender as exibições. Amplia as exibições do Info Hud de - silos - Produções - galpões de animais - Montes de esterco - árvores (a maioria das informações estão disponíveis apenas no modo single player) - Veículos e...",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_InfoDisplayExtension",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00303731/FS25_InfoDisplayExtension.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303731&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Fuel Level Warning",
+        "descricao": "Aviso acústico do tanque quando o nível de combustível é inferior a 20%.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_FuelLevelWarning",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00304695/FS25_FuelLevelWarning.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=304695&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Filllevel Warning",
+        "descricao": "Aviso de nível de enchimento para colheitadeiras. Quando o nível de preenchimento atingir 50% e 80%, um tom de sinal será ouvido.",
+        "categoria": "Combine Harvesting - Harvesters",
+        "arquivo": "FS25_Filllevelwarning",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00303840/FS25_Filllevelwarning.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303840&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Field Detail Hud Infos",
+        "descricao": "NUNCA MAIS ADIVINHE - CONHEÇA SEU CAMPO DE DENTRO PARA FORA!",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_FieldDetailInfos",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00362684/FS25_FieldDetailInfos.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=362684&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Fiat Universal 650",
+        "descricao": "Fiat Universal 650 2WD e 4WD Características gerais - Duas configurações de motor (real e irreal).",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_FIAT_Universal_650",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00322198/FS25_FIAT_Universal_650.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322198&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Fiat X70 Series",
+        "descricao": "SÉRIE FIAT X70 1970-1975, 60-120 HP",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_FiatX70Series",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00319539/FS25_FiatX70Series.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=319539&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Fiat 480",
+        "descricao": "Trator agrícola Fiat 480 da década de 1970, fabricado pela Fiat em 1973 pela Fiat Trattori Spa.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_Fiat_480",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00359093/FS25_Fiat_480.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=359093&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Fertilizer And Herbicide Production And Sales Outlet",
+        "descricao": "Transforme seu chorume/estrume em fertilizante sólido/líquido ou faça seu próprio herbicida.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_FertilizerProduction",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00322979/FS25_FertilizerProduction.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322979&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small Production Points W/ Shed Option",
+        "descricao": "Pacote de produção pequeno ciclos aumentados e telhado opcional Categoria: Ponto de produção",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_SmallProductionNoShed",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00312537/FS25_SmallProductionNoShed.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312537&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small Fishfeed Mixingplant",
+        "descricao": "Planta misturadora de ração para pequenos peixes. A fábrica de mistura de ração para peixes só funciona com o pacote de conteúdo para download „HighlandsFishingPack.DLC“.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_sm_fishfoodmix",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00341061/FS25_sm_fishfoodmix.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=341061&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small Cement Factory",
+        "descricao": "Esta é uma fábrica de cimento pequena e barata para ter no seu quintal, aqui você pode usar as pedras do campo para produzir blocos de cimento, tábuas para telhados e sacos de cimento em sua casa.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_SmallCementFactory",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00332792/FS25_SmallCementFactory.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=332792&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Cheese Factory Small",
+        "descricao": "Fábrica de queijos Transforme o leite fresco de suas vacas em queijo de alta qualidade e maximize os lucros de sua fazenda.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_Factory_Cheese_Small",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00368311/FS25_Factory_Cheese_Small.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368311&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Deutz-Fahr DX3 Series",
+        "descricao": "Categoria da série Deutz-Fahr DX3: Tratores pequenos",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_DeutzFahrSeriesDX3",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00309040/FS25_DeutzFahrSeriesDX3.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=309040&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Wood Cow Barn",
+        "descricao": "Um antigo celeiro convertido em estábulo com capacidade para 35 vacas Preço 15.000 $",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_CowWoodBarn",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00333478/FS25_CowWoodBarn.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=333478&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Liquid Manure Tank",
+        "descricao": "Tanque de polpa drive-through com extensão Tanque de polpa Categoria: Silo",
+        "categoria": "Placeable - Storages",
+        "arquivo": "FS25_liquidTank",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00348804/FS25_liquidTank.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=348804&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Combination Liquid Tank 3000L",
+        "descricao": "Combination Liquid Tank 3000L - Versão nova e melhorada do popular mod FS22.",
+        "categoria": "Objects - Miscellaneous",
+        "arquivo": "FS25_ComboLiquidTank_3Point",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00333212/FS25_ComboLiquidTank_3Point.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=333212&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Chicken Transport Trailer Pack",
+        "descricao": "Este mod adiciona configuração para transporte de galinhas para alguns reboques: FARMTECH DPW 1800 Categoria: Reboques planos Preço de configuração: $ 9 600 Capacidade: 384 peças FARMTECH DDK 2400 Categoria: Configuração de reboques",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_ChickenTrailersPack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00331850/FS25_ChickenTrailersPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331850&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Cattle Trailer",
+        "descricao": "O Trailer de Gado é um antigo trailer de gado feito por você mesmo.",
+        "categoria": "Animals - Animal Transport",
+        "arquivo": "FS25_lizardCattleTrailer",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00305463/FS25_lizardCattleTrailer.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305463&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "CLAAS Disco 1100C + 3600FC Night Edition",
+        "descricao": "DISCO 3600 FC",
+        "categoria": "Grassland - Mowers",
+        "arquivo": "FS25_CLAASDisco1100C_3600FC",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00365163/FS25_CLAASDisco1100C_3600FC.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365163&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Bridge Pack",
+        "descricao": "Uma variedade de pontes para finalmente preencher aquela lacuna que você não conseguia encontrar.",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_BridgePack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00311622/FS25_BridgePack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311622&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Randon Bulk Semi-Trailer",
+        "descricao": "Conjunto Semirreboque Randon Preço Base: $85.000 Categorias: Reboques / Semirreboques Configurações: Transporte de Fardos / Capacidade 28.000 / Capacidade 62.000 m³ (tampas podem ser abertas para transporte de fardos em qualquer opção de...",
+        "categoria": "Trailers - Semi Trailers",
+        "arquivo": "FS25_SemiReboqueRandon",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00329815/FS25_SemiReboqueRandon.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=329815&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Randon Bulk Roadtrain",
+        "descricao": "Conjunto de Reboques Randon Roadtrain Preço Base: $ 18.000 / $ 70.000 / $ 88.000 ou $ 158.000 Categorias: Reboques / Semirreboques e Configurações Diversas: Transporte de Fardos / Capacidade 22.000 / Capacidade 48.000 (as tampas podem ser abertas...",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_RodotremRandon",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00325227/FS25_RodotremRandon.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=325227&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Animal Food Calculator",
+        "descricao": "A Calculadora de Alimentos para Animais (AFC) melhora a criação de animais no FS25, fornecendo clareza e controle significativamente maiores.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_AnimalFoodCalculator",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00338159/FS25_AnimalFoodCalculator.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=338159&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Animal Food Overview",
+        "descricao": "Com este MOD você pode exibir os respectivos grupos de alimentos e os tipos de alimentos neles contidos por espécie animal.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_AnimalFoodOverview",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00309457/FS25_AnimalFoodOverview.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=309457&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Agricultural Inputs",
+        "descricao": "Cansado de ir constantemente à loja para comprar materiais de plantio?",
+        "categoria": "Placeable - Containers",
+        "arquivo": "FS25_Agricultural_Inputs",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00339954/FS25_Agricultural_Inputs.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339954&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Pig Food Production",
+        "descricao": "Máquina para transformar colheitas em PIGfood em sua fazenda.",
+        "categoria": "Animals - Food",
+        "arquivo": "FS25_productionPigFood",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00336320/FS25_productionPigFood.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=336320&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "More Motor Sounds",
+        "descricao": "Este script permite configurar um som de motor alternativo para muitos veículos.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_moreMotorSounds",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00357192/FS25_moreMotorSounds.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=357192&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Volvo FH16 South-America",
+        "descricao": "Categoria: Caminhões Preço base: 137.000 $ Velocidade máxima: 90 kp/h Características opcionais Motores: 420, 460, 500, 540, 750hp Chassi: 4x2, 6x2, 6x4, (8x2 e 8x4 com variação Tandem longo ou curto) Configurações de pneus independentes...",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_VOLVO_FH16",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00321380/FS25_VOLVO_FH16.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=321380&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Scania NTG South America",
+        "descricao": "Scania NTG América do Sul. Olá, agricultores!",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_SCANIA_NTG_SOUTH_AMERICA",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00314203/FS25_SCANIA_NTG_SOUTH_AMERICA.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=314203&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Randon Bulk Carrier LS",
+        "descricao": "Reboques Randon Graneleiro LS Graineiros inspirados no estilo sul-americano, ideais para transporte rodoviário de grãos.",
+        "categoria": "Trailers - Semi Trailers",
+        "arquivo": "FS25_Randon_BulkCarrierLS",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00337676/FS25_Randon_BulkCarrierLS.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=337676&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Torpedo",
+        "descricao": "Lagarto Torpedo V8. Olá, esse caminhão é especial para mim e espero que seja para você também.",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_LIZARD_TORPEDO",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00339764/FS25_LIZARD_TORPEDO.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339764&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Valmet 685",
+        "descricao": "O clássico Valmet 685, produzido no Brasil entre as décadas de 1980 e 1990, chega ao Farming Simulator 25 totalmente recriado com detalhes fiéis da máquina original.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_Valmet_685",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00343783/FS25_Valmet_685.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=343783&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard 6T",
+        "descricao": "Reboque utilizado por pequenos agricultores, composto por um reboque padrão e um reboque de parafuso.",
+        "categoria": "Trailers - Trailers",
+        "arquivo": "FS25_Lizard_6t",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00323447/FS25_Lizard_6t.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=323447&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Universal Large Greenhouse",
+        "descricao": "Categoria: Estufas",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_UniversalLargeGreenhouse",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00331633/FS25_UniversalLargeGreenhouse.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331633&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Ursus C-355, C-355M, C-360",
+        "descricao": "Os Ursus C-355, C-355M e C-360 são tratores agrícolas fabricados sob licença polaco-checoslovaca entre 1971 e 1994 na Ursus Mechanical Works.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_Ursus_C355_C360",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00365905/FS25_Ursus_C355_C360.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365905&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
