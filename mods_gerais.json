@@ -327,5 +327,14 @@
         "url": "https://github.com/Stephan-S/FS25_AutoDrive/releases/latest/download/FS25_AutoDrive.zip",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/autodrive-fs25-dQezo.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Place, Terraform & Paint Anywhere",
+        "descricao": "Place, Terraform & Paint Anywhere, mod de Scripts para Farming Simulator 25.",
+        "categoria": "Scripts",
+        "arquivo": "FS25_PlaceTerraformPaintAnywhere_KingMods",
+        "url": "https://github.com/kingmodsnet/FS25_PlaceTerraformPaintAnywhere/releases/download/V1.0.0.0/FS25_PlaceTerraformPaintAnywhere_KingMods.zip",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/place-terraform-paint-anywhere-fs25-Xjtpj.jpg",
+        "fonte": "kingmods"
     }
 ]
