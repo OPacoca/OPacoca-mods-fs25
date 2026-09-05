@@ -1997,5 +1997,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=306035&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Case IH Pack",
+        "descricao": "Case IH Pack, mod de Tratores pequenos para Farming Simulator 25, com pacote CASO e o pacote inclui.",
+        "categoria": "Tratores pequenos",
+        "arquivo": "FS25_CaseIHPack",
+        "url": "https://www.kingmods.net/pt/fs25/mods/81481/case-ih-pack",
+        "url_pagina": "https://www.kingmods.net/pt/fs25/mods/81481/case-ih-pack",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/case-ih-pack-fs25-WiAvD.jpg",
+        "fonte": "kingmods"
     }
 ]
