@@ -1,0 +1,179 @@
+{
+  "nome_mapa": "Agro Norte",
+  "descricao": "Mapa focado na agricultura brasileira com lavouras e equipamentos tradicionais",
+  "arquivo": "FS25_AgroNorte_Dentinho",
+  "url": "http://78.111.102.195:11510/mods/FS25_AgroNorte_Dentinho.zip",
+  "mods_obrigatorios": [
+    {
+      "nome": "Horta Agro Norte",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_HortaAgroNorte",
+      "url": "http://78.111.102.195:11510/mods/FS25_HortaAgroNorte.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Miac C200",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_Miac_C200_Dentinho",
+      "url": "http://78.111.102.195:11510/mods/FS25_Miac_C200_Dentinho.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Tobata Café Laranja",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_Tobata_Cafe_Laranja",
+      "url": "http://78.111.102.195:11510/mods/FS25_Tobata_Cafe_Laranja.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "TwinMaster",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_TwinMaster_Dentinho",
+      "url": "http://78.111.102.195:11510/mods/FS25_TwinMaster_Dentinho.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Valtra BH140",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Tratores",
+      "arquivo": "FS25_ValtraBH140_Dentinho",
+      "url": "http://78.111.102.195:11510/mods/FS25_ValtraBH140_Dentinho.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "John Deere 1550",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_JohnDeere_1550Dentinho",
+      "url": "http://78.111.102.195:11510/mods/FS25_JohnDeere_1550Dentinho.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Rohr CR12000",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_Rohr_CR12000Dentinho",
+      "url": "http://78.111.102.195:11510/mods/FS25_Rohr_CR12000Dentinho.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "GNU Lamina Café",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_GNU_LaminaCafe_FSModdinng",
+      "url": "http://78.111.102.195:11510/mods/FS25_GNU_LaminaCafe_FSModdinng.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "MF 310",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_MF310",
+      "url": "http://78.111.102.195:11510/mods/FS25_MF310.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Transbordo CTA 6500",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_TransbordoCTA6500_Dentinho",
+      "url": "http://78.111.102.195:11510/mods/FS25_TransbordoCTA6500_Dentinho.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Grade Tatu 18X28",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_GradeTatu18X28Dentinho",
+      "url": "http://78.111.102.195:11510/mods/FS25_GradeTatu18X28Dentinho.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Valmet 685",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Tratores",
+      "arquivo": "FS25_Valmet_685",
+      "url": "http://78.111.102.195:11510/mods/FS25_Valmet_685.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Distribuidor de Adubo RD 6000",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_DistribuiderDeAduboRD6000Dentinho",
+      "url": "http://78.111.102.195:11510/mods/FS25_DistribuiderDeAduboRD6000Dentinho.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Barracão",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Construções",
+      "arquivo": "FS25_Barracao",
+      "url": "http://78.111.102.195:11510/mods/FS25_Barracao.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Lizard 6t",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_Lizard_6t",
+      "url": "http://78.111.102.195:11510/mods/FS25_Lizard_6t.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Tanque Adicional",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_Tanque_adicional",
+      "url": "http://78.111.102.195:11510/mods/FS25_Tanque_adicional.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "THPF Configurator",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Script",
+      "arquivo": "FS25_0_THPFConfigurator",
+      "url": "http://78.111.102.195:11510/mods/FS25_0_THPFConfigurator.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Animal Limit Increaser 64",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Script",
+      "arquivo": "FS25_animalLimitIncreaser64",
+      "url": "http://78.111.102.195:11510/mods/FS25_animalLimitIncreaser64.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Tip Anywhere",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Script",
+      "arquivo": "FS25_TipAnywhere",
+      "url": "http://78.111.102.195:11510/mods/FS25_TipAnywhere.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    }
+  ]
+}
