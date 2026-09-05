@@ -749,12 +749,12 @@
         "imagem_url": ""
     },
     {
-        "nome": "Física do Sistema de Lama",
+        "nome": "Fisica de Lama",
         "descricao": "Física do Sistema de Lama, mod de Scripts para Farming Simulator 25, com comportamento da roda e aderência superficial.",
         "categoria": "Scripts",
-        "arquivo": "FS25_FísicadoSistemadeLama",
-        "url": "https://modsfire.com/d/2e2gDnTG8dc50uz",
-        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/mud-system-physics-fs25-zrmoR.jpg",
-        "fonte": "kingmods"
+        "arquivo": "FS25_MudSystemPhysics",
+        "url": "https://download1073.mediafire.com/m7ltzd2gmhigmWt2JP7pzx7DXAjhOKGyFgZCciYLlMbmQ2TF5Pzd8Z-ulCBsjifziv3YbMsIA_HwmPBD-YiZriHZE7IC7kIF78jtRZdvDSRgI50qMDUEZ9X8mjMGmzsMsCYwJWpUZS7Z5vMMd_j6DNCDrozX9BhA1-3XeqZTHPuRIuY/ba07k8sl5fvskq5/FS25_MudSystemPhysics.zip",
+        "fonte": "kingmods",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/mud-system-physics-fs25-zrmoR.jpg"
     }
 ]
