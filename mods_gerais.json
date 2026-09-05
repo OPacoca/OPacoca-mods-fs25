@@ -228,5 +228,14 @@
         "url": "https://cdn26.giants-software.com/modHub/storage/00369342/FS25_MeadowTrails.zip",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Orchards And Greenhouses",
+        "descricao": "Extenso pacote de pontos de produção posicionáveis ​​e outros posicionáveis ​​e componentes relacionados, todos trabalhando juntos.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_orchardsAndGreenhouses_crossplay",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00346995/FS25_orchardsAndGreenhouses_crossplay.zip",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
