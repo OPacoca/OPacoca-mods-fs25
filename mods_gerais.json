@@ -203,13 +203,13 @@
         "fonte": "kingmods"
     },
     {
-        "nome": "1981 Ford F150",
+        "nome": "Ford F150",
         "descricao": "1981 Ford F150, mod de Carros para Farming Simulator 25, com 3 opções de motores e barra de luz de teto LED.",
         "categoria": "Carros",
-        "arquivo": "FS25_1981FordF150",
-        "url": "https://www.kingmods.net/pt/fs25/mods/80779/1981-ford-f150",
-        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/1981-ford-f150-fs25-chsyp.jpg",
-        "fonte": "kingmods"
+        "arquivo": "FS25_1981_FORD_F150",
+        "url": "https://www.mediafire.com/file/8b91047u9s34z69/FS25_1981_FORD_F150.zip/file",
+        "fonte": "kingmods",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/1981-ford-f150-fs25-chsyp.jpg"
     },
     {
         "nome": "Galpão multifuncional 30x12",
