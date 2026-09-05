@@ -160,11 +160,11 @@
     {
         "nome": "Pecuária realista RM",
         "descricao": "Sistema de criacao de animal realista.",
-        "categoria": "KingMods",
-        "arquivo": "pecuária_realista_rm",
-        "url": "https://www.kingmods.net/pt/fs25/mods/74109/pecuaria-realista-rm",
-        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/realistic-livestock-rm-fs25-aLzCp.jpg",
-        "fonte": "kingmods"
+        "categoria": "Geral",
+        "arquivo": "FS25_RealisticLivestockRM",
+        "url": "https://download1476.mediafire.com/f4g7gr3eqs0gYZucg8eTO19rmDivjd1x8ilC0_34tUGcFKkiyX2RxT9OcX5kSNXmGVHE_hTsFOJ3y4DNoBfV-V6ccLD9oAcTG6TWQ1ZUMxnJVvyU9VOEm-AhYTuhsim1tYF_7yDRF0GVrTNHKfSxkFpkFnn4F2Xwjf60plQo9Nbhdek/03bkweng5xnbntx/FS25_RealisticLivestockRM.zip",
+        "fonte": "kingmods",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/realistic-livestock-rm-fs25-aLzCp.jpg"
     },
     {
         "nome": "Dacia Duster",
