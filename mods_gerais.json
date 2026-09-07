@@ -2154,5 +2154,235 @@
         "url_pagina": "https://www.kingmods.net/pt/fs25/mods/81481/case-ih-pack",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/case-ih-pack-fs25-WiAvD.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Small Farm Pack",
+        "descricao": "Pacote de pequenas construções para criar sua fazenda.",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_SmallFarmPack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00313573/FS25_SmallFarmPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=313573&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Sheep Small Barn",
+        "descricao": "Celeiro Pequeno para Ovelhas",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_SheepBarnSmall",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00315072/FS25_SheepBarnSmall.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=315072&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Polish Garden",
+        "descricao": "A modificação do jogo inclui quatro tipos de jardins comumente encontrados nas aldeias polonesas.",
+        "categoria": "Package",
+        "arquivo": "FS25_PolishGarden",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00343169/FS25_PolishGarden.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=343169&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Pack Of Greenhouses",
+        "descricao": "O pacote de pequenas estufas contém um túnel de alumínio e uma pequena estufa feita de janelas.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_PackOfGreenhouses",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00310069/FS25_PackOfGreenhouses.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=310069&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Manure Pit",
+        "descricao": "Poço de esterco polonês para uma pequena fazenda. -",
+        "categoria": "Placeable - Storages",
+        "arquivo": "FS25_ManurePit",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00312243/FS25_ManurePit.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312243&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Garden Plot / Garden Plot Berries",
+        "descricao": "Parcela de Jardim 1-3 Ciclos por hora: 64 Entrada: Sementes, Fertilizante (0,2 litros) | Água (2 litros) Saída: Tomate (3 litros) Ciclos por hora: 32 Entrada: Sementes, Adubo (0,2 litros) | Água (2 litros) Saída: Alface (3 litros) Ciclos por...",
+        "categoria": "Placeable - Garden Sheds",
+        "arquivo": "FS25_GardenPlotNW",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00348192/FS25_GardenPlotNW.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=348192&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Farm Fence Pack",
+        "descricao": "Pacote de cercas agrícolas. - Categoria: Cercas",
+        "categoria": "Placeable - Fences",
+        "arquivo": "FS25_farmFencePack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00310158/FS25_farmFencePack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=310158&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Farm Entrance",
+        "descricao": "Entrada da fazenda, que pode ser usada para fechar a entrada da sua fazenda e impedir a entrada de invasores e animais dos vizinhos.",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_Farm_Entrance",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00315170/FS25_Farm_Entrance.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=315170&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Cow Pasture With Milking Barn",
+        "descricao": "BR Cow Pen com pasto personalizado, pilha de esterco personalizado e cercado para vacas -",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Cow_Pasture_With_Milking_Barn",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00328414/FS25_Cow_Pasture_With_Milking_Barn.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=328414&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small Chicken Coop BR",
+        "descricao": "Um pequeno galinheiro no estilo brasileiro, ideal para propriedades rurais compactas e jogadores que buscam mais realismo em suas fazendas.",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Chicken_small_br",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00356640/FS25_Chicken_small_br.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=356640&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Chicken Shelter",
+        "descricao": "abrigo para galinhas Categoria: currais para animais",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Chicken_Shelter",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00332068/FS25_Chicken_Shelter.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=332068&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Banana Tree",
+        "descricao": "Bananara é uma planta que pode ser usada para decorar sua fazenda ou sítio.",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_Banana_Tree",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00305021/FS25_Banana_Tree.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305021&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Barbed Wire Fence And Wooden Gate",
+        "descricao": "Cerca de arame farpado e portão de madeira",
+        "categoria": "Placeable - Fences",
+        "arquivo": "FS25_Barbed_Wire_Fence_And_Wooden_Gate",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00305483/FS25_Barbed_Wire_Fence_And_Wooden_Gate.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305483&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Open The Gate",
+        "descricao": "Use a buzina normal do veículo para operar remotamente portões animados próximos.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_OpenTheGate",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00368541/FS25_OpenTheGate.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368541&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Avatar Switcher",
+        "descricao": "Salve a aparência atual do jogador como uma predefinição reutilizável e alterne entre os avatares salvos em um menu do jogo.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_AvatarSwitcher",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00369813/FS25_AvatarSwitcher.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369813&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Motor Load HUD",
+        "descricao": "Motor Load HUD adiciona uma exibição compacta de informações enquanto o jogador está sentado em um veículo motorizado.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_MotorLoadHUD",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00366595/FS25_MotorLoadHUD.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366595&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Kärcher K2.14",
+        "descricao": "A Kaercher K2.14 é uma pequena lavadora que pode ser utilizada na limpeza de muitas ferramentas.",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_KaercherK2_14",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00305283/FS25_KaercherK2_14.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305283&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Old Shed With Workshop Trigger",
+        "descricao": "Este é um galpão posicionável com gatilho de oficina funcional.",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_Workshop_with_Shed",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00311116/FS25_Workshop_with_Shed.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311116&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Old Weight Station",
+        "descricao": "Antiga estação de pesagem. Categoria: Ferramentas",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_OldWeightStation",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00312142/FS25_OldWeightStation.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312142&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Long Weight Station",
+        "descricao": "Esta é uma estação de pesagem com 2 pesos e pequeno escritório para operadores.",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_longWeightStation",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00369651/FS25_longWeightStation.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369651&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Brick Garage",
+        "descricao": "Garagem para suas máquinas. -",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_BrickGarageWithShed",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00350610/FS25_BrickGarageWithShed.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=350610&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Bunkersilo Hotspot",
+        "descricao": "Adiciona um ponto de acesso de mapa a cada silo de bunker que você possui, para que você possa encontrá-los e visitá-los como qualquer outro local.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_BunkerSiloHotspot",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00363550/FS25_BunkerSiloHotspot.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=363550&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Auto Open - Intelligent Gate Control",
+        "descricao": "Abertura e fechamento automático de portões e portas!",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_autoOpen",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00326341/FS25_autoOpen.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=326341&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
