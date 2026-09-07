@@ -2129,5 +2129,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311892&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Fish Food Factory Small",
+        "descricao": "****REQUER DLC DE EXPANSÃO DE PESCA DAS MONTANHAS**** Pequena fábrica de alimentos para peixes para sua fazenda.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_fishFoodFactorySmall",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00340316/FS25_fishFoodFactorySmall.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=340316&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
