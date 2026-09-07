@@ -988,7 +988,7 @@
     {
         "nome": "Filllevel Warning",
         "descricao": "Aviso de nível de enchimento para colheitadeiras. Quando o nível de preenchimento atingir 50% e 80%, um tom de sinal será ouvido.",
-        "categoria": "Combine Harvesting - Harvesters",
+        "categoria": "Jogabilidade",
         "arquivo": "FS25_Filllevelwarning",
         "url": "https://cdn27.giants-software.com/modHub/storage/00303840/FS25_Filllevelwarning.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303840&title=fs2025",
