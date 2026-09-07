@@ -1971,16 +1971,6 @@
         "imagem_url": ""
     },
     {
-        "nome": "Case IH Pack",
-        "descricao": "Case IH Pack, mod de Tratores pequenos para Farming Simulator 25, com pacote CASO e o pacote inclui.",
-        "categoria": "Tratores pequenos",
-        "arquivo": "FS25_CaseIHPack",
-        "url": "https://www.dropbox.com/scl/fi/sl89s1dgtjcvf6208ikjv/FS25_CASE_Pack.zip?rlkey=ahf1k1zc07o5nuxlk8dhg7uza&st=14tgvw4d&e=2&dl=1",
-        "url_pagina": "https://www.kingmods.net/pt/fs25/mods/81481/case-ih-pack",
-        "fonte": "kingmods",
-        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/case-ih-pack-fs25-WiAvD.jpg"
-    },
-    {
         "nome": "JCB 8030 ZTS Excavator",
         "descricao": "Miniescavadeira JCB 8030 ZTS 3.2T Fabricada de 2006 a 2020, esta pequena escavadeira é perfeita para pequenas áreas.",
         "categoria": "Forestry - Excavators",
@@ -2139,5 +2129,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=340316&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Case IH Pack",
+        "descricao": "Case IH Pack, mod de Tratores pequenos para Farming Simulator 25, com pacote CASO e o pacote inclui.",
+        "categoria": "Tratores pequenos",
+        "arquivo": "FS25_CASE_Pack",
+        "url": "https://download853.mediafire.com/z4pfeew3117gohLECpl-60Zz0htx42uHCsgVCcVbw2vZo5VCOWuY0UMjhX1rpX7MV-0GwKsQqtlda6QAeEqtjc5fqxLXTzTN4qwJsmRD_7jo7Kf4yvxtM9rWlKCf9iuafq78vr6b-S_MD6-KcfliYg18Mdo-tIJFoTk6ArBrMWacvvU/t1i4e15h2qe6wke/FS25_CASE_Pack.zip",
+        "url_pagina": "https://www.kingmods.net/pt/fs25/mods/81481/case-ih-pack",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/case-ih-pack-fs25-WiAvD.jpg",
+        "fonte": "kingmods"
     }
 ]
