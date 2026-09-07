@@ -137,7 +137,7 @@
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/dacia-duster-fs25-QsTYF.jpg"
     },
     {
-        "nome": "Produção de peixe",
+        "nome": "fish",
         "descricao": "Adiciona uma fabrica com tanques de peixes",
         "categoria": "Fabrica",
         "arquivo": "FISH_UNZIP",
@@ -2120,7 +2120,7 @@
         "imagem_url": ""
     },
     {
-        "nome": "ModHub | Farming Simulator",
+        "nome": "fish",
         "descricao": "ModHub | Farming Simulator, mod de Geral para Farming Simulator 25.",
         "categoria": "Geral",
         "arquivo": "FS25_Fish_Production",
