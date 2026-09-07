@@ -1,0 +1,35 @@
+{
+  "nome_mapa": "Fazenda Pirambeiras",
+  "descricao": "Mapa focado na agricultura brasileira com lavouras e equipamentos tradicionais",
+  "arquivo": "FS25_Pirambeiras",
+  "url": "https://cdn26.giants-software.com/modHub/storage/00343693/FS25_Pirambeiras.zip",
+  "mods_obrigatorios": [
+    {
+      "nome": "Barbed Wire Fence And Wooden Gate",
+      "descricao": "Mod obrigatório para o mapa Pirambeiras",
+      "categoria": "Outros",
+      "arquivo": "FS25_Barbed_Wire_Fence_And_Wooden_Gate",
+      "url": "https://cdn26.giants-software.com/modHub/storage/00305483/FS25_Barbed_Wire_Fence_And_Wooden_Gate.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Placeable Ramp",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_Placeable_Ramp",
+      "url": "https://cdn26.giants-software.com/modHub/storage/00314132/FS25_Placeable_Ramp.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+    },
+    {
+      "nome": "Southern Brazi Wood House",
+      "descricao": "Mod obrigatório para o mapa Agro Norte",
+      "categoria": "Outros",
+      "arquivo": "FS25_Southern_Brazil_Wood_House",
+      "url": "https://cdn26.giants-software.com/modHub/storage/00333985/FS25_Southern_Brazil_Wood_House.zip",
+      "fonte": "custom",
+      "imagem_url": ""
+     }
+  ]
+}
