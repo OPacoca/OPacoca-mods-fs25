@@ -137,13 +137,14 @@
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/dacia-duster-fs25-QsTYF.jpg"
     },
     {
-        "nome": "fish",
-        "descricao": "Adiciona uma fabrica com tanques de peixes",
+        "nome": "Fish Production",
+        "descricao": "ModHub | Farming Simulator, mod de Geral para Farming Simulator 25.",
         "categoria": "Fabrica",
-        "arquivo": "FISH_UNZIP",
-        "url": "https://download1581.mediafire.com/kwvf1kavtfbgHe96AYkb4PjaNuIsXwngDK_Q-BA1uMgvY02jR6m0oBXCLy-3uRLUDedjrnuAl29_RZLSVD_mGPjXJh9J7hKxxZsMvRqEH-bl49nkjhh2MLSHIwogbpHdUMsT0Hann-UOzE2EQEWfnVCXwlMsPLms7_MtgTpSxoUh5DI/6rkyo15yefcp52u/FISH_UNZIP.zip",
+        "arquivo": "FS25_Fish_Production",
+        "url": "https://download851.mediafire.com/yi8zmoqnwehg_NhhuIN_pdnCXSbpDGRTaDIla6Pd0fi9j1-cR32osfSsZ5JR9pxdohO-PH2gPucpc77BzUI-HCLkZ8NaKz6G-uJukEL__PPJ_vFjtc4pzcw48f3NTYfa1-uLA-O6RDp0JurtHEF7Xy58zErXqmQkgrAUgrTkcBGU8tw/nomkismoyu28rfd/FS25_Fish_Production.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php",
         "fonte": "kingmods",
-        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/fish-production-fs25-WmYw5.jpg"
+        "imagem_url": "/img/content/facebookOG/og_base.jpg"
     },
     {
         "nome": "Custos de combustível realistas",
