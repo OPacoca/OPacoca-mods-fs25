@@ -2384,5 +2384,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=326341&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Schäffer Tools",
+        "descricao": "O pacote de ferramentas inclui ferramentas com largura máxima de 120 cm.",
+        "categoria": "Loaders - Front Loader Tools",
+        "arquivo": "FS25_Schaeffer_Tools",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00359436/FS25_Schaeffer_Tools.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=359436&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
