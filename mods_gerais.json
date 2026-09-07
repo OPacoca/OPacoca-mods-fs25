@@ -580,9 +580,10 @@
     {
         "nome": "Additional Game Settings",
         "descricao": "Este mod adiciona uma nova guia de configurações ao menu de pausa.",
-        "categoria": "Jogabilidade",
+        "categoria": "Geral",
         "arquivo": "FS25_additionalGameSettings",
         "url": "https://cdn26.giants-software.com/modHub/storage/00308552/FS25_additionalGameSettings.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=308552",
         "fonte": "modhub",
         "imagem_url": ""
     },
