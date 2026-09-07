@@ -137,16 +137,6 @@
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/dacia-duster-fs25-QsTYF.jpg"
     },
     {
-        "nome": "Fish Production",
-        "descricao": "ModHub | Farming Simulator, mod de Geral para Farming Simulator 25.",
-        "categoria": "Fabrica",
-        "arquivo": "FS25_Fish_Production",
-        "url": "https://download851.mediafire.com/yi8zmoqnwehg_NhhuIN_pdnCXSbpDGRTaDIla6Pd0fi9j1-cR32osfSsZ5JR9pxdohO-PH2gPucpc77BzUI-HCLkZ8NaKz6G-uJukEL__PPJ_vFjtc4pzcw48f3NTYfa1-uLA-O6RDp0JurtHEF7Xy58zErXqmQkgrAUgrTkcBGU8tw/nomkismoyu28rfd/FS25_Fish_Production.zip",
-        "url_pagina": "https://www.farming-simulator.com/mod.php",
-        "fonte": "kingmods",
-        "imagem_url": "/img/content/facebookOG/og_base.jpg"
-    },
-    {
         "nome": "Custos de combustível realistas",
         "descricao": "Adiciona valor no combustivel",
         "categoria": "Geral",
@@ -2119,15 +2109,5 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=356527&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
-    },
-    {
-        "nome": "fish",
-        "descricao": "ModHub | Farming Simulator, mod de Geral para Farming Simulator 25.",
-        "categoria": "Geral",
-        "arquivo": "FS25_Fish_Production",
-        "url": "https://download851.mediafire.com/yi8zmoqnwehg_NhhuIN_pdnCXSbpDGRTaDIla6Pd0fi9j1-cR32osfSsZ5JR9pxdohO-PH2gPucpc77BzUI-HCLkZ8NaKz6G-uJukEL__PPJ_vFjtc4pzcw48f3NTYfa1-uLA-O6RDp0JurtHEF7Xy58zErXqmQkgrAUgrTkcBGU8tw/nomkismoyu28rfd/FS25_Fish_Production.zip",
-        "url_pagina": "https://www.farming-simulator.com/mod.php",
-        "imagem_url": "/img/content/facebookOG/og_base.jpg",
-        "fonte": "kingmods"
     }
 ]
