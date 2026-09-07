@@ -2119,5 +2119,15 @@
         "url_pagina": "https://www.kingmods.net/pt/fs25/mods/59682/producao-de-peixe",
         "fonte": "kingmods",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/fish-production-fs25-WmYw5.jpg"
+    },
+    {
+        "nome": "Fish Farming",
+        "descricao": "Comece sua piscicultura colocando a quantidade de tanques que desejar.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_FishFarming",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00311892/FS25_FishFarming.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311892&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
