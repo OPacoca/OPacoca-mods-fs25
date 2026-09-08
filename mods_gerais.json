@@ -2404,5 +2404,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369633&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Hideout Tarps Pack",
+        "descricao": "Este pacote fornece planos de ocultação para fechar lacunas visuais entre terrenos, paredes e edifícios.",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_ConcealmentTarpPack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00366468/FS25_ConcealmentTarpPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366468&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
