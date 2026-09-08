@@ -2414,5 +2414,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366468&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Silver 3500",
+        "descricao": "Picape Lizard Silver 3500 com 6 carrocerias para realizar diversos trabalhos dentro e fora de sua fazenda.",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_Lizard_Silver_3500",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00323767/FS25_Lizard_Silver_3500.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=323767&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
