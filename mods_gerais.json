@@ -2394,5 +2394,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=359436&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Recent Construction Refund",
+        "descricao": "Colocou um edifício ou decoração no local errado? Pressione Ctrl+Z dentro de 120 segundos para cancelar sua compra comercial mais recente.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_RecentConstructionRefund",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00369633/FS25_RecentConstructionRefund.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369633&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
