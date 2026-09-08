@@ -2424,5 +2424,75 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=323767&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Free Terraforming And Painting",
+        "descricao": "Pintar e terraformar já consome bastante tempo, não precisa custar muito dinheiro.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_FreeTerraformingAndPainting",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00305153/FS25_FreeTerraformingAndPainting.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305153&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "STIHL MS 261 C-M Light 04/ Timber Sports",
+        "descricao": "",
+        "categoria": "Hand Tools - Chainsaws",
+        "arquivo": "FS25_ms261",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00306064/FS25_ms261.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=306064&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Paint And Terraform Anywhere",
+        "descricao": "Paint and Terraform Anywhere Este Mod para as Ferramentas de Paisagismo permite pintar e Terraform em qualquer lugar.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_paintAndTerraformAnywhere",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00303356/FS25_paintAndTerraformAnywhere.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303356&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Water Tank For Greenhouses",
+        "descricao": "Tanque de Água para Estufas Este Tanque de Água para Estufas foi desenvolvido para fornecer água para estufas de forma prática e eficiente.",
+        "categoria": "Package",
+        "arquivo": "FS25_concreteBaseWaterTank",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00348052/FS25_concreteBaseWaterTank.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=348052&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Faucet And Water Tank Set",
+        "descricao": "Torneira de jardim para encher utensílios com água sem custo de enchimento!",
+        "categoria": "Placeable - Water Tanks",
+        "arquivo": "FS25_Water_Tap_Pack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00315965/FS25_Water_Tap_Pack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=315965&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Water Well",
+        "descricao": "Este mod adiciona um poço ao jogo, do qual você pode tirar água.",
+        "categoria": "Placeable - Water Tanks",
+        "arquivo": "FS25_Water_Well",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00335188/FS25_Water_Well.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=335188&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Large Water Tank",
+        "descricao": "Categoria: Tanques de água",
+        "categoria": "Placeable - Water Tanks",
+        "arquivo": "FS25_placeable_waterTank",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00322036/FS25_placeable_waterTank.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322036&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
