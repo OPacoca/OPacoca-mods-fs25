@@ -2494,5 +2494,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322036&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "All The Ground Textures Ingame",
+        "descricao": "Este Mod adiciona todas as texturas de solo disponíveis no mapa ao menu de pintura de textura de solo do jogo.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_allTheGroundTextures",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00306879/FS25_allTheGroundTextures.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=306879&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
