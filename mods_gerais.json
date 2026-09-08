@@ -2504,5 +2504,225 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=306879&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Land Rover Defender",
+        "descricao": "Land Rover Defender Categoria: Carros e Bicicletas",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_defender",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00368467/FS25_defender.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368467&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "JCB E-tech Powerpack",
+        "descricao": "JCB E-Tech Powerpack Os conjuntos de energia pioneiros da JCB são os primeiros de uma gama de soluções de armazenamento de energia com zero emissões, menos ruído e sem comprometer o desempenho para fornecer energia onde e quando você precisar.",
+        "categoria": "Miscellaneous - Miscellaneous",
+        "arquivo": "FS25_JCB_Powerpack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00310865/FS25_JCB_Powerpack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=310865&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Mountain Bike",
+        "descricao": "Vamos explorar todos os lugares com a incrível bicicleta feita para todos os terrenos, chamar seus amigos para uma aventura extrema nas montanhas ou criar trilhas em um campo da sua fazenda.",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_Lizard_MountainBike",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00313833/FS25_Lizard_MountainBike.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=313833&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Farm Gate Pack",
+        "descricao": "Farm Gate Pack incluindo 8 estilos diferentes. Categoria: Decoração Manutenção diária: $ 10",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_FarmGatePack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00333293/FS25_FarmGatePack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=333293&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Kaercher Pack",
+        "descricao": "Lança Kaercher para lavagem dos veículos Além do mod básico do jogo, foi adicionada a possibilidade de usar em qualquer lugar Opção é mão direita ou mão esquerda Categoria: Diversos e Ferramentas Manuais",
+        "categoria": "Placeable - Miscellaneous",
+        "arquivo": "FS25_kaercher_pack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00311651/FS25_kaercher_pack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311651&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Water Pump Station",
+        "descricao": "Esta é uma estação de bombeamento de água para o seu quintal ou arredores.",
+        "categoria": "Placeable - Water Tanks",
+        "arquivo": "FS25_Waterpumpingstation_crossplay",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00305203/FS25_Waterpumpingstation_crossplay.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305203&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Massey Ferguson 4700 / 5700 Series",
+        "descricao": "Massey Ferguson Série 4700 e 5700 Trator robusto e eficiente, ideal para diversas tarefas agrícolas, oferecendo potência, durabilidade, versatilidade e agilidade operacional.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_MF_4700_5700_Series",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00336861/FS25_MF_4700_5700_Series.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=336861&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Massey Ferguson 100 Series",
+        "descricao": "-MF 165, 175, 185, 168, 178, 188 e versões Multi-Power -MF 100 2WD Informações: -Hp: 58 - 85 -Preço base: 18000 $ -MF 100 4WD Informações: -Hp: 58 - 85 -Preço base: 24000 $ -Configuração da luz frontal -Configuração da roda -Configuração de pesos...",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_MasseyFerguson100",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00364062/FS25_MasseyFerguson100.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=364062&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Massey Ferguson 3670",
+        "descricao": "Categoria: Dirigíveis / Tratores Médios",
+        "categoria": "Drivables - Medium Tractors",
+        "arquivo": "FS25_Massey_Ferguson_3670",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00329646/FS25_Massey_Ferguson_3670.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=329646&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Real GPS Mod",
+        "descricao": "Mod GPS Real Este mod não inclui nenhuma funcionalidade GPS, é usado para exibir o minimapa e a trilha GPS dentro de um veículo sem a necessidade de usar o HUD.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_realGPS",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00318267/FS25_realGPS.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=318267&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Exhaust Extension",
+        "descricao": "Este script adiciona um efeito realista de partículas de fumaça a todos os veículos.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_exhaustExtension",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00311912/FS25_exhaustExtension.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311912&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Scythe",
+        "descricao": "Esta é uma foice velha. Antes da invenção de grandes máquinas e cortadores, as foices eram usadas para cortar grama.",
+        "categoria": "Drivables - Miscellaneous",
+        "arquivo": "FS25_Scythe",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00304943/FS25_Scythe.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=304943&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "John Deere 4020, 4010, 4000",
+        "descricao": "Categoria: Tratores Pequenos Preço Base: $ 25.000 Potência: 80-101 HP Máx.",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_JohnDeere4020",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00318678/FS25_JohnDeere4020.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=318678&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Animals Placeables Pack",
+        "descricao": "Coloca e cria animais em 22 pastagens! Categoria: currais para animais 1.",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Animals_Placeables_Pack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00319798/FS25_Animals_Placeables_Pack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=319798&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "No More Auto Lift",
+        "descricao": "Graças a esta modificação, os implementos permanecem no solo quando acoplados.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_noMoreAutoLift",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00303952/FS25_noMoreAutoLift.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303952&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Weighingstation",
+        "descricao": "Esta é uma balança simples clássica para pesagem de veículos ou veículos carregados.",
+        "categoria": "Placeable - Decoration",
+        "arquivo": "FS25_WeighingStation_crossplay",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00305329/FS25_WeighingStation_crossplay.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305329&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard G2",
+        "descricao": "Lizard G2",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_LizardG2",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00338924/FS25_LizardG2.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=338924&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Food Mixer And Silo",
+        "descricao": "O pacote inclui: Silo de grãos",
+        "categoria": "Package",
+        "arquivo": "FS25_FoodMixerSilo",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00342847/FS25_FoodMixerSilo.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=342847&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Mercedes-Benz Actros 20 Series South-America",
+        "descricao": "Categoria: Caminhões Preço base: 117.000 $ Velocidade máxima: 90 kp/h Recursos opcionais Motores: 450, 480hp Configurações independentes de pneus (dianteiro e traseiro) Peças aerodinâmicas Design do aro Design do cubo da roda Design do parafuso...",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_MB_Actros20Series",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00339598/FS25_MB_Actros20Series.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339598&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Brazilian Fences",
+        "descricao": "As cercas brasileiras, ideais para cercar sua propriedade e mantê-la protegida de intrusos e animais, incluem 5 modelos de cercas e 4 portões.",
+        "categoria": "Placeable - Fences",
+        "arquivo": "FS25_Brazilian_fences",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00334487/FS25_Brazilian_fences.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=334487&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Brazilian Fences",
+        "descricao": "As cercas brasileiras, ideais para cercar sua propriedade e mantê-la protegida de intrusos e animais, incluem 1 modelo de cerca e 3 modelos de portão.",
+        "categoria": "Placeable - Fences",
+        "arquivo": "FS25_frence_BR",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00365065/FS25_frence_BR.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365065&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small PigBarn BR",
+        "descricao": "Um chiqueiro de estilo brasileiro, perfeito para dar um toque rural mais autêntico à sua fazenda!",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Pig_Barn_Small_BR",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00339423/FS25_Pig_Barn_Small_BR.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339423&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
