@@ -2724,5 +2724,255 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339423&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Configure Placeables Again",
+        "descricao": "Este mod permite reconfigurar itens já construídos sem precisar vendê-los e reconstruí-los.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_configPlaceablesAgain",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00370614/FS25_configPlaceablesAgain.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=370614&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Passenger Seat In Singleplayer",
+        "descricao": "Você prefere jogar Farming Simulator 25 sozinho, mas não quer perder as animadas cabines e assentos de passageiros do jogo?",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_PassengerSeatUnlock",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00371121/FS25_PassengerSeatUnlock.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=371121&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "RealSilo – Realistic Silo Compartments",
+        "descricao": "O RealSilo divide seus silos em compartimentos separados, cada um para um tipo de produto.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_RealSilo",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00369067/FS25_RealSilo.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369067&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Manual Paint - Per-Material Vehicle Colours",
+        "descricao": "Pinte TODOS os materiais pintáveis ​​em um veículo - não apenas um punhado de faixas coloridas que o fabricante do veículo expôs.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ManualPaint",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00369086/FS25_ManualPaint.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369086&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Rain Fills Water Troughs",
+        "descricao": "A chuva enche os bebedouros para Farming Simulator 25.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_RainFillsWaterTroughs",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00367390/FS25_RainFillsWaterTroughs.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=367390&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Automatic Hall Lights",
+        "descricao": "Este mod controla automaticamente a iluminação de salas adequadas.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_AutomaticHallLights",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00370597/FS25_AutomaticHallLights.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=370597&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Player Last Position",
+        "descricao": "Salva a posição de cada jogador ao desconectar, independentemente do ciclo de salvamento do servidor.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_PlayerLastPosition",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00354067/FS25_PlayerLastPosition.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=354067&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Seasonal Milk Production",
+        "descricao": "Adiciona produção sazonal de leite realista ao Farming Simulator 25, com base nos ciclos naturais de produção leiteira observados em todo o mundo.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_SeasonalMilkProduction",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00365513/FS25_SeasonalMilkProduction.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365513&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Animal Planner",
+        "descricao": "Animal Planner adiciona planejamento detalhado de manejo diretamente ao menu Animais.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_AnimalPlanner",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00368672/FS25_AnimalPlanner.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368672&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Factory Profit Calculator",
+        "descricao": "Calculadora de lucro de fábrica adiciona uma calculadora de produção e um editor de administrador ao menu do jogo.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_FactoryProfitCalculator",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00368477/FS25_FactoryProfitCalculator.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368477&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Collision Damage",
+        "descricao": "Adiciona danos adicionais ao veículo após colisões mais fortes.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_CollisionDamage",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00361963/FS25_CollisionDamage.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=361963&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Realistic First Person",
+        "descricao": "As pessoas não têm todas a mesma altura, então todos vivenciam o ambiente a partir de um nível de olhar diferente.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_RealisticFirstPerson",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00332533/FS25_RealisticFirstPerson.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=332533&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Vehicle Camera Dynamics",
+        "descricao": "Vehicle Camera Dynamics adiciona uma câmera dinâmica de terceira pessoa para veículos, proporcionando à direção uma sensação mais natural de peso e movimento.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_VehicleCameraDynamics",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00366989/FS25_VehicleCameraDynamics.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366989&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "WayPoint GPS",
+        "descricao": "O WayPoint GPS permite definir um alvo GPS simples diretamente do mapa ESC.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_WayPointGPS",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00365275/FS25_WayPointGPS.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365275&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Farm Icon Color",
+        "descricao": "Farm Icon Color permite que você dê a cada fazenda uma identidade visual clara no Farming Simulator 25.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_farmIconColor",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00366058/FS25_farmIconColor.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366058&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Mouse Click Actions",
+        "descricao": "As ações de clique do mouse (MCA) tornam as interações com veículos no Farming Simulator 25 fáceis e intuitivas.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_MouseClickActions",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00366477/FS25_MouseClickActions.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366477&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Manual Refueling",
+        "descricao": "Reabastecimento Manual FS25 adiciona um sistema de reabastecimento manual ao Farming Simulator 25.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ManualRefuelingSystem",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00364326/FS25_ManualRefuelingSystem.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=364326&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Icon Tooltips With Name/Description",
+        "descricao": "Você está cansado de ficar pairando sobre pequenos ícones misteriosos no menu da loja, imaginando desesperadamente se esse ícone significa “trigo” ou “batatas”?",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_IconTooltips",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00365243/FS25_IconTooltips.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365243&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Variable Tip Height",
+        "descricao": "Com este mod de script, você pode limitar o ângulo máximo de inclinação dos trailers em etapas fixas.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_VariableTipHeight",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00363219/FS25_VariableTipHeight.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=363219&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Look Back Camera",
+        "descricao": "Look Back adiciona uma função rápida de visão traseira.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_LookBack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00363084/FS25_LookBack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=363084&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Vehicle Mileage",
+        "descricao": "Um mod autônomo que adiciona uma exibição de quilometragem aos veículos no Farming Simulator 25.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_VehicleMileage",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00347015/FS25_VehicleMileage.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=347015&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Field Rename",
+        "descricao": "Permite renomear seus campos diretamente do mapa. Clique em um campo de sua propriedade e use o botão “Renomear” para atribuir um nome personalizado a ele.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_FieldRename",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00347623/FS25_FieldRename.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=347623&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Wet Ground Wheel Slip",
+        "descricao": "Ajusta dinamicamente a aderência dos pneus do veículo em solo molhado com base no deslizamento real das rodas, chuva e umidade do solo.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_Wet_Wheel_Tracks",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00344446/FS25_Wet_Wheel_Tracks.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=344446&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Task List",
+        "descricao": "Lista de Tarefas Se você estiver anotando quais tarefas precisa realizar ou até mesmo usando software externo, a Lista de Tarefas está aqui para ajudar.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_TaskList",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00312938/FS25_TaskList.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312938&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Multiplayer Vehicle Keys",
+        "descricao": "Este addon multijogador permite aos jogadores remover as chaves de um veículo evitando que ele seja dirigido por outros jogadores.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_MultiplayerVehicleKeys",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00334795/FS25_MultiplayerVehicleKeys.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=334795&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
