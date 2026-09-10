@@ -2895,5 +2895,25 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=334795&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Realistic Vehicle Service",
+        "descricao": "O Realistic Vehicle Service adiciona partida manual do motor, chaves removíveis, comportamento de aquecimento, lógica de avaria, um painel HUD personalizado e um fluxo de trabalho de resgate em campo.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_RealisticVehicleService",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00359741/FS25_RealisticVehicleService.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=359741&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Extended Vehicle Maintenance",
+        "descricao": "A Manutenção Estendida de Veículos adiciona um sistema realista de manutenção e reparo ao Farming Simulator 25.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ExtendedVehicleMaintenance",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00363077/FS25_ExtendedVehicleMaintenance.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=363077&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
