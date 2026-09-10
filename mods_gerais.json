@@ -2866,16 +2866,6 @@
         "imagem_url": ""
     },
     {
-        "nome": "Vehicle Mileage",
-        "descricao": "Um mod autônomo que adiciona uma exibição de quilometragem aos veículos no Farming Simulator 25.",
-        "categoria": "Jogabilidade",
-        "arquivo": "FS25_VehicleMileage",
-        "url": "https://cdn26.giants-software.com/modHub/storage/00347015/FS25_VehicleMileage.zip",
-        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=347015&title=fs2025",
-        "fonte": "modhub",
-        "imagem_url": ""
-    },
-    {
         "nome": "Field Rename",
         "descricao": "Permite renomear seus campos diretamente do mapa. Clique em um campo de sua propriedade e use o botão “Renomear” para atribuir um nome personalizado a ele.",
         "categoria": "Jogabilidade",
