@@ -497,15 +497,6 @@
         "imagem_url": ""
     },
     {
-        "nome": "Improved Exhaust Effects",
-        "descricao": "Melhora os efeitos do fumo de escape de veículos motorizados: - Escurece o fumo em veículos sem AdBlue (excepto veículos eléctricos e movidos a metano) - A quantidade de fumo varia dependendo da temperatura do motor - A carga do motor também...",
-        "categoria": "Jogabilidade",
-        "arquivo": "FS25_ImprovedExhaustEffects",
-        "url": "https://cdn25.giants-software.com/modHub/storage/00316137/FS25_ImprovedExhaustEffects.zip",
-        "fonte": "modhub",
-        "imagem_url": ""
-    },
-    {
         "nome": "Real Dirt Color",
         "descricao": "Real Dirt Color altera a cor da sujeira de todos os veículos/ferramentas para o ambiente circundante.",
         "categoria": "Jogabilidade",
