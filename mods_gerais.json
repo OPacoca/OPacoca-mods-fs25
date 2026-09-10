@@ -2727,16 +2727,6 @@
         "imagem_url": ""
     },
     {
-        "nome": "Vehicle Camera Dynamics",
-        "descricao": "Vehicle Camera Dynamics adiciona uma câmera dinâmica de terceira pessoa para veículos, proporcionando à direção uma sensação mais natural de peso e movimento.",
-        "categoria": "Jogabilidade",
-        "arquivo": "FS25_VehicleCameraDynamics",
-        "url": "https://cdn26.giants-software.com/modHub/storage/00366989/FS25_VehicleCameraDynamics.zip",
-        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366989&title=fs2025",
-        "fonte": "modhub",
-        "imagem_url": ""
-    },
-    {
         "nome": "WayPoint GPS",
         "descricao": "O WayPoint GPS permite definir um alvo GPS simples diretamente do mapa ESC.",
         "categoria": "Jogabilidade",
