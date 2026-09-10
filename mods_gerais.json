@@ -570,15 +570,6 @@
         "imagem_url": ""
     },
     {
-        "nome": "Longer Lasting Mud",
-        "descricao": "Lama mais duradoura. Este mod adiciona uma opção de jogo que permite controlar quanto tempo a lama deve permanecer visível nas rodas, usando um multiplicador linear.",
-        "categoria": "Jogabilidade",
-        "arquivo": "FS25_LongerLastingMud",
-        "url": "https://cdn25.giants-software.com/modHub/storage/00325232/FS25_LongerLastingMud.zip",
-        "fonte": "modhub",
-        "imagem_url": ""
-    },
-    {
         "nome": "Enhanced Color Selection",
         "descricao": "Este mod aprimora as opções de seleção de cores para veículos, adicionando cores padrão adicionais (por exemplo, usadas para \"Cor Principal\"), bem como adicionando algumas opções adicionais para cores de aro.",
         "categoria": "Jogabilidade",
