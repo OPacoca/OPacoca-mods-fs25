@@ -744,15 +744,6 @@
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/dodge-ram-5500-fs25-DlJXF.jpg"
     },
     {
-        "nome": "Enhanced Vehicle",
-        "descricao": "Enhanced Vehicle, mod de Scripts para Farming Simulator 25, com erros conhecidos e atalhos de teclado padrão.",
-        "categoria": "Scripts",
-        "arquivo": "FS25_EnhancedVehicle",
-        "url": "https://github.com/ZhooL/FS25_EnhancedVehicle/releases/latest/download/FS25_EnhancedVehicle.zip",
-        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/enhanced-vehicle-fs25-NXo02.jpg",
-        "fonte": "kingmods"
-    },
-    {
         "nome": "2024 Dodge Ram Mega Cab",
         "descricao": "2024 Dodge Ram Mega Cab, mod de Carros para Farming Simulator 25, com 2024 Dodge Ram 2500 Mega Cab e potência básica 400 HP.",
         "categoria": "Carros",
