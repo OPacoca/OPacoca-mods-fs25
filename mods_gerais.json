@@ -2507,16 +2507,6 @@
         "imagem_url": ""
     },
     {
-        "nome": "Real GPS Mod",
-        "descricao": "Mod GPS Real Este mod não inclui nenhuma funcionalidade GPS, é usado para exibir o minimapa e a trilha GPS dentro de um veículo sem a necessidade de usar o HUD.",
-        "categoria": "Jogabilidade",
-        "arquivo": "FS25_realGPS",
-        "url": "https://cdn27.giants-software.com/modHub/storage/00318267/FS25_realGPS.zip",
-        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=318267&title=fs2025",
-        "fonte": "modhub",
-        "imagem_url": ""
-    },
-    {
         "nome": "Exhaust Extension",
         "descricao": "Este script adiciona um efeito realista de partículas de fumaça a todos os veículos.",
         "categoria": "Jogabilidade",
