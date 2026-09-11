@@ -2865,5 +2865,15 @@
         "url_pagina": "https://www.kingmods.net/pt/fs25/mods/62554/volkswagen-delivery-2023",
         "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/volkswagen-delivery-2023-fs25-l2j3f.jpg",
         "fonte": "kingmods"
+    },
+    {
+        "nome": "Lizard Acc310 Series",
+        "descricao": "O Acc310 é um caminhão 3/4 mais vendido e conhecido mundialmente!",
+        "categoria": "Caminhões",
+        "arquivo": "FS22_Lizard_Acc310_Series",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00292996/FS22_Lizard_Acc310_Series.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?lang=en&country=pt&mod_id=292996&title=fs2022",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
