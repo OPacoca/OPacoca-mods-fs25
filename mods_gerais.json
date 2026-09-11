@@ -2855,5 +2855,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=363077&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Volkswagen Delivery 2023",
+        "descricao": "Volkswagen Delivery 2023, mod de Caminhões para Farming Simulator 25, com vW Delivery e carroceria Baú.",
+        "categoria": "Caminhões",
+        "arquivo": "FS25_VolkswagenDelivery2023",
+        "url": "https://www.mediafire.com/file/smx0a4277t8gydm/FS25_VW_Delivery.zip/file",
+        "url_pagina": "https://www.kingmods.net/pt/fs25/mods/62554/volkswagen-delivery-2023",
+        "imagem_url": "https://www.kingmods.net/uploads/fs25/mods/volkswagen-delivery-2023-fs25-l2j3f.jpg",
+        "fonte": "kingmods"
     }
 ]
