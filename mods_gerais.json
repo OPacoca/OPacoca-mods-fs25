@@ -2110,16 +2110,6 @@
         "imagem_url": ""
     },
     {
-        "nome": "Avatar Switcher",
-        "descricao": "Salve a aparência atual do jogador como uma predefinição reutilizável e alterne entre os avatares salvos em um menu do jogo.",
-        "categoria": "Jogabilidade",
-        "arquivo": "FS25_AvatarSwitcher",
-        "url": "https://cdn27.giants-software.com/modHub/storage/00369813/FS25_AvatarSwitcher.zip",
-        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369813&title=fs2025",
-        "fonte": "modhub",
-        "imagem_url": ""
-    },
-    {
         "nome": "Motor Load HUD",
         "descricao": "Motor Load HUD adiciona uma exibição compacta de informações enquanto o jogador está sentado em um veículo motorizado.",
         "categoria": "Jogabilidade",
