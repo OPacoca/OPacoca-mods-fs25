@@ -2866,5 +2866,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?lang=en&country=pt&mod_id=292996&title=fs2022",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Realistic Diesel Price",
+        "descricao": "Este script adiciona um menu que permite alterar o preço do diesel com base em países do mundo real.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_RealisticDieselPrice",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00363612/FS25_RealisticDieselPrice.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=363612&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
