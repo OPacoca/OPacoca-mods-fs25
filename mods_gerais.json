@@ -2768,5 +2768,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369801&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Better Contracts",
+        "descricao": "",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_BetterContracts",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00307829/FS25_BetterContracts.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=307829&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
