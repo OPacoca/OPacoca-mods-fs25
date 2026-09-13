@@ -2778,5 +2778,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=307829&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Supply & Transport Contracts",
+        "descricao": "Your neighbours are unable to complete some of their 'Supply Contracts' and are looking for your help.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_SupplyTransportContracts",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00311954/FS25_SupplyTransportContracts.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311954&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
