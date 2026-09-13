@@ -2758,5 +2758,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=363612&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Hand Tools",
+        "descricao": "Hand tools pack containing a pitchfork, potato fork, metal shovel, plastic shovel, scythe, and rake.",
+        "categoria": "Hand Tools - Shovels",
+        "arquivo": "FS25_handTools",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00369801/FS25_handTools.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369801&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
