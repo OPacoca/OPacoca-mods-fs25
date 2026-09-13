@@ -2788,5 +2788,45 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311954&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "John Deere RC6M Brush Cutter",
+        "descricao": "John Deere RC6M Brush Cutter Cost 4900$ Working width 2 meters Can be strapped down Working speed 22 KPH or 13 MPH Mower and mulcher versions",
+        "categoria": "Grassland - Mowers",
+        "arquivo": "FS25_RC6m",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00342442/FS25_RC6m.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=342442&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard RDMR 300",
+        "descricao": "Grazing brushcutter. - Category: Mowers - Category: Mowers - Required power: 100 HP",
+        "categoria": "Grassland - Mowers",
+        "arquivo": "FS25_lizard_RDMR_300",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00306275/FS25_lizard_RDMR_300.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=306275&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Joskin Bev Pack",
+        "descricao": "Joskin Bev brushcutters are excellent tools for cutting grass in smaller, narrow areas, making them ideal for use on compact tractors.",
+        "categoria": "Grassland - Mowers",
+        "arquivo": "FS25_Joskin_Bev_Pack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00352790/FS25_Joskin_Bev_Pack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=352790&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Unitrac Pack",
+        "descricao": "Lindner Unitrac 122 LDrive Category: Miscellaneous",
+        "categoria": "Drivables - Miscellaneous",
+        "arquivo": "FS25_unitracPack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00369228/FS25_unitracPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369228&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
