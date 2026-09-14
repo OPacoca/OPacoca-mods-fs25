@@ -2828,5 +2828,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369228&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Volkswagen Amarok V1.0.0.2",
+        "descricao": "Volkswagen Amarok V1.0.0.2, mod de Carros para Farming Simulator 25, com modsfsls e 5/5 - (3 votos).",
+        "categoria": "Carros",
+        "arquivo": "FS25_Volkswagen_Amarok_V1_0_0_2",
+        "url": "https://fs25.net/download-mod/26397",
+        "url_pagina": "https://fs25.net/volkswagen-amarok-v1-0/",
+        "imagem_url": "https://files.fs25.net/mods/2025/01/Volkswagen-Amarok-v1.0.webp",
+        "fonte": "fs25net"
     }
 ]
