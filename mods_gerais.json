@@ -2919,5 +2919,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?lang=fr&country=fr&mod_id=254741",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Real Mud",
+        "descricao": "Experimente verdadeiros desafios agrícolas com o mod Real Mud!",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_Realmud",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00359791/FS25_Realmud.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=359791&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
