@@ -2828,5 +2828,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369228&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Enhanced Animal System",
+        "descricao": "Este mod ajusta o sistema animal e o expande com os seguintes recursos: - Os animais têm descendentes masculinos e femininos (no jogo base, isso só se aplica a galinhas) - O número de descendentes é específico da raça - A reprodução não depende...",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_EnhancedAnimalSystem",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00333555/FS25_EnhancedAnimalSystem.zip",
+        "url_pagina": "https://farming-simulator.com/mod.php?mod_id=333555&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
