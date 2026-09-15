@@ -2849,5 +2849,65 @@
         "url_pagina": "https://farming-simulator.com/mod.php?mod_id=310168&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "John Deere 40 Series",
+        "descricao": "Tratores médios de 1978 a 1982. Versões dos EUA e da UE Faixa de 'tratores pequenos' 2WD Versão 4040 2WDB",
+        "categoria": "Drivables - Medium Tractors",
+        "arquivo": "FS25_John_Deere_40_Series",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00334178/FS25_John_Deere_40_Series.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=334178&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "John Deere AO And AR",
+        "descricao": "Especificações John Deere AO e AR: Preço base: $ 8.500 Potência: 26 hp Velocidade máxima: 15 km / h Mod recomendado: Trailed Lifter",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_JohnDeereAO_And_AR",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00335992/FS25_JohnDeereAO_And_AR.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=335992&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "International Farmall M",
+        "descricao": "Especificações Farmall M: Preço base: 15.000 $ Potência: 35-51 hp Velocidade máxima: 25 km / h Especificações Farmall MV: Preço base: 12.000 $ Potência: 25-47 hp Velocidade máxima: 25 km / h - Configuração da roda - Configuração do motor -...",
+        "categoria": "Drivables - Small Tractors",
+        "arquivo": "FS25_Farmall_M",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00363686/FS25_Farmall_M.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=363686&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Grazmec Silo Pack",
+        "descricao": "Grazmec Silo Pack Grazmec EMB SB500 Categoria: Vagões sem-fim",
+        "categoria": "Trailers - Auger Wagons",
+        "arquivo": "FS25_GrazmecSiloPack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00373214/FS25_GrazmecSiloPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=373214&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Vence Tudo PVT 3000",
+        "descricao": "Vence Tudo PVT 3000 Vence Tudo Garra para limpeza de solo Categoria: Ferramentas para carregadeira frontal",
+        "categoria": "Loaders - Front Loaders",
+        "arquivo": "FS25_VenceTudo_PVT3000",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00352444/FS25_VenceTudo_PVT3000.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=352444&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Piccin RP 1700",
+        "descricao": "Categoria: Cortadores",
+        "categoria": "Grassland - Mowers",
+        "arquivo": "FS25_Piccin_RP1700",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00325155/FS25_Piccin_RP1700.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=325155&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
