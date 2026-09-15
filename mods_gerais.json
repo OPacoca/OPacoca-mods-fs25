@@ -2829,5 +2829,25 @@
         "url_pagina": "https://farming-simulator.com/mod.php?mod_id=333555&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Storage Overhaul: Pallet Degradation System",
+        "descricao": "Dê a si mesmo um novo motivo para usar todos os incríveis mods de galpão do ModHub!",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_PalletDegradation",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00360720/FS25_PalletDegradation.zip",
+        "url_pagina": "https://farming-simulator.com/mod.php?mod_id=360720&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Animal Transports",
+        "descricao": "Transporte de animais. Estrutura internacional de transporte de animais S201.",
+        "categoria": "Animals - Animal Transport",
+        "arquivo": "FS25_animalTransports",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00310168/FS25_animalTransports.zip",
+        "url_pagina": "https://farming-simulator.com/mod.php?mod_id=310168&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
