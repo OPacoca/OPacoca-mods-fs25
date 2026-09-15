@@ -2909,5 +2909,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=325155&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Toyota Bandeirante Brazil",
+        "descricao": "Os SUVs Toyota no Brasil foram muito importantes para o crescimento do país.",
+        "categoria": "Geral",
+        "arquivo": "FS22_ToyotaBandeirante_PC",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00254741/FS22_ToyotaBandeirante_PC.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?lang=fr&country=fr&mod_id=254741",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
