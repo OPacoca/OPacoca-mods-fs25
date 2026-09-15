@@ -2929,5 +2929,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=359791&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Mud Sprayer",
+        "descricao": "Pulverizador de lama, quando você dirige seu trator em um campo seco, ele pulveriza lama seca, e quando você dirige em um campo úmido, ele pulveriza lama molhada.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_Mud_Sprayer",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00355179/FS25_Mud_Sprayer.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=355179&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
