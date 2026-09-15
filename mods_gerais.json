@@ -2939,5 +2939,35 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=355179&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "More Animal Husbandries Possible (64)",
+        "descricao": "Este mod aumenta o limite de criação de animais de 15 para 64, então agora você pode ter até 64 criação de animais por Savegame em SP e Multiplayer.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_animalLimitIncreaser64",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00303301/FS25_animalLimitIncreaser64.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303301&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Tip Anywhere",
+        "descricao": "Este mod permite que todos os jogadores despejem e removam tipos de preenchimento solto em qualquer lugar do mapa, inclusive em NPCs e terrenos sem dono.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_TipAnywhere",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00306882/FS25_TipAnywhere.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=306882&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Shed",
+        "descricao": "Um galpão para sua fazenda. Ele acomoda seu maquinário.",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_Barracao",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00311079/FS25_Barracao.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311079&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
