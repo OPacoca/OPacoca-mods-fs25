@@ -3169,5 +3169,65 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331546&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "House With Pool",
+        "descricao": "Uma casa com piscina para uma quinta moderna, com interior, churrasqueira e animações de piscina.",
+        "categoria": "Placeable - Farmhouses",
+        "arquivo": "FS25_House_With_Pool",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00326864/FS25_House_With_Pool.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=326864&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard F-150",
+        "descricao": "Categoria: Carros",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_Lizard_F150",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00359342/FS25_Lizard_F150.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=359342&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Lizard Silver 2500",
+        "descricao": "Com o Silver 2500, você pode se movimentar rapidamente pela fazenda e utilizá-lo nas tarefas diárias, aproveitando suas funções opcionais e personalizações visuais para atender às suas necessidades.",
+        "categoria": "Dirigíveis - Carros e Motos",
+        "arquivo": "FS25_Lizard_Silver_2500",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00342864/FS25_Lizard_Silver_2500.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=342864&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Manual Big Bag",
+        "descricao": "Adicione um toque de realismo ao seu jogo abrindo manualmente a bica de descarga dos Big Bags.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_manualBigBag",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00355358/FS25_manualBigBag.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=355358&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Manual Tipping",
+        "descricao": "Este mod adiciona controle manual sobre o sistema hidráulico de reboque, semirreboque e basculante.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_ManualTipping",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00317121/FS25_ManualTipping.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=317121&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Open Chicken Coop",
+        "descricao": "Galinheiro, onde você pode criar frango. - Capacidade: 31 frangos - Custo:4500$ - Manutenção: 9$/dia",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Open_Chicken_Coop",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00308490/FS25_Open_Chicken_Coop.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=308490&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
