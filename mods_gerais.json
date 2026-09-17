@@ -3129,5 +3129,45 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366648&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Confining Cows",
+        "descricao": "Confinamento de vacas",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Confining_Cows",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00315720/FS25_Confining_Cows.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=315720&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Exhaust Color Configurations",
+        "descricao": "Quer mais fumaça? Fumaça mais escura?",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_exhaustColorConfigurations",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00373115/FS25_exhaustColorConfigurations.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=373115&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "GPS Headland Assist",
+        "descricao": "O GPS Headland Assist oferece suporte ao dirigir no promontório usando o sistema GPS vanilla.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_GPSHeadlandAssist",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00360264/FS25_GPSHeadlandAssist.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=360264&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Grain Silo BR",
+        "descricao": "Silos Sul do Brasil Silos de armazenamento e secagem de grãos típicos do Sul do Brasil.",
+        "categoria": "Placeable - Grain Silos",
+        "arquivo": "FS25_Grain_Silo_BR",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00331546/FS25_Grain_Silo_BR.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331546&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
