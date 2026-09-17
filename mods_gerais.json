@@ -3029,5 +3029,45 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322795&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Small Greenhouse BR",
+        "descricao": "Estufa Pequena BR Esta Estufa Pequena BR é inspirada nas estufas utilizadas pelos pequenos produtores cearenses, principalmente na agricultura familiar.",
+        "categoria": "Placeable - Garden Sheds",
+        "arquivo": "FS25_Small_Greenhouse_BR",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00347900/FS25_Small_Greenhouse_BR.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=347900&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small Fuel Tank",
+        "descricao": "Posto de combustível para veículos. É muito útil em pequenas propriedades.",
+        "categoria": "Placeable - Diesel Tanks",
+        "arquivo": "FS25_Small_fuel_tank",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00335189/FS25_Small_fuel_tank.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=335189&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Rice Fields SA",
+        "descricao": "Arrozais SA São arrozais modificados com modelos de bombas baseados nos utilizados na região.",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_riceFieldsSA",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00328715/FS25_riceFieldsSA.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=328715&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Pack Sheds Br",
+        "descricao": "Pack Sheds Br Típico galpão de madeira brasileiro com extensão de tijolo - galpão",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_Pack_Sheds_Br",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00305014/FS25_Pack_Sheds_Br.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305014&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
