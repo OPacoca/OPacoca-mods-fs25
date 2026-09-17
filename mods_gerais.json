@@ -3069,5 +3069,65 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305014&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "CoursePlay",
+        "descricao": "Courseplay FS25 Courseplay para Farming Simulator 25 é um mod de automação poderoso e de longa data que tem sido um elemento básico na comunidade do Farming Simulator por quase 15 anos.",
+        "categoria": "Jogabilidade",
+        "arquivo": "FS25_Courseplay",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00331515/FS25_Courseplay.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331515&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "BR Metal Shed",
+        "descricao": "BR Metal Shed Galpão em Aluzinco típico do Sul do Brasil.",
+        "categoria": "Placeable - Sheds",
+        "arquivo": "FS25_BR_metal_shed",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00305297/FS25_BR_metal_shed.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305297&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Brazilian Houses Pack",
+        "descricao": "Pacote Casas Brasileiras Pacote de casas rurais tradicionais brasileiras, ideais para fazendas, vilas e mapas com temática brasileira.",
+        "categoria": "Placeable - Farmhouses",
+        "arquivo": "FS25_BrazilianHousesPack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00364654/FS25_BrazilianHousesPack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=364654&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Small Pasture For Cows, Horses, And Sheep",
+        "descricao": "Pequeno pasto para vacas e cavalos, Um pasto ao estilo brasileiro, perfeito para dar um toque rural mais autêntico à sua fazenda!",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Cow_Pasture_BR",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00347169/FS25_Cow_Pasture_BR.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=347169&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "ESC Houses Pack",
+        "descricao": "Pacote com 4 modelos de fazenda. Inclui funcionalidade de guarda-roupa e local para dormir, além de decorar sua fazenda.",
+        "categoria": "Placeable - Farmhouses",
+        "arquivo": "FS25_ESC_Houses_Pack",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00313446/FS25_ESC_Houses_Pack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=313446&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "ESC Sawmill",
+        "descricao": "Serraria do mapa Estância São Carlos - Categoria: Prédios de Produção",
+        "categoria": "Placeable - Production Sites",
+        "arquivo": "FS25_ESC_Sawmill",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00366648/FS25_ESC_Sawmill.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366648&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
