@@ -3019,5 +3019,15 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=308367&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Volvo FH16 Tipper",
+        "descricao": "Caminhão basculante Volvo FH16 Categoria: Caminhões",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_VolvoFH16Tipper",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00322795/FS25_VolvoFH16Tipper.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322795&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
