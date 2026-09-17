@@ -3259,5 +3259,25 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=348728&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Pigsty And Manure Heap",
+        "descricao": "Grande chiqueiro",
+        "categoria": "Placeable - Animal Pens",
+        "arquivo": "FS25_Pigsty_And_manureHeap",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00337210/FS25_Pigsty_And_manureHeap.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=337210&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Pilzer Pack",
+        "descricao": "Os produtos Pilzer são essenciais para aumentar a produtividade no campo, com fertilizantes, herbicidas, inoculantes e bioestimulantes de alta qualidade.",
+        "categoria": "Objects - Pallets",
+        "arquivo": "FS25_Pilzer_pack",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00319021/FS25_Pilzer_pack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=319021&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
