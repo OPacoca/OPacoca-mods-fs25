@@ -3229,5 +3229,35 @@
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=308490&title=fs2025",
         "fonte": "modhub",
         "imagem_url": ""
+    },
+    {
+        "nome": "Two Post Lift",
+        "descricao": "Categoria de levantamento: Ferramentas",
+        "categoria": "Placeable - Miscellaneous",
+        "arquivo": "FS25_PostLift",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00372793/FS25_PostLift.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=372793&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Repair Workshop",
+        "descricao": "Uma oficina compacta, perfeita para o dia a dia na fazenda, aliando funcionalidade e economia de espaço.",
+        "categoria": "Placeable - Miscellaneous",
+        "arquivo": "FS25_Repair_Workshop",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00324728/FS25_Repair_Workshop.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=324728&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Repair Workshop Auto Parts",
+        "descricao": "Este mod adiciona uma oficina mecânica e oficina de peças ao jogo.",
+        "categoria": "Placeable - Power Generators",
+        "arquivo": "FS25_Repair_Workshop_auto_parts",
+        "url": "https://cdn27.giants-software.com/modHub/storage/00348728/FS25_Repair_Workshop_auto_parts.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=348728&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
