@@ -2999,5 +2999,25 @@
         "url_pagina": "https://www.mediafire.com/file/4642llb1ftyp46c/FS25_Massey_Ferguson_275_300.zip/file?fbclid=IwcGRvZgVleHRuA2FlbQIxMABicmlkETFoZEdKWG13RkZicGVLV1U1c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl7VEGeMMFc7dYknh3D4u5Tt2uCz3KeeUQrdaYGoBBhPd2p5dlXy8E_cDJec_aem_SKVOicrvhZi7zXlZz4eiFg",
         "fonte": "facebook",
         "imagem_url": "https://scontent.fcpq17-1.fna.fbcdn.net/v/t39.30808-6/752807276_122138752365045281_2138235940094714760_n.jpg?stp=dst-jpg_tt6&cstp=mx1376x768&ctp=s1376x768&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHVBphB8-cJRJD4IGhFnXAPgOnJkb80SySA6cmRvzRLJOsNYe0TtqhJWj2pNSWiCxS776AlRR-oNU5SV_jbi3LZ&_nc_ohc=QOrP8M6rJjsQ7kNvwEVbo2U&_nc_oc=AdompmTG0zHY5mPteTxJb5R8yUbZdz7RdqqIBR5Y7k6ioEm4tUg5yUs9SYSS0x01LFbvXFJSBYMVH3382F3UUIQe&_nc_zt=23&_nc_ht=scontent.fcpq17-1.fna&_nc_gid=_sXSlHJ4JhZvD2a3cwDBcA&_nc_ss=7b2a8&oh=00_AQKRa8n7GUzXgAHL99AR0JNabDaUopD5v2nW7U9KGWwnYw&oe=6AB0BE6B"
+    },
+    {
+        "nome": "Volvo FH 16 Pack",
+        "descricao": "Pacote Volvo FH16 Volvo FH16 - Categoria: Caminhões",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_Volvo_FH_Pack",
+        "url": "https://cdn25.giants-software.com/modHub/storage/00322097/FS25_Volvo_FH_Pack.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322097&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
+    },
+    {
+        "nome": "Volvo FH16 Tanker",
+        "descricao": "Caminhão-tanque Volvo FH16 Caminhão-tanque com capacidade para transportar leite, leite de búfala, água, fertilizante líquido e herbicida Categoria: Caminhões",
+        "categoria": "Drivables - Trucks",
+        "arquivo": "FS25_VolvoFH16Tanker",
+        "url": "https://cdn26.giants-software.com/modHub/storage/00308367/FS25_VolvoFH16Tanker.zip",
+        "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=308367&title=fs2025",
+        "fonte": "modhub",
+        "imagem_url": ""
     }
 ]
