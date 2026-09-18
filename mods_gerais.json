@@ -613,7 +613,7 @@
     {
         "nome": "Hillux 2013",
         "descricao": "Um best-seller mundial!!! Esta picape de tamanho médio ajuda você a se locomover rapidamente e a realizar tarefas diárias enquanto transporta cargas pesadas.",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_LizardHillux2013",
         "url": "https://cdn25.giants-software.com/modHub/storage/00367401/FS25_LizardHillux2013.zip",
         "fonte": "modhub",
@@ -689,7 +689,7 @@
     {
         "nome": "Ranger 2017",
         "descricao": "A Ranger é muito elogiada mundialmente por ser uma picape confiável, robusta e tecnologicamente avançada.",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_Ranger2017",
         "url": "https://cdn26.giants-software.com/modHub/storage/00346114/FS25_Ranger2017.zip",
         "fonte": "modhub",
@@ -744,7 +744,7 @@
     {
         "nome": "Lizard Accelo 2013",
         "descricao": "Um remake de um pacote do Farming Simulator 22 com diversas adições e melhorias.",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_LizardAccelo",
         "url": "https://cdn25.giants-software.com/modHub/storage/00362454/FS25_LizardAccelo.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=362454&title=fs2025",
@@ -754,7 +754,7 @@
     {
         "nome": "Lizard NTG P320 Roll-On",
         "descricao": "Lagarto NTG P320 Roll-On. Olá, agricultores!",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_LIZARD_NTGP320_RollOn",
         "url": "https://cdn27.giants-software.com/modHub/storage/00312267/FS25_LIZARD_NTGP320_RollOn.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312267&title=fs2025",
@@ -774,7 +774,7 @@
     {
         "nome": "Case 970, 1070 Agri King",
         "descricao": "Categoria: Tratores Pequenos Preço Base: $ 24.000 Potência: 80-120 HP Máx.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_JICase970_1070",
         "url": "https://cdn27.giants-software.com/modHub/storage/00318677/FS25_JICase970_1070.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=318677&title=fs2025",
@@ -784,7 +784,7 @@
     {
         "nome": "Iveco 190-48",
         "descricao": "Iveco 190-48 TurboStar, é um camião concebido para o transporte pesado de mercadorias.",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_Iveco190_48_TurboStar",
         "url": "https://cdn27.giants-software.com/modHub/storage/00356204/FS25_Iveco190_48_TurboStar.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=356204&title=fs2025",
@@ -834,7 +834,7 @@
     {
         "nome": "Fiat Universal 650",
         "descricao": "Fiat Universal 650 2WD e 4WD Características gerais - Duas configurações de motor (real e irreal).",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_FIAT_Universal_650",
         "url": "https://cdn27.giants-software.com/modHub/storage/00322198/FS25_FIAT_Universal_650.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322198&title=fs2025",
@@ -844,7 +844,7 @@
     {
         "nome": "Fiat X70 Series",
         "descricao": "SÉRIE FIAT X70 1970-1975, 60-120 HP",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_FiatX70Series",
         "url": "https://cdn25.giants-software.com/modHub/storage/00319539/FS25_FiatX70Series.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=319539&title=fs2025",
@@ -854,7 +854,7 @@
     {
         "nome": "Fiat 480",
         "descricao": "Trator agrícola Fiat 480 da década de 1970, fabricado pela Fiat em 1973 pela Fiat Trattori Spa.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_Fiat_480",
         "url": "https://cdn27.giants-software.com/modHub/storage/00359093/FS25_Fiat_480.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=359093&title=fs2025",
@@ -914,7 +914,7 @@
     {
         "nome": "Deutz-Fahr DX3 Series",
         "descricao": "Categoria da série Deutz-Fahr DX3: Tratores pequenos",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_DeutzFahrSeriesDX3",
         "url": "https://cdn26.giants-software.com/modHub/storage/00309040/FS25_DeutzFahrSeriesDX3.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=309040&title=fs2025",
@@ -1054,7 +1054,7 @@
     {
         "nome": "Volvo FH16 South-America",
         "descricao": "Categoria: Caminhões Preço base: 137.000 $ Velocidade máxima: 90 kp/h Características opcionais Motores: 420, 460, 500, 540, 750hp Chassi: 4x2, 6x2, 6x4, (8x2 e 8x4 com variação Tandem longo ou curto) Configurações de pneus independentes...",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Tratores",
         "arquivo": "FS25_VOLVO_FH16",
         "url": "https://cdn27.giants-software.com/modHub/storage/00321380/FS25_VOLVO_FH16.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=321380&title=fs2025",
@@ -1064,7 +1064,7 @@
     {
         "nome": "Scania NTG South America",
         "descricao": "Scania NTG América do Sul. Olá, agricultores!",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_SCANIA_NTG_SOUTH_AMERICA",
         "url": "https://cdn27.giants-software.com/modHub/storage/00314203/FS25_SCANIA_NTG_SOUTH_AMERICA.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=314203&title=fs2025",
@@ -1084,7 +1084,7 @@
     {
         "nome": "Lizard Torpedo",
         "descricao": "Lagarto Torpedo V8. Olá, esse caminhão é especial para mim e espero que seja para você também.",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_LIZARD_TORPEDO",
         "url": "https://cdn26.giants-software.com/modHub/storage/00339764/FS25_LIZARD_TORPEDO.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339764&title=fs2025",
@@ -1094,7 +1094,7 @@
     {
         "nome": "Valmet 685",
         "descricao": "O clássico Valmet 685, produzido no Brasil entre as décadas de 1980 e 1990, chega ao Farming Simulator 25 totalmente recriado com detalhes fiéis da máquina original.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_Valmet_685",
         "url": "https://cdn25.giants-software.com/modHub/storage/00343783/FS25_Valmet_685.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=343783&title=fs2025",
@@ -1124,7 +1124,7 @@
     {
         "nome": "Ursus C-355, C-355M, C-360",
         "descricao": "Os Ursus C-355, C-355M e C-360 são tratores agrícolas fabricados sob licença polaco-checoslovaca entre 1971 e 1994 na Ursus Mechanical Works.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_Ursus_C355_C360",
         "url": "https://cdn26.giants-software.com/modHub/storage/00365905/FS25_Ursus_C355_C360.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365905&title=fs2025",
@@ -1134,7 +1134,7 @@
     {
         "nome": "MasseyFerguson Series 200",
         "descricao": "O trator Massey Ferguson 200 (modelo 2010) é reconhecido por sua confiabilidade, eficiência e excelente desempenho no campo.",
-        "categoria": "Drivables - Medium Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_Massey_ferguson_200",
         "url": "https://cdn27.giants-software.com/modHub/storage/00312290/FS25_Massey_ferguson_200.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312290&title=fs2025",
@@ -1144,7 +1144,7 @@
     {
         "nome": "Mack R",
         "descricao": "Mack R Classic e Legendary Truck de 1966 com muita força e resistência para fazer todos os tipos de trabalho.",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_Mack_R",
         "url": "https://cdn26.giants-software.com/modHub/storage/00314885/FS25_Mack_R.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=314885&title=fs2025",
@@ -1444,7 +1444,7 @@
     {
         "nome": "FarmCon24 - Fendt Pack",
         "descricao": "Conteúdo: Tratores pequenos Fendt 380 GTA Turbo: Potência: 95 cv Peso: 9.920 libras",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_fendtFarmConPack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00308470/FS25_fendtFarmConPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=308470&title=fs2025",
@@ -1474,7 +1474,7 @@
     {
         "nome": "John Deere 2x40/2X50 Series",
         "descricao": "Este pacote John Deere 2X50 contém o JD 2040, 2140, 2250 e 2850; 30 km/h e 40 km/h.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_johnDeere2X50series",
         "url": "https://cdn26.giants-software.com/modHub/storage/00366656/FS25_johnDeere2X50series.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366656&title=fs2025",
@@ -1484,7 +1484,7 @@
     {
         "nome": "John Deere 7810",
         "descricao": "Categoria: Tratores Médios",
-        "categoria": "Drivables - Medium Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_johnDeereSeries7810",
         "url": "https://cdn26.giants-software.com/modHub/storage/00302230/FS25_johnDeereSeries7810.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=302230&title=fs2025",
@@ -1494,7 +1494,7 @@
     {
         "nome": "Volvo FH16 Box Truck",
         "descricao": "Caminhão baú Volvo FH16; X = Abrir portas traseiras U = Selecionar lado da cortina Z = Abrir lado selecionado - Opções de motor - Opções de proteção frontal - Várias opções de design - Opções de cores principais - Opções de cores da grade -...",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_fh16BoxTruck",
         "url": "https://cdn26.giants-software.com/modHub/storage/00339399/FS25_fh16BoxTruck.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339399&title=fs2025",
@@ -1514,7 +1514,7 @@
     {
         "nome": "Rumbler Pack",
         "descricao": "Low Rumbler:",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Caminhões",
         "arquivo": "FS25_lowRumbler",
         "url": "https://cdn27.giants-software.com/modHub/storage/00320726/FS25_lowRumbler.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=320726&title=fs2025",
@@ -1524,7 +1524,7 @@
     {
         "nome": "Mack Pinnacle 6x4",
         "descricao": "Categoria: Caminhões",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_mackPinnacle",
         "url": "https://cdn27.giants-software.com/modHub/storage/00316540/FS25_mackPinnacle.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=316540&title=fs2025",
@@ -1544,7 +1544,7 @@
     {
         "nome": "Massey Ferguson Series 8S",
         "descricao": "Categoria: Tratores médios",
-        "categoria": "Drivables - Medium Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_masseyFergusonSeries8S",
         "url": "https://cdn25.giants-software.com/modHub/storage/00312232/FS25_masseyFergusonSeries8S.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312232&title=fs2025",
@@ -1604,7 +1604,7 @@
     {
         "nome": "Pinnacle 6x4 Pack",
         "descricao": "Pacote Pináculo 6x4; - Opções de cabine - Opções de cores principais - Opções de cores de aro - Opção de fixador traseiro - Opções de versão (seguintes) Versão de grãos; - Opção de mesa - Opção de tampa - Opções de cores para dumper - Opções de...",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_pinnacle6x4Pack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00316721/FS25_pinnacle6x4Pack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=316721&title=fs2025",
@@ -1644,7 +1644,7 @@
     {
         "nome": "International Series 200 Service Pickup",
         "descricao": "International Series 200 convertida em uma picape de serviço com oficina móvel e capacidade de reabastecimento.",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_series200_service",
         "url": "https://cdn25.giants-software.com/modHub/storage/00368805/FS25_series200_service.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368805&title=fs2025",
@@ -1744,7 +1744,7 @@
     {
         "nome": "Lizard 4100",
         "descricao": "Clássico brasileiro, o Lizard 4100 é um icônico trator de pequeno porte, que ainda atua em diversas lavouras e fazendas pelo país.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_lizard4100",
         "url": "https://cdn27.giants-software.com/modHub/storage/00323694/FS25_lizard4100.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=323694&title=fs2025",
@@ -1754,7 +1754,7 @@
     {
         "nome": "Scania T11X",
         "descricao": "Scania T112 Um caminhão estilo sul-americano, mas com algumas opções para se assemelhar ao estilo de outros países.",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_SCANIA_T11X",
         "url": "https://cdn25.giants-software.com/modHub/storage/00354882/FS25_SCANIA_T11X.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=354882&title=fs2025",
@@ -1764,7 +1764,7 @@
     {
         "nome": "Scania RJL",
         "descricao": "Scania RJLR Um caminhão estilo sul-americano, mas com algumas opções para se assemelhar ao estilo de outros países.",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_SCANIA_RJL",
         "url": "https://cdn27.giants-software.com/modHub/storage/00339712/FS25_SCANIA_RJL.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339712&title=fs2025",
@@ -1774,7 +1774,7 @@
     {
         "nome": "Chevrolet Silverado 6500",
         "descricao": "O Silverado 6500 atende às diversas atividades de transporte em sua fazenda, com suas opções de personalização você pode deixá-lo do jeito que mais gosta",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_Chevrolet_Silverado_6500",
         "url": "https://cdn25.giants-software.com/modHub/storage/00331826/FS25_Chevrolet_Silverado_6500.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331826&title=fs2025",
@@ -1784,7 +1784,7 @@
     {
         "nome": "Ford F1000 1998",
         "descricao": "O F-1000 atravessou gerações e ainda está vivo e bem, fazendo o seu trabalho.",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_FordF1000_1998",
         "url": "https://cdn25.giants-software.com/modHub/storage/00357678/FS25_FordF1000_1998.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=357678&title=fs2025",
@@ -1834,7 +1834,7 @@
     {
         "nome": "Valtra A3F",
         "descricao": "A Série Valtra A3F é uma linha de tratores compactos e estreitos (pomar/vinha) desenvolvidos para culturas de alta densidade.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_ValtraA3F",
         "url": "https://cdn27.giants-software.com/modHub/storage/00370414/FS25_ValtraA3F.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=370414&title=fs2025",
@@ -1844,7 +1844,7 @@
     {
         "nome": "Valmet 1102-1103",
         "descricao": "Em 1979, o Valmet 1102 foi atualizado com um novo esquema de cores amarelo brilhante e um pequeno aumento na potência.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_valmet110X",
         "url": "https://cdn26.giants-software.com/modHub/storage/00342676/FS25_valmet110X.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=342676&title=fs2025",
@@ -1894,7 +1894,7 @@
     {
         "nome": "Valtra T Series CVT South America",
         "descricao": "A linha de tratores pesados ​​Valtra Série T é equipada com transmissão CVT, exclusiva da marca para a faixa de potência de fábrica de 195 a 250 CV.",
-        "categoria": "Drivables - Medium Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_Valtra_T_Series_CVT",
         "url": "https://cdn25.giants-software.com/modHub/storage/00328982/FS25_Valtra_T_Series_CVT.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=328982&title=fs2025",
@@ -2184,7 +2184,7 @@
     {
         "nome": "Lizard Silver 3500",
         "descricao": "Picape Lizard Silver 3500 com 6 carrocerias para realizar diversos trabalhos dentro e fora de sua fazenda.",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_Lizard_Silver_3500",
         "url": "https://cdn27.giants-software.com/modHub/storage/00323767/FS25_Lizard_Silver_3500.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=323767&title=fs2025",
@@ -2274,7 +2274,7 @@
     {
         "nome": "Land Rover Defender",
         "descricao": "Land Rover Defender Categoria: Carros e Bicicletas",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_defender",
         "url": "https://cdn26.giants-software.com/modHub/storage/00368467/FS25_defender.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368467&title=fs2025",
@@ -2294,7 +2294,7 @@
     {
         "nome": "Lizard Mountain Bike",
         "descricao": "Vamos explorar todos os lugares com a incrível bicicleta feita para todos os terrenos, chamar seus amigos para uma aventura extrema nas montanhas ou criar trilhas em um campo da sua fazenda.",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_Lizard_MountainBike",
         "url": "https://cdn26.giants-software.com/modHub/storage/00313833/FS25_Lizard_MountainBike.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=313833&title=fs2025",
@@ -2334,7 +2334,7 @@
     {
         "nome": "Massey Ferguson 4700 / 5700 Series",
         "descricao": "Massey Ferguson Série 4700 e 5700 Trator robusto e eficiente, ideal para diversas tarefas agrícolas, oferecendo potência, durabilidade, versatilidade e agilidade operacional.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_MF_4700_5700_Series",
         "url": "https://cdn27.giants-software.com/modHub/storage/00336861/FS25_MF_4700_5700_Series.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=336861&title=fs2025",
@@ -2344,7 +2344,7 @@
     {
         "nome": "Massey Ferguson 100 Series",
         "descricao": "-MF 165, 175, 185, 168, 178, 188 e versões Multi-Power -MF 100 2WD Informações: -Hp: 58 - 85 -Preço base: 18000 $ -MF 100 4WD Informações: -Hp: 58 - 85 -Preço base: 24000 $ -Configuração da luz frontal -Configuração da roda -Configuração de pesos...",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_MasseyFerguson100",
         "url": "https://cdn27.giants-software.com/modHub/storage/00364062/FS25_MasseyFerguson100.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=364062&title=fs2025",
@@ -2354,7 +2354,7 @@
     {
         "nome": "Massey Ferguson 3670",
         "descricao": "Categoria: Dirigíveis / Tratores Médios",
-        "categoria": "Drivables - Medium Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_Massey_Ferguson_3670",
         "url": "https://cdn27.giants-software.com/modHub/storage/00329646/FS25_Massey_Ferguson_3670.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=329646&title=fs2025",
@@ -2374,7 +2374,7 @@
     {
         "nome": "Scythe",
         "descricao": "Esta é uma foice velha. Antes da invenção de grandes máquinas e cortadores, as foices eram usadas para cortar grama.",
-        "categoria": "Drivables - Miscellaneous",
+        "categoria": "Outros",
         "arquivo": "FS25_Scythe",
         "url": "https://cdn26.giants-software.com/modHub/storage/00304943/FS25_Scythe.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=304943&title=fs2025",
@@ -2384,7 +2384,7 @@
     {
         "nome": "John Deere 4020, 4010, 4000",
         "descricao": "Categoria: Tratores Pequenos Preço Base: $ 25.000 Potência: 80-101 HP Máx.",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_JohnDeere4020",
         "url": "https://cdn26.giants-software.com/modHub/storage/00318678/FS25_JohnDeere4020.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=318678&title=fs2025",
@@ -2424,7 +2424,7 @@
     {
         "nome": "Lizard G2",
         "descricao": "Lizard G2",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_LizardG2",
         "url": "https://cdn26.giants-software.com/modHub/storage/00338924/FS25_LizardG2.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=338924&title=fs2025",
@@ -2444,7 +2444,7 @@
     {
         "nome": "Mercedes-Benz Actros 20 Series South-America",
         "descricao": "Categoria: Caminhões Preço base: 117.000 $ Velocidade máxima: 90 kp/h Recursos opcionais Motores: 450, 480hp Configurações independentes de pneus (dianteiro e traseiro) Peças aerodinâmicas Design do aro Design do cubo da roda Design do parafuso...",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_MB_Actros20Series",
         "url": "https://cdn27.giants-software.com/modHub/storage/00339598/FS25_MB_Actros20Series.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339598&title=fs2025",
@@ -2794,7 +2794,7 @@
     {
         "nome": "Unitrac Pack",
         "descricao": "Lindner Unitrac 122 LDrive Category: Miscellaneous",
-        "categoria": "Drivables - Miscellaneous",
+        "categoria": "Tratores",
         "arquivo": "FS25_unitracPack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00369228/FS25_unitracPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369228&title=fs2025",
@@ -2834,7 +2834,7 @@
     {
         "nome": "John Deere 40 Series",
         "descricao": "Tratores médios de 1978 a 1982. Versões dos EUA e da UE Faixa de 'tratores pequenos' 2WD Versão 4040 2WDB",
-        "categoria": "Drivables - Medium Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_John_Deere_40_Series",
         "url": "https://cdn25.giants-software.com/modHub/storage/00334178/FS25_John_Deere_40_Series.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=334178&title=fs2025",
@@ -2844,7 +2844,7 @@
     {
         "nome": "John Deere AO And AR",
         "descricao": "Especificações John Deere AO e AR: Preço base: $ 8.500 Potência: 26 hp Velocidade máxima: 15 km / h Mod recomendado: Trailed Lifter",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_JohnDeereAO_And_AR",
         "url": "https://cdn26.giants-software.com/modHub/storage/00335992/FS25_JohnDeereAO_And_AR.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=335992&title=fs2025",
@@ -2854,7 +2854,7 @@
     {
         "nome": "International Farmall M",
         "descricao": "Especificações Farmall M: Preço base: 15.000 $ Potência: 35-51 hp Velocidade máxima: 25 km / h Especificações Farmall MV: Preço base: 12.000 $ Potência: 25-47 hp Velocidade máxima: 25 km / h - Configuração da roda - Configuração do motor -...",
-        "categoria": "Drivables - Small Tractors",
+        "categoria": "Tratores",
         "arquivo": "FS25_Farmall_M",
         "url": "https://cdn26.giants-software.com/modHub/storage/00363686/FS25_Farmall_M.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=363686&title=fs2025",
@@ -2984,7 +2984,7 @@
     {
         "nome": "Volvo FH 16 Pack",
         "descricao": "Pacote Volvo FH16 Volvo FH16 - Categoria: Caminhões",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_Volvo_FH_Pack",
         "url": "https://cdn25.giants-software.com/modHub/storage/00322097/FS25_Volvo_FH_Pack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322097&title=fs2025",
@@ -2994,7 +2994,7 @@
     {
         "nome": "Volvo FH16 Tanker",
         "descricao": "Caminhão-tanque Volvo FH16 Caminhão-tanque com capacidade para transportar leite, leite de búfala, água, fertilizante líquido e herbicida Categoria: Caminhões",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_VolvoFH16Tanker",
         "url": "https://cdn26.giants-software.com/modHub/storage/00308367/FS25_VolvoFH16Tanker.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=308367&title=fs2025",
@@ -3004,7 +3004,7 @@
     {
         "nome": "Volvo FH16 Tipper",
         "descricao": "Caminhão basculante Volvo FH16 Categoria: Caminhões",
-        "categoria": "Drivables - Trucks",
+        "categoria": "Caminhões",
         "arquivo": "FS25_VolvoFH16Tipper",
         "url": "https://cdn26.giants-software.com/modHub/storage/00322795/FS25_VolvoFH16Tipper.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322795&title=fs2025",
@@ -3164,7 +3164,7 @@
     {
         "nome": "Lizard F-150",
         "descricao": "Categoria: Carros",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_Lizard_F150",
         "url": "https://cdn26.giants-software.com/modHub/storage/00359342/FS25_Lizard_F150.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=359342&title=fs2025",
@@ -3174,7 +3174,7 @@
     {
         "nome": "Lizard Silver 2500",
         "descricao": "Com o Silver 2500, você pode se movimentar rapidamente pela fazenda e utilizá-lo nas tarefas diárias, aproveitando suas funções opcionais e personalizações visuais para atender às suas necessidades.",
-        "categoria": "Dirigíveis - Carros e Motos",
+        "categoria": "Carros",
         "arquivo": "FS25_Lizard_Silver_2500",
         "url": "https://cdn27.giants-software.com/modHub/storage/00342864/FS25_Lizard_Silver_2500.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=342864&title=fs2025",
