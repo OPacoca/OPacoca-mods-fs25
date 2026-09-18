@@ -716,7 +716,7 @@
     {
         "nome": "Lizard HL Trailer",
         "descricao": "Lizard HL Trailer / HL trailer Wood Pode ser utilizado para transporte de grãos, paletes ou animais.",
-        "categoria": "Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_LizardHL_trailer",
         "url": "https://cdn27.giants-software.com/modHub/storage/00308051/FS25_LizardHL_trailer.zip",
         "fonte": "modhub",
@@ -954,7 +954,7 @@
     {
         "nome": "Chicken Transport Trailer Pack",
         "descricao": "Este mod adiciona configuração para transporte de galinhas para alguns reboques: FARMTECH DPW 1800 Categoria: Reboques planos Preço de configuração: $ 9 600 Capacidade: 384 peças FARMTECH DDK 2400 Categoria: Configuração de reboques",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_ChickenTrailersPack",
         "url": "https://cdn26.giants-software.com/modHub/storage/00331850/FS25_ChickenTrailersPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331850&title=fs2025",
@@ -964,7 +964,7 @@
     {
         "nome": "Cattle Trailer",
         "descricao": "O Trailer de Gado é um antigo trailer de gado feito por você mesmo.",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_lizardCattleTrailer",
         "url": "https://cdn25.giants-software.com/modHub/storage/00305463/FS25_lizardCattleTrailer.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305463&title=fs2025",
@@ -994,7 +994,7 @@
     {
         "nome": "Randon Bulk Semi-Trailer",
         "descricao": "Conjunto Semirreboque Randon Preço Base: $85.000 Categorias: Reboques / Semirreboques Configurações: Transporte de Fardos / Capacidade 28.000 / Capacidade 62.000 m³ (tampas podem ser abertas para transporte de fardos em qualquer opção de...",
-        "categoria": "Trailers - Semi Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_SemiReboqueRandon",
         "url": "https://cdn26.giants-software.com/modHub/storage/00329815/FS25_SemiReboqueRandon.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=329815&title=fs2025",
@@ -1004,7 +1004,7 @@
     {
         "nome": "Randon Bulk Roadtrain",
         "descricao": "Conjunto de Reboques Randon Roadtrain Preço Base: $ 18.000 / $ 70.000 / $ 88.000 ou $ 158.000 Categorias: Reboques / Semirreboques e Configurações Diversas: Transporte de Fardos / Capacidade 22.000 / Capacidade 48.000 (as tampas podem ser abertas...",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_RodotremRandon",
         "url": "https://cdn26.giants-software.com/modHub/storage/00325227/FS25_RodotremRandon.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=325227&title=fs2025",
@@ -1074,7 +1074,7 @@
     {
         "nome": "Randon Bulk Carrier LS",
         "descricao": "Reboques Randon Graneleiro LS Graineiros inspirados no estilo sul-americano, ideais para transporte rodoviário de grãos.",
-        "categoria": "Trailers - Semi Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_Randon_BulkCarrierLS",
         "url": "https://cdn25.giants-software.com/modHub/storage/00337676/FS25_Randon_BulkCarrierLS.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=337676&title=fs2025",
@@ -1104,7 +1104,7 @@
     {
         "nome": "Lizard 6T",
         "descricao": "Reboque utilizado por pequenos agricultores, composto por um reboque padrão e um reboque de parafuso.",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_Lizard_6t",
         "url": "https://cdn25.giants-software.com/modHub/storage/00323447/FS25_Lizard_6t.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=323447&title=fs2025",
@@ -1164,7 +1164,7 @@
     {
         "nome": "Lizard Underbelly Trailer",
         "descricao": "O trailer Lizard Underbelly é um trailer de despejo inferior avançado, com a opção de design de banheira dupla ou única e direção ativa opcional para manter o trailer atrás do veículo puxador.",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_Lizard_Underbelly",
         "url": "https://cdn27.giants-software.com/modHub/storage/00329510/FS25_Lizard_Underbelly.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=329510&title=fs2025",
@@ -1174,7 +1174,7 @@
     {
         "nome": "Lizard Bazuca 15000",
         "descricao": "Reboque de grãos conhecido como bazuca 15.000, um modelo mais antigo, porém robusto e muito útil em sua fazenda.",
-        "categoria": "Trailers - Auger Wagons",
+        "categoria": "Reboques",
         "arquivo": "FS25_Lizard_Bazuca_15000",
         "url": "https://cdn25.giants-software.com/modHub/storage/00321446/FS25_Lizard_Bazuca_15000.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=321446&title=fs2025",
@@ -1214,7 +1214,7 @@
     {
         "nome": "Randon Low Loader Movable Neck",
         "descricao": "A linha de carretas rebaixadas com pescoço móvel da Randon é conhecida pela praticidade e pela utilização no transporte de máquinas sobre esteiras ou que não conseguem subir rampas íngremes.",
-        "categoria": "Trailers - Low Loaders",
+        "categoria": "Reboques",
         "arquivo": "FS25_Randon_LowLoader",
         "url": "https://cdn25.giants-software.com/modHub/storage/00343690/FS25_Randon_LowLoader.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=343690&title=fs2025",
@@ -1364,7 +1364,7 @@
     {
         "nome": "Wilson DWH500 43FT Hopper Bottom",
         "descricao": "Wilson DWH500 Pacesetter 43' Hopper Semirreboque de grãos inferiores: Comprimento: 43 pés Largura: 96 pol Altura da parede lateral: 66 pol Distância ao solo: 25 pol Categoria: Semirreboques Preço base: $ 38.900 Capacidade: 40.700-176.200...",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_Wilson_DWH500_Trailer",
         "url": "https://cdn25.giants-software.com/modHub/storage/00337446/FS25_Wilson_DWH500_Trailer.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=337446&title=fs2025",
@@ -1394,7 +1394,7 @@
     {
         "nome": "Agro Trailers Pack",
         "descricao": "Um pack de vários reboques para semi-tratores \"Agro\" como o Heizotruck, perfeitos para utilização no campo.",
-        "categoria": "Package",
+        "categoria": "Reboques",
         "arquivo": "FS25_agroTrailersPack",
         "url": "https://cdn25.giants-software.com/modHub/storage/00336936/FS25_agroTrailersPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=336936&title=fs2025",
@@ -1424,7 +1424,7 @@
     {
         "nome": "Small Car Trailer",
         "descricao": "Trailer de carro pequeno para paletes e pequenas ferramentas",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_carTrailerSmall",
         "url": "https://cdn27.giants-software.com/modHub/storage/00346091/FS25_carTrailerSmall.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=346091&title=fs2025",
@@ -1634,7 +1634,7 @@
     {
         "nome": "Self-built Trailer",
         "descricao": "Trailer autoconstruído com múltiplas opções de configuração.",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_self_built_trailer",
         "url": "https://cdn26.giants-software.com/modHub/storage/00362071/FS25_self_built_trailer.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=362071&title=fs2025",
@@ -1664,7 +1664,7 @@
     {
         "nome": "Small Trailers Pack",
         "descricao": "Pequenos reboques para transporte de materiais a granel, animais e paletes.",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_small_trailers_pack",
         "url": "https://cdn25.giants-software.com/modHub/storage/00365400/FS25_small_trailers_pack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365400&title=fs2025",
@@ -1694,7 +1694,7 @@
     {
         "nome": "Joskin Tanker 3500",
         "descricao": "- Capacidade: 3.500 L.",
-        "categoria": "Trailers - Trailers",
+        "categoria": "Reboques",
         "arquivo": "FS25_joskin_tanker3500",
         "url": "https://cdn27.giants-software.com/modHub/storage/00321968/FS25_joskin_tanker3500.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=321968&title=fs2025",
@@ -2864,7 +2864,7 @@
     {
         "nome": "Grazmec Silo Pack",
         "descricao": "Grazmec Silo Pack Grazmec EMB SB500 Categoria: Vagões sem-fim",
-        "categoria": "Trailers - Auger Wagons",
+        "categoria": "Reboques",
         "arquivo": "FS25_GrazmecSiloPack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00373214/FS25_GrazmecSiloPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=373214&title=fs2025",
