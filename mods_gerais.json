@@ -77,7 +77,7 @@
     {
         "nome": "Brazilian Old Houses Pack",
         "descricao": "Pack de casas rurais antigas típicas do Sul do Brasil",
-        "categoria": "Placeable - Farmhouses",
+        "categoria": "Construcao",
         "arquivo": "FS25_BrazilianOldHousesPack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00364655/FS25_BrazilianOldHousesPack.zip"
     },
@@ -146,7 +146,7 @@
     {
         "nome": "Orchards And Greenhouses",
         "descricao": "Extenso pacote de pontos de produção posicionáveis ​​e outros posicionáveis ​​e componentes relacionados, todos trabalhando juntos.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_orchardsAndGreenhouses_crossplay",
         "url": "https://cdn25.giants-software.com/modHub/storage/00346995/FS25_orchardsAndGreenhouses_crossplay.zip",
         "fonte": "modhub",
@@ -155,7 +155,7 @@
     {
         "nome": "Cow Barn XL",
         "descricao": "Cow Barn XL",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_CowBarnXL",
         "url": "https://cdn25.giants-software.com/modHub/storage/00309003/FS25_CowBarnXL.zip",
         "fonte": "modhub",
@@ -184,7 +184,7 @@
     {
         "nome": "Gas Station BR",
         "descricao": "Posto de gasolina estilo brasileiro. Posto de gasolina 1:",
-        "categoria": "Placeable - Diesel Tanks",
+        "categoria": "Construcao",
         "arquivo": "FS25_GasStationBR",
         "url": "https://cdn26.giants-software.com/modHub/storage/00306784/FS25_GasStationBR.zip",
         "fonte": "modhub",
@@ -193,7 +193,7 @@
     {
         "nome": "BR Precast Concrete Shed",
         "descricao": "O Armazém Pré-fabricado de Concreto BR é uma estrutura típica brasileira; possui design simples e oferece boa proteção para máquinas e equipamentos.",
-        "categoria": "Placeable - Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_BR_Precast_Concrete_Shed",
         "url": "https://cdn25.giants-software.com/modHub/storage/00368974/FS25_BR_Precast_Concrete_Shed.zip",
         "fonte": "modhub",
@@ -202,7 +202,7 @@
     {
         "nome": "Farm Fences Pack Br",
         "descricao": "Um pacote de cercas para decorar sua fazenda com um estilo mais rústico.",
-        "categoria": "Placeable - Fences",
+        "categoria": "Construcao",
         "arquivo": "FS25_Farm_Fances_Pack_Br",
         "url": "https://cdn26.giants-software.com/modHub/storage/00353602/FS25_Farm_Fances_Pack_Br.zip",
         "fonte": "modhub",
@@ -220,7 +220,7 @@
     {
         "nome": "Southern Brazil Shed",
         "descricao": "Galpão Sul do Brasil Um típico galpão do Sul do Brasil, de estilo rústico e robusto, ideal para guardar seus maquinários.",
-        "categoria": "Placeable - Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_Southern_Brazil_shed",
         "url": "https://cdn26.giants-software.com/modHub/storage/00333986/FS25_Southern_Brazil_shed.zip",
         "fonte": "modhub",
@@ -229,7 +229,7 @@
     {
         "nome": "Brazilian Cow Corral",
         "descricao": "“O Curral Brasileiro é um celeiro aberto onde você pode criar seus animais livremente, mantendo assim uma boa produção de leite.",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Brazilian_cow_corral",
         "url": "https://cdn27.giants-software.com/modHub/storage/00336544/FS25_Brazilian_cow_corral.zip",
         "fonte": "modhub",
@@ -238,7 +238,7 @@
     {
         "nome": "Brazilian Cow Pen With Loader",
         "descricao": "Curral de gado típico brasileiro, com rampa de carregamento, cercado para vacas com pilha de esterco personalizado - Categoria: currais para animais",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Brazilian_Cow_Pen_With_Loader",
         "url": "https://cdn25.giants-software.com/modHub/storage/00354929/FS25_Brazilian_Cow_Pen_With_Loader.zip",
         "fonte": "modhub",
@@ -247,7 +247,7 @@
     {
         "nome": "South Brazil Silos Package",
         "descricao": "Pacote Silos Sul do Brasil Silos de armazenamento e secagem de grãos típicos da região Sul do Brasil.",
-        "categoria": "Placeable - Grain silos",
+        "categoria": "Construcao",
         "arquivo": "FS25_South_Brazil_Silos_Package",
         "url": "https://cdn25.giants-software.com/modHub/storage/00308009/FS25_South_Brazil_Silos_Package.zip",
         "fonte": "modhub",
@@ -256,7 +256,7 @@
     {
         "nome": "Brazilian Pigsty",
         "descricao": "Um pack com dois modelos de pocilgas, com opção de instalação de pocilgas sem cercas, permitindo a criação livre dos animais no campo - Custo: 14000$ - Manutenção: 25$/dia",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_pigBarn_BR",
         "url": "https://cdn25.giants-software.com/modHub/storage/00323413/FS25_pigBarn_BR.zip",
         "fonte": "modhub",
@@ -274,7 +274,7 @@
     {
         "nome": "Old Brazilian Shed",
         "descricao": "Um antigo galpão para sua pequena fazenda. Acomoda seu maquinário ou insumos.",
-        "categoria": "Placeable - Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_OldBrazilianShed",
         "url": "https://cdn26.giants-software.com/modHub/storage/00305072/FS25_OldBrazilianShed.zip",
         "fonte": "modhub",
@@ -725,7 +725,7 @@
     {
         "nome": "Automatic Water For Animals And Greenhouses",
         "descricao": "Não se preocupe mais com água! O progresso chegou e agora existem canos de água na sua fazenda.",
-        "categoria": "Placeable - Silo Extensions",
+        "categoria": "Construcao",
         "arquivo": "FS25_AutomaticWater_Animals_Greenhouses",
         "url": "https://cdn27.giants-software.com/modHub/storage/00321344/FS25_AutomaticWater_Animals_Greenhouses.zip",
         "fonte": "modhub",
@@ -764,7 +764,7 @@
     {
         "nome": "Jacks Pack",
         "descricao": "Pacote de dois conectores estáticos funcionais. Funciona como posicionável, não pode movê-los, mas pode levantar veículos.",
-        "categoria": "Placeable - Miscellaneous",
+        "categoria": "Construcao",
         "arquivo": "FS25_JacksPack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00367406/FS25_JacksPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=367406&title=fs2025",
@@ -864,7 +864,7 @@
     {
         "nome": "Fertilizer And Herbicide Production And Sales Outlet",
         "descricao": "Transforme seu chorume/estrume em fertilizante sólido/líquido ou faça seu próprio herbicida.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_FertilizerProduction",
         "url": "https://cdn26.giants-software.com/modHub/storage/00322979/FS25_FertilizerProduction.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322979&title=fs2025",
@@ -874,7 +874,7 @@
     {
         "nome": "Small Production Points W/ Shed Option",
         "descricao": "Pacote de produção pequeno ciclos aumentados e telhado opcional Categoria: Ponto de produção",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_SmallProductionNoShed",
         "url": "https://cdn26.giants-software.com/modHub/storage/00312537/FS25_SmallProductionNoShed.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312537&title=fs2025",
@@ -894,7 +894,7 @@
     {
         "nome": "Small Cement Factory",
         "descricao": "Esta é uma fábrica de cimento pequena e barata para ter no seu quintal, aqui você pode usar as pedras do campo para produzir blocos de cimento, tábuas para telhados e sacos de cimento em sua casa.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_SmallCementFactory",
         "url": "https://cdn25.giants-software.com/modHub/storage/00332792/FS25_SmallCementFactory.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=332792&title=fs2025",
@@ -904,7 +904,7 @@
     {
         "nome": "Cheese Factory Small",
         "descricao": "Fábrica de queijos Transforme o leite fresco de suas vacas em queijo de alta qualidade e maximize os lucros de sua fazenda.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcaos",
         "arquivo": "FS25_Factory_Cheese_Small",
         "url": "https://cdn25.giants-software.com/modHub/storage/00368311/FS25_Factory_Cheese_Small.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=368311&title=fs2025",
@@ -924,7 +924,7 @@
     {
         "nome": "Wood Cow Barn",
         "descricao": "Um antigo celeiro convertido em estábulo com capacidade para 35 vacas Preço 15.000 $",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_CowWoodBarn",
         "url": "https://cdn26.giants-software.com/modHub/storage/00333478/FS25_CowWoodBarn.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=333478&title=fs2025",
@@ -934,7 +934,7 @@
     {
         "nome": "Liquid Manure Tank",
         "descricao": "Tanque de polpa drive-through com extensão Tanque de polpa Categoria: Silo",
-        "categoria": "Placeable - Storages",
+        "categoria": "Construcao",
         "arquivo": "FS25_liquidTank",
         "url": "https://cdn26.giants-software.com/modHub/storage/00348804/FS25_liquidTank.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=348804&title=fs2025",
@@ -984,7 +984,7 @@
     {
         "nome": "Bridge Pack",
         "descricao": "Uma variedade de pontes para finalmente preencher aquela lacuna que você não conseguia encontrar.",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_BridgePack",
         "url": "https://cdn26.giants-software.com/modHub/storage/00311622/FS25_BridgePack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311622&title=fs2025",
@@ -1024,7 +1024,7 @@
     {
         "nome": "Agricultural Inputs",
         "descricao": "Cansado de ir constantemente à loja para comprar materiais de plantio?",
-        "categoria": "Placeable - Containers",
+        "categoria": "Construcao",
         "arquivo": "FS25_Agricultural_Inputs",
         "url": "https://cdn26.giants-software.com/modHub/storage/00339954/FS25_Agricultural_Inputs.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339954&title=fs2025",
@@ -1114,7 +1114,7 @@
     {
         "nome": "Universal Large Greenhouse",
         "descricao": "Categoria: Estufas",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_UniversalLargeGreenhouse",
         "url": "https://cdn26.giants-software.com/modHub/storage/00331633/FS25_UniversalLargeGreenhouse.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331633&title=fs2025",
@@ -1194,7 +1194,7 @@
     {
         "nome": "Protein Products Factory",
         "descricao": "Categoria: Produção Posicionável",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_PureCrop",
         "url": "https://cdn26.giants-software.com/modHub/storage/00370787/FS25_PureCrop.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=370787&title=fs2025",
@@ -1204,7 +1204,7 @@
     {
         "nome": "RSM Container",
         "descricao": "Capacidade do Container RSM: 50.000 litros",
-        "categoria": "Placeable - Containers",
+        "categoria": "Construcao",
         "arquivo": "FS25_RSMContainer",
         "url": "https://cdn27.giants-software.com/modHub/storage/00307199/FS25_RSMContainer.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=307199&title=fs2025",
@@ -1244,7 +1244,7 @@
     {
         "nome": "Shed Cow Barn",
         "descricao": "Celeiro de vacas.",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_ShedCowBarn",
         "url": "https://cdn27.giants-software.com/modHub/storage/00304601/FS25_ShedCowBarn.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=304601&title=fs2025",
@@ -1264,7 +1264,7 @@
     {
         "nome": "Silos AS Pack",
         "descricao": "- Configurações: Seleção de cores - Opção para ocultar o sem-fim e soprador de grãos AS 10 Categoria: Colocável - Silos",
-        "categoria": "Placeable - Grain silos",
+        "categoria": "Construcao",
         "arquivo": "FS25_SilosAS",
         "url": "https://cdn25.giants-software.com/modHub/storage/00311662/FS25_SilosAS.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311662&title=fs2025",
@@ -1274,7 +1274,7 @@
     {
         "nome": "BR Small Garden",
         "descricao": "BR Horta Pequena: a produção é superior à estufa padrão e o custo diário de manutenção é menor, mas requer água, fertilizante, esterco e sementes.",
-        "categoria": "Placeable - Garden Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_SmallGreenhouse",
         "url": "https://cdn25.giants-software.com/modHub/storage/00333389/FS25_SmallGreenhouse.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=333389&title=fs2025",
@@ -1294,7 +1294,7 @@
     {
         "nome": "Storage Rack",
         "descricao": "Categoria da loja: Silo Big Rack",
-        "categoria": "Placeable - Storages",
+        "categoria": "Construcao",
         "arquivo": "FS25_StorageRack",
         "url": "https://cdn25.giants-software.com/modHub/storage/00307429/FS25_StorageRack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=307429&title=fs2025",
@@ -1304,7 +1304,7 @@
     {
         "nome": "Time Saving Logistics",
         "descricao": "Cansado de coletar e distribuir grãos e paletes de e para todas as suas produções.",
-        "categoria": "Placeable - Storages",
+        "categoria": "Construcao",
         "arquivo": "FS25_TSLogistics",
         "url": "https://cdn25.giants-software.com/modHub/storage/00314055/FS25_TSLogistics.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=314055&title=fs2025",
@@ -1354,7 +1354,7 @@
     {
         "nome": "Weighing Station PGR",
         "descricao": "Uma estação de pesagem posicionável.",
-        "categoria": "Placeable - Miscellaneous",
+        "categoria": "Construcao",
         "arquivo": "FS25_WeightStationPGR",
         "url": "https://cdn26.giants-software.com/modHub/storage/00320874/FS25_WeightStationPGR.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=320874&title=fs2025",
@@ -1374,7 +1374,7 @@
     {
         "nome": "Windmill",
         "descricao": "Você pode produzir farinha e açúcar neste moinho de vento.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_WindMill",
         "url": "https://cdn25.giants-software.com/modHub/storage/00303268/FS25_WindMill.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303268&title=fs2025",
@@ -1414,7 +1414,7 @@
     {
         "nome": "Large Glass Greenhouse Package",
         "descricao": "Este pacote contém duas grandes estufas de vidro, que diferem apenas na orientação da saída do palete.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_bigGreenHouseGlass",
         "url": "https://cdn26.giants-software.com/modHub/storage/00344163/FS25_bigGreenHouseGlass.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=344163&title=fs2025",
@@ -1504,7 +1504,7 @@
     {
         "nome": "Waterfall Package",
         "descricao": "Adicione mais vida e realismo ao seu mapa com este pacote de cachoeiras decorativas.",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_kchoeira",
         "url": "https://cdn27.giants-software.com/modHub/storage/00329576/FS25_kchoeira.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=329576&title=fs2025",
@@ -1534,7 +1534,7 @@
     {
         "nome": "Maintenance",
         "descricao": "Baía de lavagem de carros com posto de gasolina e oficina.",
-        "categoria": "Placeable - Miscellaneous",
+        "categoria": "Construcao",
         "arquivo": "FS25_maintenance",
         "url": "https://cdn25.giants-software.com/modHub/storage/00355283/FS25_maintenance.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=355283&title=fs2025",
@@ -1564,7 +1564,7 @@
     {
         "nome": "Natural Water Rivers And Ponds Pack",
         "descricao": "Você quer um rio largo ou um riacho estreito ou um lindo lago no seu mapa?",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_naturalWaterRiversAndPondsPack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00305489/FS25_naturalWaterRiversAndPondsPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305489&title=fs2025",
@@ -1574,7 +1574,7 @@
     {
         "nome": "Old Wash Station",
         "descricao": "Estação de lavagem estática posicionável. - Características:",
-        "categoria": "Placeable - Miscellaneous",
+        "categoria": "Construcao",
         "arquivo": "FS25_oldWashStation",
         "url": "https://cdn25.giants-software.com/modHub/storage/00339806/FS25_oldWashStation.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339806&title=fs2025",
@@ -1584,7 +1584,7 @@
     {
         "nome": "Open Air Garden",
         "descricao": "São 5 hortas para cultivo de hortaliças e frutas ao ar livre.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_openAirGarden",
         "url": "https://cdn26.giants-software.com/modHub/storage/00311282/FS25_openAirGarden.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311282&title=fs2025",
@@ -1654,7 +1654,7 @@
     {
         "nome": "Small Gravity Fuel Tank",
         "descricao": "Este pequeno e muito simples posto de combustível utiliza um conceito antigo: o gasóleo entra por cima e sai por baixo.",
-        "categoria": "Placeable - Diesel Tanks",
+        "categoria": "Construcao",
         "arquivo": "FS25_smallGravityFuelTank",
         "url": "https://cdn26.giants-software.com/modHub/storage/00303715/FS25_smallGravityFuelTank.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=303715&title=fs2025",
@@ -1714,7 +1714,7 @@
     {
         "nome": "Placeable Gas Station",
         "descricao": "Posto de gasolina posicionável e placa de posto de gasolina Loja de posto de gasolina Categoria: Posicionável, Ferramentas",
-        "categoria": "Placeable - Diesel Tanks",
+        "categoria": "Construcao",
         "arquivo": "FS25_GasStation_Green",
         "url": "https://cdn27.giants-software.com/modHub/storage/00351173/FS25_GasStation_Green.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=351173&title=fs2025",
@@ -1794,7 +1794,7 @@
     {
         "nome": "Hydroponics Greenhouse",
         "descricao": "Esta é uma grande estufa hidropônica. Esta estufa tem uma taxa de produção duas vezes maior que a estufa básica.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_hydroGreenhouse",
         "url": "https://cdn27.giants-software.com/modHub/storage/00306035/FS25_hydroGreenhouse.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=306035&title=fs2025",
@@ -1864,7 +1864,7 @@
     {
         "nome": "Manure Lagoon",
         "descricao": "Lagoa de Estrume Esta lagoa permite armazenar grandes quantidades de esterco líquido perto de sua fazenda.",
-        "categoria": "Placeable - Storages",
+        "categoria": "Construcao",
         "arquivo": "FS25_ManureLagoon",
         "url": "https://cdn25.giants-software.com/modHub/storage/00317064/FS25_ManureLagoon.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=317064&title=fs2025",
@@ -1944,7 +1944,7 @@
     {
         "nome": "Small Farm Pack",
         "descricao": "Pacote de pequenas construções para criar sua fazenda.",
-        "categoria": "Placeable - Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_SmallFarmPack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00313573/FS25_SmallFarmPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=313573&title=fs2025",
@@ -1954,7 +1954,7 @@
     {
         "nome": "Sheep Small Barn",
         "descricao": "Celeiro Pequeno para Ovelhas",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_SheepBarnSmall",
         "url": "https://cdn27.giants-software.com/modHub/storage/00315072/FS25_SheepBarnSmall.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=315072&title=fs2025",
@@ -1974,7 +1974,7 @@
     {
         "nome": "Pack Of Greenhouses",
         "descricao": "O pacote de pequenas estufas contém um túnel de alumínio e uma pequena estufa feita de janelas.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_PackOfGreenhouses",
         "url": "https://cdn27.giants-software.com/modHub/storage/00310069/FS25_PackOfGreenhouses.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=310069&title=fs2025",
@@ -1984,7 +1984,7 @@
     {
         "nome": "Manure Pit",
         "descricao": "Poço de esterco polonês para uma pequena fazenda. -",
-        "categoria": "Placeable - Storages",
+        "categoria": "Construcao",
         "arquivo": "FS25_ManurePit",
         "url": "https://cdn26.giants-software.com/modHub/storage/00312243/FS25_ManurePit.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312243&title=fs2025",
@@ -1994,7 +1994,7 @@
     {
         "nome": "Garden Plot / Garden Plot Berries",
         "descricao": "Parcela de Jardim 1-3 Ciclos por hora: 64 Entrada: Sementes, Fertilizante (0,2 litros) | Água (2 litros) Saída: Tomate (3 litros) Ciclos por hora: 32 Entrada: Sementes, Adubo (0,2 litros) | Água (2 litros) Saída: Alface (3 litros) Ciclos por...",
-        "categoria": "Placeable - Garden Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_GardenPlotNW",
         "url": "https://cdn26.giants-software.com/modHub/storage/00348192/FS25_GardenPlotNW.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=348192&title=fs2025",
@@ -2004,7 +2004,7 @@
     {
         "nome": "Farm Fence Pack",
         "descricao": "Pacote de cercas agrícolas. - Categoria: Cercas",
-        "categoria": "Placeable - Fences",
+        "categoria": "Construcao",
         "arquivo": "FS25_farmFencePack",
         "url": "https://cdn26.giants-software.com/modHub/storage/00310158/FS25_farmFencePack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=310158&title=fs2025",
@@ -2014,7 +2014,7 @@
     {
         "nome": "Farm Entrance",
         "descricao": "Entrada da fazenda, que pode ser usada para fechar a entrada da sua fazenda e impedir a entrada de invasores e animais dos vizinhos.",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_Farm_Entrance",
         "url": "https://cdn25.giants-software.com/modHub/storage/00315170/FS25_Farm_Entrance.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=315170&title=fs2025",
@@ -2024,7 +2024,7 @@
     {
         "nome": "Cow Pasture With Milking Barn",
         "descricao": "BR Cow Pen com pasto personalizado, pilha de esterco personalizado e cercado para vacas -",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Cow_Pasture_With_Milking_Barn",
         "url": "https://cdn25.giants-software.com/modHub/storage/00328414/FS25_Cow_Pasture_With_Milking_Barn.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=328414&title=fs2025",
@@ -2034,7 +2034,7 @@
     {
         "nome": "Small Chicken Coop BR",
         "descricao": "Um pequeno galinheiro no estilo brasileiro, ideal para propriedades rurais compactas e jogadores que buscam mais realismo em suas fazendas.",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Chicken_small_br",
         "url": "https://cdn27.giants-software.com/modHub/storage/00356640/FS25_Chicken_small_br.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=356640&title=fs2025",
@@ -2044,7 +2044,7 @@
     {
         "nome": "Chicken Shelter",
         "descricao": "abrigo para galinhas Categoria: currais para animais",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Chicken_Shelter",
         "url": "https://cdn27.giants-software.com/modHub/storage/00332068/FS25_Chicken_Shelter.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=332068&title=fs2025",
@@ -2054,7 +2054,7 @@
     {
         "nome": "Banana Tree",
         "descricao": "Bananara é uma planta que pode ser usada para decorar sua fazenda ou sítio.",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_Banana_Tree",
         "url": "https://cdn26.giants-software.com/modHub/storage/00305021/FS25_Banana_Tree.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305021&title=fs2025",
@@ -2064,7 +2064,7 @@
     {
         "nome": "Barbed Wire Fence And Wooden Gate",
         "descricao": "Cerca de arame farpado e portão de madeira",
-        "categoria": "Placeable - Fences",
+        "categoria": "Construcao",
         "arquivo": "FS25_Barbed_Wire_Fence_And_Wooden_Gate",
         "url": "https://cdn25.giants-software.com/modHub/storage/00305483/FS25_Barbed_Wire_Fence_And_Wooden_Gate.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305483&title=fs2025",
@@ -2094,7 +2094,7 @@
     {
         "nome": "Kärcher K2.14",
         "descricao": "A Kaercher K2.14 é uma pequena lavadora que pode ser utilizada na limpeza de muitas ferramentas.",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_KaercherK2_14",
         "url": "https://cdn25.giants-software.com/modHub/storage/00305283/FS25_KaercherK2_14.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305283&title=fs2025",
@@ -2104,7 +2104,7 @@
     {
         "nome": "Old Shed With Workshop Trigger",
         "descricao": "Este é um galpão posicionável com gatilho de oficina funcional.",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_Workshop_with_Shed",
         "url": "https://cdn25.giants-software.com/modHub/storage/00311116/FS25_Workshop_with_Shed.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311116&title=fs2025",
@@ -2114,7 +2114,7 @@
     {
         "nome": "Old Weight Station",
         "descricao": "Antiga estação de pesagem. Categoria: Ferramentas",
-        "categoria": "Placeable - Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_OldWeightStation",
         "url": "https://cdn27.giants-software.com/modHub/storage/00312142/FS25_OldWeightStation.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=312142&title=fs2025",
@@ -2124,7 +2124,7 @@
     {
         "nome": "Long Weight Station",
         "descricao": "Esta é uma estação de pesagem com 2 pesos e pequeno escritório para operadores.",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_longWeightStation",
         "url": "https://cdn25.giants-software.com/modHub/storage/00369651/FS25_longWeightStation.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=369651&title=fs2025",
@@ -2134,7 +2134,7 @@
     {
         "nome": "Brick Garage",
         "descricao": "Garagem para suas máquinas. -",
-        "categoria": "Placeable - Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_BrickGarageWithShed",
         "url": "https://cdn26.giants-software.com/modHub/storage/00350610/FS25_BrickGarageWithShed.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=350610&title=fs2025",
@@ -2174,7 +2174,7 @@
     {
         "nome": "Hideout Tarps Pack",
         "descricao": "Este pacote fornece planos de ocultação para fechar lacunas visuais entre terrenos, paredes e edifícios.",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_ConcealmentTarpPack",
         "url": "https://cdn26.giants-software.com/modHub/storage/00366468/FS25_ConcealmentTarpPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366468&title=fs2025",
@@ -2234,7 +2234,7 @@
     {
         "nome": "Faucet And Water Tank Set",
         "descricao": "Torneira de jardim para encher utensílios com água sem custo de enchimento!",
-        "categoria": "Placeable - Water Tanks",
+        "categoria": "Construcao",
         "arquivo": "FS25_Water_Tap_Pack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00315965/FS25_Water_Tap_Pack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=315965&title=fs2025",
@@ -2244,7 +2244,7 @@
     {
         "nome": "Water Well",
         "descricao": "Este mod adiciona um poço ao jogo, do qual você pode tirar água.",
-        "categoria": "Placeable - Water Tanks",
+        "categoria": "Construcao",
         "arquivo": "FS25_Water_Well",
         "url": "https://cdn25.giants-software.com/modHub/storage/00335188/FS25_Water_Well.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=335188&title=fs2025",
@@ -2254,7 +2254,7 @@
     {
         "nome": "Large Water Tank",
         "descricao": "Categoria: Tanques de água",
-        "categoria": "Placeable - Water Tanks",
+        "categoria": "Construcao",
         "arquivo": "FS25_placeable_waterTank",
         "url": "https://cdn27.giants-software.com/modHub/storage/00322036/FS25_placeable_waterTank.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=322036&title=fs2025",
@@ -2304,7 +2304,7 @@
     {
         "nome": "Farm Gate Pack",
         "descricao": "Farm Gate Pack incluindo 8 estilos diferentes. Categoria: Decoração Manutenção diária: $ 10",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_FarmGatePack",
         "url": "https://cdn26.giants-software.com/modHub/storage/00333293/FS25_FarmGatePack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=333293&title=fs2025",
@@ -2314,7 +2314,7 @@
     {
         "nome": "Kaercher Pack",
         "descricao": "Lança Kaercher para lavagem dos veículos Além do mod básico do jogo, foi adicionada a possibilidade de usar em qualquer lugar Opção é mão direita ou mão esquerda Categoria: Diversos e Ferramentas Manuais",
-        "categoria": "Placeable - Miscellaneous",
+        "categoria": "Construcao",
         "arquivo": "FS25_kaercher_pack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00311651/FS25_kaercher_pack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311651&title=fs2025",
@@ -2324,7 +2324,7 @@
     {
         "nome": "Water Pump Station",
         "descricao": "Esta é uma estação de bombeamento de água para o seu quintal ou arredores.",
-        "categoria": "Placeable - Water Tanks",
+        "categoria": "Construcao",
         "arquivo": "FS25_Waterpumpingstation_crossplay",
         "url": "https://cdn27.giants-software.com/modHub/storage/00305203/FS25_Waterpumpingstation_crossplay.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305203&title=fs2025",
@@ -2394,7 +2394,7 @@
     {
         "nome": "Animals Placeables Pack",
         "descricao": "Coloca e cria animais em 22 pastagens! Categoria: currais para animais 1.",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Animals_Placeables_Pack",
         "url": "https://cdn26.giants-software.com/modHub/storage/00319798/FS25_Animals_Placeables_Pack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=319798&title=fs2025",
@@ -2414,7 +2414,7 @@
     {
         "nome": "Weighingstation",
         "descricao": "Esta é uma balança simples clássica para pesagem de veículos ou veículos carregados.",
-        "categoria": "Placeable - Decoration",
+        "categoria": "Construcao",
         "arquivo": "FS25_WeighingStation_crossplay",
         "url": "https://cdn26.giants-software.com/modHub/storage/00305329/FS25_WeighingStation_crossplay.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305329&title=fs2025",
@@ -2454,7 +2454,7 @@
     {
         "nome": "Brazilian Fences",
         "descricao": "As cercas brasileiras, ideais para cercar sua propriedade e mantê-la protegida de intrusos e animais, incluem 5 modelos de cercas e 4 portões.",
-        "categoria": "Placeable - Fences",
+        "categoria": "Construcao",
         "arquivo": "FS25_Brazilian_fences",
         "url": "https://cdn27.giants-software.com/modHub/storage/00334487/FS25_Brazilian_fences.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=334487&title=fs2025",
@@ -2464,7 +2464,7 @@
     {
         "nome": "Brazilian Fences",
         "descricao": "As cercas brasileiras, ideais para cercar sua propriedade e mantê-la protegida de intrusos e animais, incluem 1 modelo de cerca e 3 modelos de portão.",
-        "categoria": "Placeable - Fences",
+        "categoria": "Construcao",
         "arquivo": "FS25_frence_BR",
         "url": "https://cdn26.giants-software.com/modHub/storage/00365065/FS25_frence_BR.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=365065&title=fs2025",
@@ -2474,7 +2474,7 @@
     {
         "nome": "Small PigBarn BR",
         "descricao": "Um chiqueiro de estilo brasileiro, perfeito para dar um toque rural mais autêntico à sua fazenda!",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Pig_Barn_Small_BR",
         "url": "https://cdn26.giants-software.com/modHub/storage/00339423/FS25_Pig_Barn_Small_BR.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=339423&title=fs2025",
@@ -2944,7 +2944,7 @@
     {
         "nome": "Shed",
         "descricao": "Um galpão para sua fazenda. Ele acomoda seu maquinário.",
-        "categoria": "Placeable - Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_Barracao",
         "url": "https://cdn25.giants-software.com/modHub/storage/00311079/FS25_Barracao.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=311079&title=fs2025",
@@ -3014,7 +3014,7 @@
     {
         "nome": "Small Greenhouse BR",
         "descricao": "Estufa Pequena BR Esta Estufa Pequena BR é inspirada nas estufas utilizadas pelos pequenos produtores cearenses, principalmente na agricultura familiar.",
-        "categoria": "Placeable - Garden Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_Small_Greenhouse_BR",
         "url": "https://cdn26.giants-software.com/modHub/storage/00347900/FS25_Small_Greenhouse_BR.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=347900&title=fs2025",
@@ -3024,7 +3024,7 @@
     {
         "nome": "Small Fuel Tank",
         "descricao": "Posto de combustível para veículos. É muito útil em pequenas propriedades.",
-        "categoria": "Placeable - Diesel Tanks",
+        "categoria": "Construcao",
         "arquivo": "FS25_Small_fuel_tank",
         "url": "https://cdn26.giants-software.com/modHub/storage/00335189/FS25_Small_fuel_tank.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=335189&title=fs2025",
@@ -3034,7 +3034,7 @@
     {
         "nome": "Rice Fields SA",
         "descricao": "Arrozais SA São arrozais modificados com modelos de bombas baseados nos utilizados na região.",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_riceFieldsSA",
         "url": "https://cdn25.giants-software.com/modHub/storage/00328715/FS25_riceFieldsSA.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=328715&title=fs2025",
@@ -3044,7 +3044,7 @@
     {
         "nome": "Pack Sheds Br",
         "descricao": "Pack Sheds Br Típico galpão de madeira brasileiro com extensão de tijolo - galpão",
-        "categoria": "Placeable - Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_Pack_Sheds_Br",
         "url": "https://cdn27.giants-software.com/modHub/storage/00305014/FS25_Pack_Sheds_Br.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305014&title=fs2025",
@@ -3064,7 +3064,7 @@
     {
         "nome": "BR Metal Shed",
         "descricao": "BR Metal Shed Galpão em Aluzinco típico do Sul do Brasil.",
-        "categoria": "Placeable - Sheds",
+        "categoria": "Construcao",
         "arquivo": "FS25_BR_metal_shed",
         "url": "https://cdn26.giants-software.com/modHub/storage/00305297/FS25_BR_metal_shed.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=305297&title=fs2025",
@@ -3074,7 +3074,7 @@
     {
         "nome": "Brazilian Houses Pack",
         "descricao": "Pacote Casas Brasileiras Pacote de casas rurais tradicionais brasileiras, ideais para fazendas, vilas e mapas com temática brasileira.",
-        "categoria": "Placeable - Farmhouses",
+        "categoria": "Construcao",
         "arquivo": "FS25_BrazilianHousesPack",
         "url": "https://cdn26.giants-software.com/modHub/storage/00364654/FS25_BrazilianHousesPack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=364654&title=fs2025",
@@ -3084,7 +3084,7 @@
     {
         "nome": "Small Pasture For Cows, Horses, And Sheep",
         "descricao": "Pequeno pasto para vacas e cavalos, Um pasto ao estilo brasileiro, perfeito para dar um toque rural mais autêntico à sua fazenda!",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Cow_Pasture_BR",
         "url": "https://cdn27.giants-software.com/modHub/storage/00347169/FS25_Cow_Pasture_BR.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=347169&title=fs2025",
@@ -3094,7 +3094,7 @@
     {
         "nome": "ESC Houses Pack",
         "descricao": "Pacote com 4 modelos de fazenda. Inclui funcionalidade de guarda-roupa e local para dormir, além de decorar sua fazenda.",
-        "categoria": "Placeable - Farmhouses",
+        "categoria": "Construcao",
         "arquivo": "FS25_ESC_Houses_Pack",
         "url": "https://cdn27.giants-software.com/modHub/storage/00313446/FS25_ESC_Houses_Pack.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=313446&title=fs2025",
@@ -3104,7 +3104,7 @@
     {
         "nome": "ESC Sawmill",
         "descricao": "Serraria do mapa Estância São Carlos - Categoria: Prédios de Produção",
-        "categoria": "Placeable - Production Sites",
+        "categoria": "Construcao",
         "arquivo": "FS25_ESC_Sawmill",
         "url": "https://cdn25.giants-software.com/modHub/storage/00366648/FS25_ESC_Sawmill.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=366648&title=fs2025",
@@ -3114,7 +3114,7 @@
     {
         "nome": "Confining Cows",
         "descricao": "Confinamento de vacas",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Confining_Cows",
         "url": "https://cdn26.giants-software.com/modHub/storage/00315720/FS25_Confining_Cows.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=315720&title=fs2025",
@@ -3144,7 +3144,7 @@
     {
         "nome": "Grain Silo BR",
         "descricao": "Silos Sul do Brasil Silos de armazenamento e secagem de grãos típicos do Sul do Brasil.",
-        "categoria": "Placeable - Grain Silos",
+        "categoria": "Construcao",
         "arquivo": "FS25_Grain_Silo_BR",
         "url": "https://cdn26.giants-software.com/modHub/storage/00331546/FS25_Grain_Silo_BR.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=331546&title=fs2025",
@@ -3154,7 +3154,7 @@
     {
         "nome": "House With Pool",
         "descricao": "Uma casa com piscina para uma quinta moderna, com interior, churrasqueira e animações de piscina.",
-        "categoria": "Placeable - Farmhouses",
+        "categoria": "Construcao",
         "arquivo": "FS25_House_With_Pool",
         "url": "https://cdn25.giants-software.com/modHub/storage/00326864/FS25_House_With_Pool.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=326864&title=fs2025",
@@ -3204,7 +3204,7 @@
     {
         "nome": "Open Chicken Coop",
         "descricao": "Galinheiro, onde você pode criar frango. - Capacidade: 31 frangos - Custo:4500$ - Manutenção: 9$/dia",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Open_Chicken_Coop",
         "url": "https://cdn26.giants-software.com/modHub/storage/00308490/FS25_Open_Chicken_Coop.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=308490&title=fs2025",
@@ -3214,7 +3214,7 @@
     {
         "nome": "Two Post Lift",
         "descricao": "Categoria de levantamento: Ferramentas",
-        "categoria": "Placeable - Miscellaneous",
+        "categoria": "Construcao",
         "arquivo": "FS25_PostLift",
         "url": "https://cdn25.giants-software.com/modHub/storage/00372793/FS25_PostLift.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=372793&title=fs2025",
@@ -3224,7 +3224,7 @@
     {
         "nome": "Repair Workshop",
         "descricao": "Uma oficina compacta, perfeita para o dia a dia na fazenda, aliando funcionalidade e economia de espaço.",
-        "categoria": "Placeable - Miscellaneous",
+        "categoria": "Construcao",
         "arquivo": "FS25_Repair_Workshop",
         "url": "https://cdn26.giants-software.com/modHub/storage/00324728/FS25_Repair_Workshop.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=324728&title=fs2025",
@@ -3234,7 +3234,7 @@
     {
         "nome": "Repair Workshop Auto Parts",
         "descricao": "Este mod adiciona uma oficina mecânica e oficina de peças ao jogo.",
-        "categoria": "Placeable - Power Generators",
+        "categoria": "Construcao",
         "arquivo": "FS25_Repair_Workshop_auto_parts",
         "url": "https://cdn27.giants-software.com/modHub/storage/00348728/FS25_Repair_Workshop_auto_parts.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=348728&title=fs2025",
@@ -3244,7 +3244,7 @@
     {
         "nome": "Pigsty And Manure Heap",
         "descricao": "Grande chiqueiro",
-        "categoria": "Placeable - Animal Pens",
+        "categoria": "Construcao",
         "arquivo": "FS25_Pigsty_And_manureHeap",
         "url": "https://cdn25.giants-software.com/modHub/storage/00337210/FS25_Pigsty_And_manureHeap.zip",
         "url_pagina": "https://www.farming-simulator.com/mod.php?mod_id=337210&title=fs2025",
